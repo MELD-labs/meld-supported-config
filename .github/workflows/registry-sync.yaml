@@ -1,0 +1,80 @@
+name: Tracking subgraph
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - "**"
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+
+jobs:
+  start-runner:
+    timeout-minutes: 5 # normally it only takes 1-2 minutes
+    name: Start self-hosted EC2 runner
+    runs-on: meld-ubuntu-lts
+    permissions:
+      actions: write
+      contents: read
+    steps:
+      - id: meld-ci-installation-build
+        uses: getsentry/action-github-app-token@v1
+        with:
+          app_id: ${{ secrets.MELD_CI_APP_ID }}
+          private_key: ${{ secrets.MELD_CI_PRIVATE_KEY }}
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: eu-west-1
+
+      - name: Start EC2 runner
+        id: start-ec2-runner
+        uses: NextChapterSoftware/ec2-action-builder@v1.1
+        with:
+          github_token: ${{ steps.meld-ci-installation-build.outputs.token }}
+          aws_access_key_id: ${{ secrets.SERVICES_AWS_ACCESS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.SERVICES_AWS_SECRET_ACCESS_KEY }}
+          aws_region: "eu-west-1"
+          ec2_instance_type: t3.medium
+          ec2_ami_id: "ami-090fb22df3434fbca"
+          ec2_subnet_id: "subnet-036aa605e5716fb56"
+          ec2_security_group_id: "sg-094ff3d48399cc697"
+          ec2_instance_ttl: 40 # Optional (default is 60 minutes)
+          ec2_spot_instance_strategy: SpotOnly # Other options are: SpotOnly, BestEffort, MaxPerformance
+          ec2_instance_tags:
+            > # Required for IAM role resource permission scoping
+            [
+              {"Key": "Env", "Value": "prod"}
+            ]
+
+  registry-sync:
+    name: ${{ matrix.env }}
+    needs:
+      - start-runner
+    runs-on: ${{ github.run_id }}
+    environment: ${{ inputs.environment }}
+    strategy:
+      max-parallel: 9
+      matrix:
+        env:
+          - dev
+          - stage
+          - prod
+    env:
+      HOME: /root # Because spot runner instance currently doesn't set HOME
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.DEPLOY_ACCESS_KEY }}
+          aws-secret-access-key: ${{ secrets.DEPLOY_ACCESS_SECRET }}
+          aws-region: eu-west-1
+        continue-on-error: true
+
+      - name: test
+        run: ./test.sh
