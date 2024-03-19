@@ -14,11 +14,16 @@ jobs:
     name: emit-resync
     runs-on: meld-ubuntu-lts
     steps:
-      - name: Emit resync event
-        uses: peter-evans/repository-dispatch@v3
+      - id: meld-ci-installation-build
+        uses: getsentry/action-github-app-token@v3
         with:
           app_id: ${{ secrets.MELD_TOKEN_REGISTRY_SYNC_APP_ID }}
           private_key: ${{ secrets.MELD_TOKEN_REGISTRY_SYNC_PRIVATE_KEY }}
+
+      - name: Emit resync event
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ steps.meld-ci-installation-build.outputs.token }}
           repository: MELD-labs/token-registry-sync
           event-type: resync-event
-          client-payload: 'test'
+          client-payload: '{}'
