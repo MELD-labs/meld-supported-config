@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  tracking-registry-sync:
+    image: 342832411065.dkr.ecr.eu-west-1.amazonaws.com/tracking-registry-sync:${TAG:-latest}
+    environment:
+      TRACKING_API_URL: ${TRACKING_API_URL}
+      CONFIG_DIR: /networks
+      DRY_RUN: ${DRY_RUN}
+    configs:
+      - source: config-dir
+        target: /networks
+
+configs:
+  config-dir:
+    file: networks
