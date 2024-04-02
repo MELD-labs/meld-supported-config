@@ -4,7 +4,7 @@
 	"tokenAddress": "0x333000333f0fda91396a437a6c8ecef25aa43401",
 	"mldId": "meld-MELD-0x333000333f0fda91396a437a6c8ecef25aa43401",
 	"tokenIcon": "/static/tokens/MELD.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "meld",

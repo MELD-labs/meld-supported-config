@@ -4,7 +4,7 @@
 	"tokenAddress": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
 	"mldId": "ethereum-LUSD-0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
 	"tokenIcon": "/static/tokens/LUSD.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "liquity-usd",

@@ -4,7 +4,7 @@
 	"tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
 	"mldId": "ethereum-BTC-0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
 	"tokenIcon": "/static/tokens/WBTC.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 8,
 	"CMCslug": "wrapped-bitcoin",

@@ -4,7 +4,7 @@
 	"tokenAddress": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
 	"mldId": "cardano-CLAY-38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
 	"tokenIcon": "/static/tokens/CLAY.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "CNT",
 	"decimals": 4,
 	"CMCslug": "clay-nation",

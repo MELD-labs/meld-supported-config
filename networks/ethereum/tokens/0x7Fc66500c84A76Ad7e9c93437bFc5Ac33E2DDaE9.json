@@ -4,7 +4,7 @@
 	"tokenAddress": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
 	"mldId": "ethereum-AAVE-0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
 	"tokenIcon": "/static/tokens/AAVE.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "aave",

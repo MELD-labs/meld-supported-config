@@ -4,7 +4,7 @@
 	"tokenAddress": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
 	"mldId": "ethereum-BAND-0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
 	"tokenIcon": "/static/tokens/BAND.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "band-protocol",

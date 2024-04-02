@@ -4,7 +4,7 @@
 	"tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
 	"mldId": "ethereum-ETH-0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
 	"tokenIcon": "/static/tokens/wETH.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "weth",

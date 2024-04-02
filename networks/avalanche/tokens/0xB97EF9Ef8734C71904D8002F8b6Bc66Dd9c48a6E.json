@@ -4,7 +4,7 @@
 	"tokenAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 	"mldId": "avalanche-USDC-0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
 	"tokenIcon": "/static/tokens/USDC.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 6,
 	"CMCslug": "usd-coin",

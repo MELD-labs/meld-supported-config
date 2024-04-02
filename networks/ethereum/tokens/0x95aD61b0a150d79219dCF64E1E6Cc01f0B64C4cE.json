@@ -4,7 +4,7 @@
 	"tokenAddress": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
 	"mldId": "ethereum-SHIB-0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
 	"tokenIcon": "/static/tokens/SHIB.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "shiba-inu",

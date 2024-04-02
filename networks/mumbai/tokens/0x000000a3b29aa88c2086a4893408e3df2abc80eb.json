@@ -4,7 +4,7 @@
 	"tokenAddress": "0x000000a3b29aa88c2086a4893408e3df2abc80eb",
 	"mldId": "mumbai-tUSDC-0x000000a3b29aa88c2086a4893408e3df2abc80eb",
 	"tokenIcon": "/static/tokens/USDC.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 6,
 	"CMCslug": "usd-coin",

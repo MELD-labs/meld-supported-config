@@ -4,7 +4,7 @@
 	"tokenAddress": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
 	"mldId": "ethereum-BAT-0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
 	"tokenIcon": "/static/tokens/BAT.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "basic-attention-token",

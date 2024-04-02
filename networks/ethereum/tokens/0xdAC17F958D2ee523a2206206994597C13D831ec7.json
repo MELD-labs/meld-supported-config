@@ -4,7 +4,7 @@
 	"tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
 	"mldId": "ethereum-USDT-0xdAC17F958D2ee523a2206206994597C13D831ec7",
 	"tokenIcon": "/static/tokens/TETHER.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 6,
 	"CMCslug": "tether",

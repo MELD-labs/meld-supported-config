@@ -4,7 +4,7 @@
 	"tokenAddress": "placeholder eth kanazawa",
 	"mldId": "kanazawa-tETH-placeholder eth kanazawa",
 	"tokenIcon": "/static/tokens/ETH.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "native-evm",
 	"decimals": 18,
 	"CMCslug": "ethereum",

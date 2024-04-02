@@ -4,7 +4,7 @@
 	"tokenAddress": "0x555555bd99323dcd2673306f0211d6874cb7196d",
 	"mldId": "mumbai-tDOGE-0x555555bd99323dcd2673306f0211d6874cb7196d",
 	"tokenIcon": "/static/tokens/DOGE.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 8,
 	"CMCslug": "dogecoin",

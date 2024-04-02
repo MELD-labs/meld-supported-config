@@ -4,7 +4,7 @@
 	"tokenAddress": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
 	"mldId": "ethereum-SUSHI-0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
 	"tokenIcon": "/static/tokens/SUSHI.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "sushiswap",

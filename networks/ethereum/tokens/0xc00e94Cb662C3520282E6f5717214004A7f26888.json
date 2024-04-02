@@ -4,7 +4,7 @@
 	"tokenAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
 	"mldId": "ethereum-COMP-0xc00e94Cb662C3520282E6f5717214004A7f26888",
 	"tokenIcon": "/static/tokens/COMP.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "compound",

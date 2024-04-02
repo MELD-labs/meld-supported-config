@@ -4,7 +4,7 @@
 	"tokenAddress": "0ac9b826d245bad8d808b8a1edf678be496ae5f75b0ca6c102d1855f744d454c44",
 	"mldId": "cardano-preprod-tMELD-0ac9b826d245bad8d808b8a1edf678be496ae5f75b0ca6c102d1855f744d454c44",
 	"tokenIcon": "/static/tokens/MELD.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "CNT",
 	"decimals": 6,
 	"CMCslug": "meld",

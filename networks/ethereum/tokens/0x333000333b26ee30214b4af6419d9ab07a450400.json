@@ -4,7 +4,7 @@
 	"tokenAddress": "0x333000333b26ee30214b4af6419d9ab07a450400",
 	"mldId": "ethereum-MELD-0x333000333b26ee30214b4af6419d9ab07a450400",
 	"tokenIcon": "/static/tokens/MELD.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "meld",

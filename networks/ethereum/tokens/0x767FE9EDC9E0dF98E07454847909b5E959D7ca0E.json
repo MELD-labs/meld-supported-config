@@ -4,7 +4,7 @@
 	"tokenAddress": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
 	"mldId": "ethereum-ILV-0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
 	"tokenIcon": "/static/tokens/ILV.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "illuvium",

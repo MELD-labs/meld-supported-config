@@ -4,7 +4,7 @@
 	"tokenAddress": "0x22200029732c127b5F6ab8DFF17fd4aB56061F01",
 	"mldId": "kanazawa-tMELD-0x22200029732c127b5F6ab8DFF17fd4aB56061F01",
 	"tokenIcon": "/static/tokens/MELD.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "meld",

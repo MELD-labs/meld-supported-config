@@ -4,7 +4,7 @@
 	"tokenAddress": "lovelace",
 	"mldId": "cardano-preview-tADA-lovelace",
 	"tokenIcon": "/static/tokens/ADA.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "native-cardano",
 	"decimals": 6,
 	"CMCslug": "cardano",

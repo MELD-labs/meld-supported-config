@@ -4,7 +4,7 @@
 	"tokenAddress": "native",
 	"mldId": "kanazawa-tgMELD-native",
 	"tokenIcon": "/static/tokens/MELD.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "native-evm",
 	"decimals": 18,
 	"CMCslug": "meld",

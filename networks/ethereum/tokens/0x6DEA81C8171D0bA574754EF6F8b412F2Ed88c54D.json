@@ -4,7 +4,7 @@
 	"tokenAddress": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
 	"mldId": "ethereum-LQTY-0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
 	"tokenIcon": "/static/tokens/LQTY.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "liquity",

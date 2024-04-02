@@ -4,7 +4,7 @@
 	"tokenAddress": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374574d54",
 	"mldId": "cardano-preprod-tWMT-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374574d54",
 	"tokenIcon": "/static/tokens/WMT.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "CNT",
 	"decimals": 6,
 	"CMCslug": "world-mobile-token",

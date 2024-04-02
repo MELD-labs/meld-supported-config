@@ -4,7 +4,7 @@
 	"tokenAddress": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
 	"mldId": "avalanche-QI-0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
 	"tokenIcon": "/static/tokens/BENQI.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "benqi",

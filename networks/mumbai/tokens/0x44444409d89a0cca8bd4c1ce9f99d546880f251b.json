@@ -4,7 +4,7 @@
 	"tokenAddress": "0x44444409d89a0cca8bd4c1ce9f99d546880f251b",
 	"mldId": "mumbai-tDAI-0x44444409d89a0cca8bd4c1ce9f99d546880f251b",
 	"tokenIcon": "/static/tokens/DAI.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "multi-collateral-dai",

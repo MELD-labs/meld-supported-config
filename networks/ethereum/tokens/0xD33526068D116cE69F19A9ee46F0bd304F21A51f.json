@@ -4,7 +4,7 @@
 	"tokenAddress": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
 	"mldId": "ethereum-RPL-0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
 	"tokenIcon": "/static/tokens/RPL.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "rocket-pool",

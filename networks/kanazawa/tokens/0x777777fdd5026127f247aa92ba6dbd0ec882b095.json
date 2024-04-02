@@ -4,7 +4,7 @@
 	"tokenAddress": "0x777777fdd5026127f247aa92ba6dbd0ec882b095",
 	"mldId": "kanazawa-tJOE-0x777777fdd5026127f247aa92ba6dbd0ec882b095",
 	"tokenIcon": "/static/tokens/JOE.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "joe",

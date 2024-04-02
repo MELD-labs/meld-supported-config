@@ -4,7 +4,7 @@
 	"tokenAddress": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
 	"mldId": "cardano-C3-8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
 	"tokenIcon": "/static/tokens/C3.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "CNT",
 	"decimals": 6,
 	"CMCslug": "charli3",

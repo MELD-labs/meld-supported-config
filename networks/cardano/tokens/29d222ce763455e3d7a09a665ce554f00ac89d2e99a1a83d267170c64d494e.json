@@ -4,7 +4,7 @@
 	"tokenAddress": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
 	"mldId": "cardano-MIN-29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
 	"tokenIcon": "/static/tokens/MIN.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "CNT",
 	"decimals": 6,
 	"CMCslug": "minswap",

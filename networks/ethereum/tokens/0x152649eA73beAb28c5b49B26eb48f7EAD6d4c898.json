@@ -4,7 +4,7 @@
 	"tokenAddress": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
 	"mldId": "ethereum-CAKE-0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
 	"tokenIcon": "/static/tokens/CAKE.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "pancakeswap",

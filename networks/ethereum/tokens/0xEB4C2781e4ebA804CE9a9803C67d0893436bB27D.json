@@ -4,7 +4,7 @@
 	"tokenAddress": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
 	"mldId": "ethereum-BTC-0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
 	"tokenIcon": "/static/tokens/renBTC.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 8,
 	"CMCslug": "renbtc",

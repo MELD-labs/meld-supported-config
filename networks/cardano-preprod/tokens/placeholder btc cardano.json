@@ -4,7 +4,7 @@
 	"tokenAddress": "placeholder btc cardano",
 	"mldId": "cardano-preprod-tBTC-placeholder btc cardano",
 	"tokenIcon": "/static/tokens/BTC.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "native-cardano",
 	"decimals": 8,
 	"CMCslug": "bitcoin",

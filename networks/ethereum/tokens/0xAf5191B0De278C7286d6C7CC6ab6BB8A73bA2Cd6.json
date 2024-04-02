@@ -4,7 +4,7 @@
 	"tokenAddress": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
 	"mldId": "ethereum-STG-0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
 	"tokenIcon": "/static/tokens/STG.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "stargate-finance",

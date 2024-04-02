@@ -4,7 +4,7 @@
 	"tokenAddress": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
 	"mldId": "ethereum-CRO-0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
 	"tokenIcon": "/static/tokens/CRO.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 8,
 	"CMCslug": "cronos",

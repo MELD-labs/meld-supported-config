@@ -4,7 +4,7 @@
 	"tokenAddress": "0x666666fa5bec39bbd0be9158e51bc316428d0075",
 	"mldId": "kanazawa-tAVAX-0x666666fa5bec39bbd0be9158e51bc316428d0075",
 	"tokenIcon": "/static/tokens/AVAX.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "avalanche",

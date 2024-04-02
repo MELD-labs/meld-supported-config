@@ -4,7 +4,7 @@
 	"tokenAddress": "0x888888e101a2ab5bd860c37caaede275d15c8f83",
 	"mldId": "kanazawa-tGMX-0x888888e101a2ab5bd860c37caaede275d15c8f83",
 	"tokenIcon": "/static/tokens/GMX.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "gmx",

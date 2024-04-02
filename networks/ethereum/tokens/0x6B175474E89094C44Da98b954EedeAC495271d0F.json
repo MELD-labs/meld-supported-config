@@ -4,7 +4,7 @@
 	"tokenAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
 	"mldId": "ethereum-DAI-0x6B175474E89094C44Da98b954EedeAC495271d0F",
 	"tokenIcon": "/static/tokens/DAI.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "multi-collateral-dai",

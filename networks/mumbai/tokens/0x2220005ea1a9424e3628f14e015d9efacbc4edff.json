@@ -4,7 +4,7 @@
 	"tokenAddress": "0x2220005ea1a9424e3628f14e015d9efacbc4edff",
 	"mldId": "mumbai-tMELD-0x2220005ea1a9424e3628f14e015d9efacbc4edff",
 	"tokenIcon": "/static/tokens/MELD.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "meld",

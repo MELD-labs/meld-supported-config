@@ -4,7 +4,7 @@
 	"tokenAddress": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374484f534b59",
 	"mldId": "cardano-preview-tHOSKY-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374484f534b59",
 	"tokenIcon": "/static/tokens/Hosky.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "CNT",
 	"decimals": 0,
 	"CMCslug": "hosky-token",

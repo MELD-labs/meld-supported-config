@@ -4,7 +4,7 @@
 	"tokenAddress": "0x333333cf89d3fbbddf44423c7e9251463b866bcb",
 	"mldId": "kanazawa-tBTC-0x333333cf89d3fbbddf44423c7e9251463b866bcb",
 	"tokenIcon": "/static/tokens/BTC.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 8,
 	"CMCslug": "bitcoin",

@@ -4,7 +4,7 @@
 	"tokenAddress": "placeholder avax kanazawa",
 	"mldId": "kanazawa-tAVAX-placeholder avax kanazawa",
 	"tokenIcon": "/static/tokens/AVAX.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "native-evm",
 	"decimals": 18,
 	"CMCslug": "avalanche",

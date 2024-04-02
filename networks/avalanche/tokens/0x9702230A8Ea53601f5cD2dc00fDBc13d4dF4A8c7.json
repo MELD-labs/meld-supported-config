@@ -4,7 +4,7 @@
 	"tokenAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
 	"mldId": "avalanche-USDT-0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
 	"tokenIcon": "/static/tokens/TETHER.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 6,
 	"CMCslug": "tether",

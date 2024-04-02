@@ -4,7 +4,7 @@
 	"tokenAddress": "placeholder btc kanazawa",
 	"mldId": "kanazawa-tBTC-placeholder btc kanazawa",
 	"tokenIcon": "/static/tokens/BTC.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "native-evm",
 	"decimals": 8,
 	"CMCslug": "bitcoin",

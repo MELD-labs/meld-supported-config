@@ -4,7 +4,7 @@
 	"tokenAddress": "0x111111abd9aef0413c2c8792803c68c6cbaa1ba2",
 	"mldId": "kanazawa-tUSDT-0x111111abd9aef0413c2c8792803c68c6cbaa1ba2",
 	"tokenIcon": "/static/tokens/TETHER.svg",
-	"tokenColorTheme": null,
+	"tokenColorTheme": 16,
 	"tokenType": "ERC20",
 	"decimals": 6,
 	"CMCslug": "tether",
