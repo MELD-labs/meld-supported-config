@@ -13,4 +13,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Verify config data
-        run: docker compose up --quiet-pull --exit-code-from tracking-registry-validate --attach tracking-registry-validate
+        run: docker compose pull && docker compose up --quiet-pull --exit-code-from tracking-registry-validate --attach tracking-registry-validate
