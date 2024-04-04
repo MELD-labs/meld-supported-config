@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0xf08d704dd8345a79629e17602b17cb1e2e0405d7",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 3,
     "tokenIcon": "/static/tokens/COPI.svg",
     "tokenName": "Cornucopias",
     "tokenTicker": "COPI",

@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0x056e326f75bfe67b8fa049c538d08147ca441baf",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 1,
     "tokenIcon": "/static/tokens/wAVAX.svg",
     "tokenName": "Wrapped AVAX",
     "tokenTicker": "WAVAX",

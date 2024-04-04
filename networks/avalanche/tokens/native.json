@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "native",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 1,
     "tokenIcon": "/static/tokens/AVAX.svg",
     "tokenName": "Avalanche",
     "tokenTicker": "AVAX",

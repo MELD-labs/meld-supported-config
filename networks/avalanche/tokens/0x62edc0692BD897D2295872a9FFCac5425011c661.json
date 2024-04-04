@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0x62edc0692bd897d2295872a9ffcac5425011c661",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 14,
     "tokenIcon": "/static/tokens/GMX.svg",
     "tokenName": "GMX",
     "tokenTicker": "GMX",

@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 3,
     "tokenIcon": "/static/tokens/DAI.svg",
     "tokenName": "Dai Stablecoin",
     "tokenTicker": "DAI",

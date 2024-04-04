@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0x333000333b26ee30214b4af6419d9ab07a450400",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 1,
     "tokenIcon": "/static/tokens/MELD.svg",
     "tokenName": "Meld",
     "tokenTicker": "MELD",

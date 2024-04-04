@@ -15,9 +15,9 @@ jobs:
       - name: Verify config data on dev
         env:
           TRACKING_API_URL: https://tracking-api-dev.meldlabs.dev/v1
-        run: docker compose up --quiet-pull --exit-code-from tracking-registry-validate --attach tracking-registry-validate
+        run: docker compose pull && docker compose up --quiet-pull --exit-code-from tracking-registry-validate --attach tracking-registry-validate
       
       - name: Verify config data on prod
         env:
           TRACKING_API_URL: https://tracking-api.meld.com/v1
-        run: docker compose up --quiet-pull --exit-code-from tracking-registry-validate --attach tracking-registry-validate
+        run: docker compose pull && docker compose up --quiet-pull --exit-code-from tracking-registry-validate --attach tracking-registry-validate

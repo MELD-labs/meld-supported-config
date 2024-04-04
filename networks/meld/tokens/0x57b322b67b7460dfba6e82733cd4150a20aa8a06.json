@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0x57b322b67b7460dfba6e82733cd4150a20aa8a06",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 3,
     "tokenIcon": "/static/tokens/WBTC.svg",
     "tokenName": "Wrapped BTC",
     "tokenTicker": "WBTC",

@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 12,
     "tokenIcon": "/static/tokens/MATIC.svg",
     "tokenName": "Matic Token",
     "tokenTicker": "MATIC",

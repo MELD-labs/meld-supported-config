@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374574d54",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 15,
     "tokenIcon": "/static/tokens/WMT.svg",
     "tokenName": "tWMT",
     "tokenTicker": "tWMT",

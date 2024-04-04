@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "lovelace",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 10,
     "tokenIcon": "/static/tokens/ADA.svg",
     "tokenName": "Cardano",
     "tokenTicker": "ADA",

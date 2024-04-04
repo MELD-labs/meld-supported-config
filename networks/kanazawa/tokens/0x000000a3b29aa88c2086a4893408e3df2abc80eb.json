@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0x000000a3b29aa88c2086a4893408e3df2abc80eb",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 2,
     "tokenIcon": "/static/tokens/USDC.svg",
     "tokenName": "USD Coin",
     "tokenTicker": "tUSDC",

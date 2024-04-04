@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 3,
     "tokenIcon": "/static/tokens/renBTC.svg",
     "tokenName": "renBTC",
     "tokenTicker": "renBTC",

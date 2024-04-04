@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0xb149db8e034cc926619764c83b1e970d5e891d02",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 12,
     "tokenIcon": "/static/tokens/wMATIC.svg",
     "tokenName": "Wrapped Matic",
     "tokenTicker": "WMATIC",

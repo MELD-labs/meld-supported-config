@@ -9,7 +9,7 @@
     "orgName": null,
     "orgUrl": null,
     "tokenAddress": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
-    "tokenColorTheme": null,
+    "tokenColorTheme": 23,
     "tokenIcon": "/static/tokens/BUSD.svg",
     "tokenName": "BUSD Token",
     "tokenTicker": "BUSD",
