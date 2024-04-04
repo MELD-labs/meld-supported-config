@@ -1,0 +1,12 @@
+{
+  "name": "fuji",
+  "rpcServerUrl": "https://api.avax-test.network/ext/bc/C/rpc",
+  "evmChainId": 43113,
+  "defaultTokenSymbol": "AVAX",
+  "explorerUrl": "https://testnet.snowtrace.io",
+  "chainType": "EVM",
+  "lightIcon": "/static/networks/AvLight.svg",
+  "darkIcon": "/static/networks/AvDark.svg",
+  "decimals": 18,
+  "confirmationTime": 60
+}

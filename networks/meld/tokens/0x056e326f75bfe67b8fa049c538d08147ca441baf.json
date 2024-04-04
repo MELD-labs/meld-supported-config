@@ -1,0 +1,17 @@
+{
+    "CMCslug": "avalanche",
+    "decimals": 18,
+    "isBridged": false,
+    "isNative": false,
+    "isStableCoin": false,
+    "isWrapped": null,
+    "mldId": "meld-WAVAX-0x056e326f75bfe67b8fa049c538d08147ca441baf",
+    "orgName": null,
+    "orgUrl": null,
+    "tokenAddress": "0x056e326f75bfe67b8fa049c538d08147ca441baf",
+    "tokenColorTheme": null,
+    "tokenIcon": "/static/tokens/wAVAX.svg",
+    "tokenName": "Wrapped AVAX",
+    "tokenTicker": "WAVAX",
+    "tokenType": "ERC20"
+}

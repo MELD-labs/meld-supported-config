@@ -1,0 +1,17 @@
+{
+    "CMCslug": "cornucopias",
+    "decimals": 18,
+    "isBridged": false,
+    "isNative": false,
+    "isStableCoin": false,
+    "isWrapped": null,
+    "mldId": "meld-COPI-0xf08d704dd8345a79629e17602b17cb1e2e0405d7",
+    "orgName": null,
+    "orgUrl": null,
+    "tokenAddress": "0xf08d704dd8345a79629e17602b17cb1e2e0405d7",
+    "tokenColorTheme": null,
+    "tokenIcon": "/static/tokens/COPI.svg",
+    "tokenName": "Cornucopias",
+    "tokenTicker": "COPI",
+    "tokenType": "ERC20"
+}

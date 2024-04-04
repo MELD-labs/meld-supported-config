@@ -1,0 +1,17 @@
+{
+    "CMCslug": "usd-coin",
+    "decimals": 6,
+    "isBridged": false,
+    "isNative": false,
+    "isStableCoin": true,
+    "isWrapped": null,
+    "mldId": "meld-USDC-0x39379f18a44f22536e751b4da408bc9d1a0594da",
+    "orgName": null,
+    "orgUrl": null,
+    "tokenAddress": "0x39379f18a44f22536e751b4da408bc9d1a0594da",
+    "tokenColorTheme": null,
+    "tokenIcon": "/static/tokens/USDC.svg",
+    "tokenName": "USD Coin",
+    "tokenTicker": "USDC",
+    "tokenType": "ERC20"
+}

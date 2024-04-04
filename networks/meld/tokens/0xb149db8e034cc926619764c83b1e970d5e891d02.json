@@ -1,0 +1,17 @@
+{
+    "CMCslug": "polygon",
+    "decimals": 18,
+    "isBridged": false,
+    "isNative": false,
+    "isStableCoin": false,
+    "isWrapped": null,
+    "mldId": "meld-WMATIC-0xb149db8e034cc926619764c83b1e970d5e891d02",
+    "orgName": null,
+    "orgUrl": null,
+    "tokenAddress": "0xb149db8e034cc926619764c83b1e970d5e891d02",
+    "tokenColorTheme": null,
+    "tokenIcon": "/static/tokens/wMATIC.svg",
+    "tokenName": "Wrapped Matic",
+    "tokenTicker": "WMATIC",
+    "tokenType": "ERC20"
+}

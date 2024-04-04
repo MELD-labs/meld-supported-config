@@ -1,0 +1,17 @@
+{
+    "CMCslug": "avalanche",
+    "decimals": 18,
+    "isBridged": false,
+    "isNative": true,
+    "isStableCoin": false,
+    "isWrapped": null,
+    "mldId": "fuji-AVAX-native",
+    "orgName": null,
+    "orgUrl": null,
+    "tokenAddress": "native",
+    "tokenColorTheme": 1,
+    "tokenIcon": "/static/tokens/AVAX.svg",
+    "tokenName": "Avalanche",
+    "tokenTicker": "AVAX",
+    "tokenType": "native-evm"
+}

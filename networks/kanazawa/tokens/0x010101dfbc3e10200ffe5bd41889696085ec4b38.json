@@ -1,0 +1,17 @@
+{
+    "CMCslug": "cornucopias",
+    "decimals": 18,
+    "isBridged": false,
+    "isNative": false,
+    "isStableCoin": false,
+    "isWrapped": null,
+    "mldId": "kanazawa-tCOPI-0x010101dfbc3e10200ffe5bd41889696085ec4b38",
+    "orgName": null,
+    "orgUrl": null,
+    "tokenAddress": "0x010101dfbc3e10200ffe5bd41889696085ec4b38",
+    "tokenColorTheme": 3,
+    "tokenIcon": "/static/tokens/COPI.svg",
+    "tokenName": "Cornucopias",
+    "tokenTicker": "tCOPI",
+    "tokenType": "ERC20"
+}
