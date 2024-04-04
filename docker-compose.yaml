@@ -4,6 +4,7 @@ services:
   tracking-registry-validate:
     image: public.ecr.aws/z2l4u8l9/tracking-registry-validate:${TAG:-latest}
     environment:
+      TRACKING_API_URL: ${TRACKING_API_URL}
       CONFIG_DIR: /networks
     configs:
       - source: config-dir
