@@ -6,18 +6,21 @@ on:
 
 jobs:
   validate-registry:
-    name: validate-registry
+    name: Validate for ${{ matrix.environment }} environment
+    environment: ${{ matrix.environment }}
     runs-on: meld-ubuntu-lts
+    strategy:
+      max-parallel: 3
+      matrix:
+        environment:
+          - dev
+          - stage
+          - prod
+    env:
+      TRACKING_API_URL: ${{ vars.TRACKING_API_URL }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Verify config data on dev
-        env:
-          TRACKING_API_URL: https://tracking-api-dev.meldlabs.dev/v1
-        run: docker compose pull && docker compose up --quiet-pull --exit-code-from tracking-registry-validate --attach tracking-registry-validate
-      
-      - name: Verify config data on prod
-        env:
-          TRACKING_API_URL: https://tracking-api.meld.com/v1
-        run: docker compose pull && docker compose up --quiet-pull --exit-code-from tracking-registry-validate --attach tracking-registry-validate
+      - name: Verify config data
+        run: ./validate.sh
