@@ -1,0 +1,21 @@
+{
+  "tokenTicker": "TestNFT",
+  "tokenName": "TestNFT",
+  "tokenAddress": "0x31E679AA4B6Bd72d780e8b5831f99745a71B979e",
+  "tokenColorTheme": 2,
+  "tokenType": "ERC1155",
+  "collectionName": "TestNFT",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "TestNFT",
+  "authorAddress": "0xE8ad259824551818532A90501611E9fC4908d000",
+  "maxSupply": 0,
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 222000222,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "TestNFT",
+  "orgUrl": "https://example.com"
+}
