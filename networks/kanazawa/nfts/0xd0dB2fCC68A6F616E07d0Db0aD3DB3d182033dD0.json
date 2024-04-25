@@ -1,0 +1,21 @@
+{
+  "tokenTicker": "TE1155",
+  "tokenName": "TestERC1155",
+  "tokenAddress": "0xd0dB2fCC68A6F616E07d0Db0aD3DB3d182033dD0",
+  "tokenColorTheme": 3,
+  "tokenType": "ERC1155",
+  "collectionName": "TestERC1155",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "TestERC1155",
+  "authorAddress": "0xE8ad259824551818532A90501611E9fC4908d000",
+  "maxSupply": 0,
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 222000222,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "TestERC1155",
+  "orgUrl": "https://example.com"
+}
