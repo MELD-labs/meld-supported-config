@@ -1,0 +1,17 @@
+{
+    "CMCslug": "usd-coin",
+    "decimals": 18,
+    "isBridged": true,
+    "isNative": false,
+    "isStableCoin": true,
+    "isWrapped": false,
+    "mldId": "kanazawa-TE20-0x35f429f5a2deeafd09bf2e31347560512877dcef",
+    "orgName": "Meld Bridge",
+    "orgUrl": "https://meld.com",
+    "tokenAddress": "0x35F429F5a2DEeafD09bF2e31347560512877DcEf",
+    "tokenColorTheme": 2,
+    "tokenIcon": "/static/tokens/USDC.svg",
+    "tokenName": "TestERC20",
+    "tokenTicker": "TE20",
+    "tokenType": "ERC20"
+}
