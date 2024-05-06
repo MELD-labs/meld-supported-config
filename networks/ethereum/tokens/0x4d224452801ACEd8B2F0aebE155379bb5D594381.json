@@ -1,10 +1,6 @@
 {
     "CMCslug": "apecoin-ape",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-APE-0x4d224452801aced8b2f0aebe155379bb5d594381",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/APE.svg",
     "tokenName": "ApeCoin",
     "tokenTicker": "APE",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

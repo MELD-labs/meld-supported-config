@@ -1,10 +1,6 @@
 {
     "CMCslug": "usd-coin",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": true,
-    "isWrapped": false,
     "mldId": "fuji-TE20-0x31e679aa4b6bd72d780e8b5831f99745a71b979e",
     "orgName": "Meld Bridge",
     "orgUrl": "https://meld.com",
@@ -13,5 +9,8 @@
     "tokenIcon": "/static/tokens/USDC.svg",
     "tokenName": "TestERC20",
     "tokenTicker": "TE20",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": [
+        "stablecoin"
+    ]
 }

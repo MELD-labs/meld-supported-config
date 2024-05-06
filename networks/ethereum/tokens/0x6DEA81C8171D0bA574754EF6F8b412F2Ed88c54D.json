@@ -1,10 +1,6 @@
 {
     "CMCslug": "liquity",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-LQTY-0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/LQTY.svg",
     "tokenName": "LQTY",
     "tokenTicker": "LQTY",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

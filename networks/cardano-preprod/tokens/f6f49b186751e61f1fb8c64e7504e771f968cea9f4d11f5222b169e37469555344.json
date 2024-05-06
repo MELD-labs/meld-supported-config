@@ -1,10 +1,6 @@
 {
     "CMCslug": "indigo-protocol-iusd",
     "decimals": 6,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": true,
-    "isWrapped": null,
     "mldId": "preprod-tiUSD-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e37469555344",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,8 @@
     "tokenIcon": "/static/tokens/iUSD.svg",
     "tokenName": "tiUSD",
     "tokenTicker": "tiUSD",
-    "tokenType": "CNT"
+    "tokenType": "CNT",
+    "tags": [
+        "stablecoin"
+    ]
 }

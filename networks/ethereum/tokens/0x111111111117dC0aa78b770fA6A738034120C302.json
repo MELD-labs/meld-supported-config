@@ -1,10 +1,6 @@
 {
     "CMCslug": "1inch",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-1INCH-0x111111111117dc0aa78b770fa6a738034120c302",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/1INCH.svg",
     "tokenName": "1INCH Token",
     "tokenTicker": "1INCH",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

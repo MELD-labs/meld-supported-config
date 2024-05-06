@@ -1,10 +1,6 @@
 {
     "CMCslug": "hosky-token",
     "decimals": 0,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "preprod-tHOSKY-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374484f534b59",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/Hosky.svg",
     "tokenName": "tHOSKY",
     "tokenTicker": "tHOSKY",
-    "tokenType": "CNT"
+    "tokenType": "CNT",
+    "tags": []
 }

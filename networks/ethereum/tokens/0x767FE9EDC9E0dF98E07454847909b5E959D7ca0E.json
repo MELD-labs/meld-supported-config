@@ -1,10 +1,6 @@
 {
     "CMCslug": "illuvium",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-ILV-0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/ILV.svg",
     "tokenName": "Illuvium",
     "tokenTicker": "ILV",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

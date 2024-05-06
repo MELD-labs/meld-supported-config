@@ -1,10 +1,6 @@
 {
     "CMCslug": "multi-collateral-dai",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": true,
-    "isWrapped": null,
     "mldId": "avalanche-DAI.e-0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,8 @@
     "tokenIcon": "/static/tokens/DAI.svg",
     "tokenName": "Dai Stablecoin",
     "tokenTicker": "DAI.e",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": [
+        "stablecoin"
+    ]
 }

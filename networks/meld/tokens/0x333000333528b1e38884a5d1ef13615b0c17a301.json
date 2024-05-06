@@ -1,10 +1,6 @@
 {
     "CMCslug": "meld",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "meld-MELD-0x333000333528b1e38884a5d1ef13615b0c17a301",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/MELD.svg",
     "tokenName": "Meld",
     "tokenTicker": "MELD",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

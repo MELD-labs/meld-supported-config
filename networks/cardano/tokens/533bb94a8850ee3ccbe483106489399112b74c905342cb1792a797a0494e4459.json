@@ -1,10 +1,6 @@
 {
     "CMCslug": "indigo-protocol",
     "decimals": 6,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "cardano-INDY-533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/INDY.svg",
     "tokenName": "Indigo Protocol",
     "tokenTicker": "INDY",
-    "tokenType": "CNT"
+    "tokenType": "CNT",
+    "tags": []
 }

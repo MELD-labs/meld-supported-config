@@ -1,10 +1,6 @@
 {
     "CMCslug": "enjin-coin",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-ENJ-0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/ENJ.svg",
     "tokenName": "Enjin Coin",
     "tokenTicker": "ENJ",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

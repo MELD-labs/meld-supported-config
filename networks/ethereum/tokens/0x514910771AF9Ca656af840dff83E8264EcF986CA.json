@@ -1,10 +1,6 @@
 {
     "CMCslug": "chainlink",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-LINK-0x514910771af9ca656af840dff83e8264ecf986ca",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/LINK.svg",
     "tokenName": "ChainLink Token",
     "tokenTicker": "LINK",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

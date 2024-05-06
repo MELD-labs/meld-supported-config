@@ -1,10 +1,6 @@
 {
     "CMCslug": "uniswap",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-UNI-0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/UNI.svg",
     "tokenName": "Uniswap",
     "tokenTicker": "UNI",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

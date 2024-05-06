@@ -1,10 +1,6 @@
 {
     "CMCslug": "rocket-pool",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-RPL-0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/RPL.svg",
     "tokenName": "Rocket Pool Protocol",
     "tokenTicker": "RPL",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

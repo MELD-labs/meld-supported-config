@@ -1,10 +1,6 @@
 {
     "CMCslug": "yearn-finance",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-YFI-0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/YFI.svg",
     "tokenName": "yearn.finance",
     "tokenTicker": "YFI",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

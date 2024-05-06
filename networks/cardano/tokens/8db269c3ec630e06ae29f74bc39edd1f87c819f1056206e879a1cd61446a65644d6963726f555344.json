@@ -1,10 +1,6 @@
 {
     "CMCslug": "djed",
     "decimals": 6,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": true,
-    "isWrapped": null,
     "mldId": "cardano-DJED-8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,8 @@
     "tokenIcon": "/static/tokens/DJED.svg",
     "tokenName": "Djed",
     "tokenTicker": "DJED",
-    "tokenType": "CNT"
+    "tokenType": "CNT",
+    "tags": [
+        "stablecoin"
+    ]
 }

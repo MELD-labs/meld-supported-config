@@ -1,10 +1,6 @@
 {
     "CMCslug": "ethereum",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "meld-WETH-0x016b9d5b551ce6734c710c52cf21ff40a4adff58",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/wETH.svg",
     "tokenName": "Wrapped Ether",
     "tokenTicker": "WETH",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

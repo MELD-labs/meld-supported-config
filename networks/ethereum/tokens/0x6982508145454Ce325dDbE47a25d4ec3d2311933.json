@@ -1,10 +1,6 @@
 {
     "CMCslug": "pepe",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-PEPE-0x6982508145454ce325ddbe47a25d4ec3d2311933",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/PEPE.svg",
     "tokenName": "Pepe",
     "tokenTicker": "PEPE",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

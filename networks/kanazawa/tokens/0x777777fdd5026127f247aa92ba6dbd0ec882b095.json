@@ -1,10 +1,6 @@
 {
     "CMCslug": "joe",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "kanazawa-tJOE-0x777777fdd5026127f247aa92ba6dbd0ec882b095",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/JOE.svg",
     "tokenName": "JOE",
     "tokenTicker": "tJOE",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

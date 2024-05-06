@@ -1,10 +1,6 @@
 {
     "CMCslug": "superfarm",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-SUPER-0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/SUPER.svg",
     "tokenName": "SuperFarm",
     "tokenTicker": "SUPER",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

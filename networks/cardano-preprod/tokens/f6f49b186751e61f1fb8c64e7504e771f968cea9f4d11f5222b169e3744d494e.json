@@ -1,10 +1,6 @@
 {
     "CMCslug": "minswap",
     "decimals": 6,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "preprod-tMIN-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e3744d494e",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/MIN.svg",
     "tokenName": "tMIN",
     "tokenTicker": "tMIN",
-    "tokenType": "CNT"
+    "tokenType": "CNT",
+    "tags": []
 }

@@ -1,10 +1,6 @@
 {
     "CMCslug": "ethereum",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "avalanche-WETH.e-0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/wETH.svg",
     "tokenName": "Wrapped Ether",
     "tokenTicker": "WETH.e",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

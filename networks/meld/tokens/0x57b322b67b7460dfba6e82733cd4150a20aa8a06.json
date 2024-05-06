@@ -1,10 +1,6 @@
 {
     "CMCslug": "bitcoin",
     "decimals": 8,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "meld-WBTC-0x57b322b67b7460dfba6e82733cd4150a20aa8a06",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/WBTC.svg",
     "tokenName": "Wrapped BTC",
     "tokenTicker": "WBTC",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

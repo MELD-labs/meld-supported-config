@@ -1,10 +1,6 @@
 {
     "CMCslug": "singularitynet",
     "decimals": 8,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "cardano-AGIX-f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/AGIX.svg",
     "tokenName": "SingularityNET",
     "tokenTicker": "AGIX",
-    "tokenType": "CNT"
+    "tokenType": "CNT",
+    "tags": []
 }

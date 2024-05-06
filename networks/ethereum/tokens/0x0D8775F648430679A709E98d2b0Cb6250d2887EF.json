@@ -1,10 +1,6 @@
 {
     "CMCslug": "basic-attention-token",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "ethereum-BAT-0x0d8775f648430679a709e98d2b0cb6250d2887ef",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/BAT.svg",
     "tokenName": "Basic Attention Token",
     "tokenTicker": "BAT",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

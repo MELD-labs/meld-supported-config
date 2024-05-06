@@ -1,10 +1,6 @@
 {
     "CMCslug": "avalanche",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "kanazawa-twAVAX-0x666666fa5bec39bbd0be9158e51bc316428d0075",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/AVAX.svg",
     "tokenName": "Wrapped Avalanche",
     "tokenTicker": "twAVAX",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

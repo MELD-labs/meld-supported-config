@@ -1,10 +1,6 @@
 {
     "CMCslug": "tether",
     "decimals": 6,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": true,
-    "isWrapped": null,
     "mldId": "avalanche-USDt-0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,8 @@
     "tokenIcon": "/static/tokens/USDT.svg",
     "tokenName": "TetherToken",
     "tokenTicker": "USDt",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": [
+        "stablecoin"
+    ]
 }

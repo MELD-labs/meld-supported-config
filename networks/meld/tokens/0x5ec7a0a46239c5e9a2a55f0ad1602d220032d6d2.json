@@ -1,10 +1,6 @@
 {
     "CMCslug": "chainport",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "meld-PORTX-0x5ec7a0a46239c5e9a2a55f0ad1602d220032d6d2",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/PORTX.svg",
     "tokenName": "ChainPort Token",
     "tokenTicker": "PORTX",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": []
 }

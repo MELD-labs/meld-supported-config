@@ -1,10 +1,6 @@
 {
     "CMCslug": "sundaeswap",
     "decimals": 6,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": false,
-    "isWrapped": null,
     "mldId": "cardano-SUNDAE-9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,6 @@
     "tokenIcon": "/static/tokens/SUNDAE.svg",
     "tokenName": "SundaeSwap",
     "tokenTicker": "SUNDAE",
-    "tokenType": "CNT"
+    "tokenType": "CNT",
+    "tags": []
 }

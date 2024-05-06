@@ -1,10 +1,6 @@
 {
     "CMCslug": "usd-coin",
     "decimals": 6,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": true,
-    "isWrapped": null,
     "mldId": "avalanche-USDC-0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,8 @@
     "tokenIcon": "/static/tokens/USDC.svg",
     "tokenName": "USD Coin",
     "tokenTicker": "USDC",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": [
+        "stablecoin"
+    ]
 }

@@ -1,10 +1,6 @@
 {
     "CMCslug": "liquity-usd",
     "decimals": 18,
-    "isBridged": false,
-    "isNative": false,
-    "isStableCoin": true,
-    "isWrapped": null,
     "mldId": "ethereum-LUSD-0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
     "orgName": null,
     "orgUrl": null,
@@ -13,5 +9,8 @@
     "tokenIcon": "/static/tokens/LUSD.svg",
     "tokenName": "LUSD Stablecoin",
     "tokenTicker": "LUSD",
-    "tokenType": "ERC20"
+    "tokenType": "ERC20",
+    "tags": [
+        "stablecoin"
+    ]
 }
