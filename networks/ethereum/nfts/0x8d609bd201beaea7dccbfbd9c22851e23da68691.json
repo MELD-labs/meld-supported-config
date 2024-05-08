@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "DARCEL",
+  "tokenName": "Dour Darcels",
+  "tokenAddress": "0x8d609bd201beaea7dccbfbd9c22851e23da68691",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Dour Darcels",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-DARCEL-0x8d609bd201beaea7dccbfbd9c22851e23da68691",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

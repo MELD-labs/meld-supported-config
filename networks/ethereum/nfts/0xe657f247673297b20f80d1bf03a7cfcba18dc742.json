@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "PEPE",
+  "tokenName": "wwwpepe",
+  "tokenAddress": "0xe657f247673297b20f80d1bf03a7cfcba18dc742",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "wwwpepe",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-PEPE-0xe657f247673297b20f80d1bf03a7cfcba18dc742",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

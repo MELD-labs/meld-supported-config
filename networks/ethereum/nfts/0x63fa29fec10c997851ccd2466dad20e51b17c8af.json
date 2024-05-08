@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "FF",
+  "tokenName": "Fishy Fam",
+  "tokenAddress": "0x63fa29fec10c997851ccd2466dad20e51b17c8af",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Fishy Fam",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-FF-0x63fa29fec10c997851ccd2466dad20e51b17c8af",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

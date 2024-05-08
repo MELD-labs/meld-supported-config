@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "DIDA",
+  "tokenName": "DigiDaigaku",
+  "tokenAddress": "0xd1258db6ac08eb0e625b75b371c023da478e94a9",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "DigiDaigaku",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-DIDA-0xd1258db6ac08eb0e625b75b371c023da478e94a9",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

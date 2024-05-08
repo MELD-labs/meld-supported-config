@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "CREATURE",
+  "tokenName": "Creature World",
+  "tokenAddress": "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Creature World",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-CREATURE-0xc92ceddfb8dd984a89fb494c376f9a48b999aafc",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

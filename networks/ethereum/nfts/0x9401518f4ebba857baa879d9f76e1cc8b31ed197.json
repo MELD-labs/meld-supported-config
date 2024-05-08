@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "GHOST",
+  "tokenName": "Weirdo Ghost Gang",
+  "tokenAddress": "0x9401518f4ebba857baa879d9f76e1cc8b31ed197",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Weirdo Ghost Gang",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-GHOST-0x9401518f4ebba857baa879d9f76e1cc8b31ed197",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

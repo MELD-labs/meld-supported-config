@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "TOADZ",
+  "tokenName": "Cryptoadz",
+  "tokenAddress": "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Cryptoadz",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-TOADZ-0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

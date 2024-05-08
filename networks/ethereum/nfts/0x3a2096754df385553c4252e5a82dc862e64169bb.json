@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "PSSSSD",
+  "tokenName": "The Possessed",
+  "tokenAddress": "0x3a2096754df385553c4252e5a82dc862e64169bb",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "The Possessed",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-PSSSSD-0x3a2096754df385553c4252e5a82dc862e64169bb",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

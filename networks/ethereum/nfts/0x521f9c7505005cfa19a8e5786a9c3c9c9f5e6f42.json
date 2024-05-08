@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "WIZARDS",
+  "tokenName": "ForgottenRunesWizardsCult",
+  "tokenAddress": "0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "ForgottenRunesWizardsCult",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-WIZARDS-0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

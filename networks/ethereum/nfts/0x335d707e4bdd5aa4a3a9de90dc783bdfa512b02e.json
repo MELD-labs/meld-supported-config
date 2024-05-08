@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "COLOR",
+  "tokenName": "wwwcolor",
+  "tokenAddress": "0x335d707e4bdd5aa4a3a9de90dc783bdfa512b02e",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "wwwcolor",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-COLOR-0x335d707e4bdd5aa4a3a9de90dc783bdfa512b02e",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

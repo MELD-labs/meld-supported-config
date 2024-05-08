@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MPH",
+  "tokenName": "My Pet Hooligan",
+  "tokenAddress": "0x09233d553058c2f42ba751c87816a8e9fae7ef10",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "My Pet Hooligan",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-MPH-0x09233d553058c2f42ba751c87816a8e9fae7ef10",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

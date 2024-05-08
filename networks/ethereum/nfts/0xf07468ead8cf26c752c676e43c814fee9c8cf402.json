@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "PHUNK",
+  "tokenName": "CryptoPhunksV2",
+  "tokenAddress": "0xf07468ead8cf26c752c676e43c814fee9c8cf402",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "CryptoPhunksV2",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-PHUNK-0xf07468ead8cf26c752c676e43c814fee9c8cf402",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

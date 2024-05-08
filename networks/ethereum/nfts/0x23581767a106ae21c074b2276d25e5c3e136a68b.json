@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MOONBIRD",
+  "tokenName": "Moonbirds",
+  "tokenAddress": "0x23581767a106ae21c074b2276d25e5c3e136a68b",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Moonbirds",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-MOONBIRD-0x23581767a106ae21c074b2276d25e5c3e136a68b",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

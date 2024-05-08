@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "AP69",
+  "tokenName": "Automatic Pepe",
+  "tokenAddress": "0x17420b69be9f351020b6f6bd5fc3db33cb9d759f",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Automatic Pepe",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-AP69-0x17420b69be9f351020b6f6bd5fc3db33cb9d759f",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

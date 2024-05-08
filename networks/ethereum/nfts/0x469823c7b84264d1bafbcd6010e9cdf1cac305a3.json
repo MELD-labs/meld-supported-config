@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "CBS",
+  "tokenName": "Crypto Bull Society",
+  "tokenAddress": "0x469823c7b84264d1bafbcd6010e9cdf1cac305a3",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Crypto Bull Society",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-CBS-0x469823c7b84264d1bafbcd6010e9cdf1cac305a3",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

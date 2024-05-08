@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "SWAMPER",
+  "tokenName": "Swampverse",
+  "tokenAddress": "0x95784f7b5c8849b0104eaf5d13d6341d8cc40750",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Swampverse",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-SWAMPER-0x95784f7b5c8849b0104eaf5d13d6341d8cc40750",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

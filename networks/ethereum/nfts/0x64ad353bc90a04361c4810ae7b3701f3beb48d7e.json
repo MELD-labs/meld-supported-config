@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "BOX",
+  "tokenName": "Black Box",
+  "tokenAddress": "0x64ad353bc90a04361c4810ae7b3701f3beb48d7e",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Black Box",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-BOX-0x64ad353bc90a04361c4810ae7b3701f3beb48d7e",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

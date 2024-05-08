@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "ROBO",
+  "tokenName": "Robotos",
+  "tokenAddress": "0x099689220846644f87d1137665cded7bf3422747",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Robotos",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-ROBO-0x099689220846644f87d1137665cded7bf3422747",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

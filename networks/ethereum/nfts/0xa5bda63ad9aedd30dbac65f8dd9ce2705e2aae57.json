@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "ANIMA",
+  "tokenName": "wwwanima",
+  "tokenAddress": "0xa5bda63ad9aedd30dbac65f8dd9ce2705e2aae57",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "wwwanima",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-ANIMA-0xa5bda63ad9aedd30dbac65f8dd9ce2705e2aae57",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "3L",
+  "tokenName": "3Landers",
+  "tokenAddress": "0xb4d06d46a8285f4ec79fd294f78a881799d8ced9",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "3Landers",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-3L-0xb4d06d46a8285f4ec79fd294f78a881799d8ced9",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

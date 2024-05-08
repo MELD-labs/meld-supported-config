@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "WAGDIE",
+  "tokenName": "We Are All Going to Die",
+  "tokenAddress": "0x659a4bdaaacc62d2bd9cb18225d9c89b5b697a5a",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "We Are All Going to Die",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-WAGDIE-0x659a4bdaaacc62d2bd9cb18225d9c89b5b697a5a",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

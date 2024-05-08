@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MURI",
+  "tokenName": "MURI",
+  "tokenAddress": "0x4b61413d4392c806e6d0ff5ee91e6073c21d6430",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "MURI",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-MURI-0x4b61413d4392c806e6d0ff5ee91e6073c21d6430",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

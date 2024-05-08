@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "BOKI",
+  "tokenName": "Boki",
+  "tokenAddress": "0x248139afb8d3a2e16154fbe4fb528a3a214fd8e7",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Boki",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-BOKI-0x248139afb8d3a2e16154fbe4fb528a3a214fd8e7",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

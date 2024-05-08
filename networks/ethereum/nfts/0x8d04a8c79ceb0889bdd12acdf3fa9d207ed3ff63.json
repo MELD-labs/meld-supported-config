@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "BLIT",
+  "tokenName": "Blitmap",
+  "tokenAddress": "0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Blitmap",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-BLIT-0x8d04a8c79ceb0889bdd12acdf3fa9d207ed3ff63",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

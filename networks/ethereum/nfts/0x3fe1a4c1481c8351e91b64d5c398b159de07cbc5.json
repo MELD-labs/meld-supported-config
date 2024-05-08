@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "SD",
+  "tokenName": "SupDucks",
+  "tokenAddress": "0x3fe1a4c1481c8351e91b64d5c398b159de07cbc5",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "SupDucks",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-SD-0x3fe1a4c1481c8351e91b64d5c398b159de07cbc5",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

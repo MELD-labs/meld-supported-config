@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "UNE",
+  "tokenName": "Unemployables",
+  "tokenAddress": "0xe0be388ab81c47b0f098d2030a1c9ef190691a8a",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Unemployables",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-UNE-0xe0be388ab81c47b0f098d2030a1c9ef190691a8a",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

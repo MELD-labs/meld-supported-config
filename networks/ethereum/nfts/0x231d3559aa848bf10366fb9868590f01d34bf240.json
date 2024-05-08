@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "VAL",
+  "tokenName": "Valhalla",
+  "tokenAddress": "0x231d3559aa848bf10366fb9868590f01d34bf240",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Valhalla",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-VAL-0x231d3559aa848bf10366fb9868590f01d34bf240",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

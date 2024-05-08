@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "DEADFELLAZ",
+  "tokenName": "DeadFellaz",
+  "tokenAddress": "0x2acab3dea77832c09420663b0e1cb386031ba17b",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "DeadFellaz",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-DEADFELLAZ-0x2acab3dea77832c09420663b0e1cb386031ba17b",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

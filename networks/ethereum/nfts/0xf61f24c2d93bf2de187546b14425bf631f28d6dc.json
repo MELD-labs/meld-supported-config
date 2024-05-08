@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "WOWG",
+  "tokenName": "World Of Women Galaxy",
+  "tokenAddress": "0xf61f24c2d93bf2de187546b14425bf631f28d6dc",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "World Of Women Galaxy",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-WOWG-0xf61f24c2d93bf2de187546b14425bf631f28d6dc",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

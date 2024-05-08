@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "TRUTH",
+  "tokenName": "Illuminati",
+  "tokenAddress": "0x8cb05890b7a640341069fb65dd4e070367f4d2e6",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Illuminati",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-TRUTH-0x8cb05890b7a640341069fb65dd4e070367f4d2e6",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

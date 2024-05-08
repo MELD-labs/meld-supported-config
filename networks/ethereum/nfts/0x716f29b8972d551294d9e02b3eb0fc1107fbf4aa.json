@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "IO",
+  "tokenName": "Imaginary Ones",
+  "tokenAddress": "0x716f29b8972d551294d9e02b3eb0fc1107fbf4aa",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Imaginary Ones",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-IO-0x716f29b8972d551294d9e02b3eb0fc1107fbf4aa",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

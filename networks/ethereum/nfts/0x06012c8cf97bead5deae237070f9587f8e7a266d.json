@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "CK",
+  "tokenName": "CryptoKitties",
+  "tokenAddress": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "CryptoKitties",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-CK-0x06012c8cf97bead5deae237070f9587f8e7a266d",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

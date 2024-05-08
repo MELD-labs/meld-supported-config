@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "10KTF",
+  "tokenName": "10KTF",
+  "tokenAddress": "0x0cfb5d82be2b949e8fa73a656df91821e2ad99fd",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "10KTF",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-10KTF-0x0cfb5d82be2b949e8fa73a656df91821e2ad99fd",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "CryptoSkulls",
+  "tokenName": "CryptoSkulls",
+  "tokenAddress": "0xc1caf0c19a8ac28c41fe59ba6c754e4b9bd54de9",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "CryptoSkulls",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-CryptoSkulls-0xc1caf0c19a8ac28c41fe59ba6c754e4b9bd54de9",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

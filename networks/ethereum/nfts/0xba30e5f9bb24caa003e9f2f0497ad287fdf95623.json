@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "BAKC",
+  "tokenName": "BoredApeKennelClub",
+  "tokenAddress": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "BoredApeKennelClub",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-BAKC-0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

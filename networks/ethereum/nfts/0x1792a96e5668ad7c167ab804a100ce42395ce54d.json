@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "ODDITIES",
+  "tokenName": "Moonbirds Oddities",
+  "tokenAddress": "0x1792a96e5668ad7c167ab804a100ce42395ce54d",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Moonbirds Oddities",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-ODDITIES-0x1792a96e5668ad7c167ab804a100ce42395ce54d",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MIL",
+  "tokenName": "Milady",
+  "tokenAddress": "0x5af0d9827e0c53e4799bb226655a1de152a425a5",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Milady",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-MIL-0x5af0d9827e0c53e4799bb226655a1de152a425a5",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

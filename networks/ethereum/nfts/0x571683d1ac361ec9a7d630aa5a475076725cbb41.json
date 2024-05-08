@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "PHOTO",
+  "tokenName": "wwwphotograph",
+  "tokenAddress": "0x571683d1ac361ec9a7d630aa5a475076725cbb41",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "wwwphotograph",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-PHOTO-0x571683d1ac361ec9a7d630aa5a475076725cbb41",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

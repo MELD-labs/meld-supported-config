@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "DEN",
+  "tokenName": "Dented Feels",
+  "tokenAddress": "0xc5e55e4bd5fef12831b5a666fc9e391538acdc45",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Dented Feels",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-DEN-0xc5e55e4bd5fef12831b5a666fc9e391538acdc45",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

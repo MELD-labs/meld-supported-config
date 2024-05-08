@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "DEADFRENZ",
+  "tokenName": "DeadFrenz",
+  "tokenAddress": "0x920a8d9e9f0defd6f86e4388a5503b04cac83b57",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "DeadFrenz",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-DEADFRENZ-0x920a8d9e9f0defd6f86e4388a5503b04cac83b57",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

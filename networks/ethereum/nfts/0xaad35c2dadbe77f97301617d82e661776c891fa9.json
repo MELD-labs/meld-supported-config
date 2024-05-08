@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "AKU",
+  "tokenName": "Akutars",
+  "tokenAddress": "0xaad35c2dadbe77f97301617d82e661776c891fa9",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Akutars",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-AKU-0xaad35c2dadbe77f97301617d82e661776c891fa9",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

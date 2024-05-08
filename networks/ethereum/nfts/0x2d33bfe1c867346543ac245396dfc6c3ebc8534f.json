@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "KPRV2",
+  "tokenName": "Keepers V2",
+  "tokenAddress": "0x2d33bfe1c867346543ac245396dfc6c3ebc8534f",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Keepers V2",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-KPRV2-0x2d33bfe1c867346543ac245396dfc6c3ebc8534f",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

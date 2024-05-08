@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "EH",
+  "tokenName": "Edenhorde",
+  "tokenAddress": "0x9eeaecbe2884aa7e82f450e3fc174f30fc2a8de3",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Edenhorde",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-EH-0x9eeaecbe2884aa7e82f450e3fc174f30fc2a8de3",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

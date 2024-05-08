@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "BIT",
+  "tokenName": "EightBit",
+  "tokenAddress": "0x6080b6d2c02e9a0853495b87ce6a65e353b74744",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "EightBit",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-BIT-0x6080b6d2c02e9a0853495b87ce6a65e353b74744",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

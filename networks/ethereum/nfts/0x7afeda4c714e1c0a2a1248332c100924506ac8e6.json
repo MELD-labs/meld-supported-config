@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "CRYST",
+  "tokenName": "FVCK_CRYSTAL//",
+  "tokenAddress": "0x7afeda4c714e1c0a2a1248332c100924506ac8e6",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "FVCK_CRYSTAL//",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-CRYST-0x7afeda4c714e1c0a2a1248332c100924506ac8e6",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

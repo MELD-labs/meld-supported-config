@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "NOUN",
+  "tokenName": "Nouns",
+  "tokenAddress": "0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Nouns",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-NOUN-0x9c8ff314c9bc7f6e59a9d9225fb22946427edc03",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

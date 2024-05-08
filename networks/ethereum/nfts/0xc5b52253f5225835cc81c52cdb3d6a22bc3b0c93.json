@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MCGOBLIN",
+  "tokenName": "mcgoblintownwtf",
+  "tokenAddress": "0xc5b52253f5225835cc81c52cdb3d6a22bc3b0c93",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "mcgoblintownwtf",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-MCGOBLIN-0xc5b52253f5225835cc81c52cdb3d6a22bc3b0c93",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

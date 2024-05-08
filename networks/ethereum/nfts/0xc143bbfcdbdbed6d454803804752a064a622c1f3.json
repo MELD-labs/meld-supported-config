@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "ASYNC-BLUEPRINT",
+  "tokenName": "Async Blueprints",
+  "tokenAddress": "0xc143bbfcdbdbed6d454803804752a064a622c1f3",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Async Blueprints",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-ASYNC-BLUEPRINT-0xc143bbfcdbdbed6d454803804752a064a622c1f3",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

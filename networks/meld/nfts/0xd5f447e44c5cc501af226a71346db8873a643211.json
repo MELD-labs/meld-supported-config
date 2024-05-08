@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "TORUS",
+  "tokenName": "Torus",
+  "tokenAddress": "0xd5f447e44c5cc501af226a71346db8873a643211",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Torus",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "meld-TORUS-0xd5f447e44c5cc501af226a71346db8873a643211",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 333000333,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

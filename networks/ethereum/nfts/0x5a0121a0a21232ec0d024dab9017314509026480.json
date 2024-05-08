@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "FINI",
+  "tokenName": "Finiliar",
+  "tokenAddress": "0x5a0121a0a21232ec0d024dab9017314509026480",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Finiliar",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-FINI-0x5a0121a0a21232ec0d024dab9017314509026480",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

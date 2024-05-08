@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "TSRC",
+  "tokenName": "Tom Sachs Rocket Components",
+  "tokenAddress": "0x11595ffb2d3612d810612e34bc1c2e6d6de55d26",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Tom Sachs Rocket Components",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-TSRC-0x11595ffb2d3612d810612e34bc1c2e6d6de55d26",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

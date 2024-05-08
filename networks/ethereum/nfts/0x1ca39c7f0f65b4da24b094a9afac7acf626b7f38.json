@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "GA",
+  "tokenName": "GEN.ART",
+  "tokenAddress": "0x1ca39c7f0f65b4da24b094a9afac7acf626b7f38",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "GEN.ART",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-GA-0x1ca39c7f0f65b4da24b094a9afac7acf626b7f38",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "PXLLMA",
+  "tokenName": "Pixelated Llama",
+  "tokenAddress": "0x9df8aa7c681f33e442a0d57b838555da863504f3",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Pixelated Llama",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-PXLLMA-0x9df8aa7c681f33e442a0d57b838555da863504f3",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MELD-NFT",
+  "tokenName": "MeldDaoERC721",
+  "tokenAddress": "0x22200012066f695e556ddb47bbf6a887a5990f02",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "MeldDaoERC721",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "kanazawa-MELD-NFT-0x22200012066f695e556ddb47bbf6a887a5990f02",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 222000222,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "tdpnks",
+  "tokenName": "Toad Punks",
+  "tokenAddress": "0x4f9835dbb442b263bbd20ff2731162101d9c3a89",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Toad Punks",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-tdpnks-0x4f9835dbb442b263bbd20ff2731162101d9c3a89",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

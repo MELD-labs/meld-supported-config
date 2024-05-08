@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "PROMETHEANS",
+  "tokenName": "Prometheans",
+  "tokenAddress": "0xc4a5025c4563ad0acc09d92c2506e6744dad58eb",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Prometheans",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-PROMETHEANS-0xc4a5025c4563ad0acc09d92c2506e6744dad58eb",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

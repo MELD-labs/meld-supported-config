@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "CHECKS",
+  "tokenName": "Checks",
+  "tokenAddress": "0x34eebee6942d8def3c125458d1a86e0a897fd6f9",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Checks",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-CHECKS-0x34eebee6942d8def3c125458d1a86e0a897fd6f9",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

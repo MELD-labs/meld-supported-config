@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "LAND",
+  "tokenName": "Land",
+  "tokenAddress": "0x2c88aa0956bc9813505d73575f653f69ada60923",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Land",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-LAND-0x2c88aa0956bc9813505d73575f653f69ada60923",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

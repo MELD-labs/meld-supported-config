@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "IMPOSTORS",
+  "tokenName": "Impostors Genesis",
+  "tokenAddress": "0x3110ef5f612208724ca51f5761a69081809f03b7",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Impostors Genesis",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-IMPOSTORS-0x3110ef5f612208724ca51f5761a69081809f03b7",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

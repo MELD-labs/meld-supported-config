@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "PPG",
+  "tokenName": "PudgyPenguins",
+  "tokenAddress": "0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "PudgyPenguins",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-PPG-0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

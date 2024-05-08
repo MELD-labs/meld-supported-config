@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "OPEPEN",
+  "tokenName": "Opepen Edition",
+  "tokenAddress": "0x6339e5e072086621540d0362c4e3cea0d643e114",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Opepen Edition",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-OPEPEN-0x6339e5e072086621540d0362c4e3cea0d643e114",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "BEANZ",
+  "tokenName": "Beanz",
+  "tokenAddress": "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Beanz",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-BEANZ-0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "Rektguy",
+  "tokenName": "Rektguy",
+  "tokenAddress": "0xb852c6b5892256c264cc2c888ea462189154d8d7",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Rektguy",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-Rektguy-0xb852c6b5892256c264cc2c888ea462189154d8d7",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

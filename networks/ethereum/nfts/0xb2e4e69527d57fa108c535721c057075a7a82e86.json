@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "SHROOM",
+  "tokenName": "Magic Mushroom Clubhouse",
+  "tokenAddress": "0xb2e4e69527d57fa108c535721c057075a7a82e86",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Magic Mushroom Clubhouse",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-SHROOM-0xb2e4e69527d57fa108c535721c057075a7a82e86",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

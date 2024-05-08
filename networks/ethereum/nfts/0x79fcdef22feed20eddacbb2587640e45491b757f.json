@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MFER",
+  "tokenName": "mfer",
+  "tokenAddress": "0x79fcdef22feed20eddacbb2587640e45491b757f",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "mfer",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-MFER-0x79fcdef22feed20eddacbb2587640e45491b757f",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

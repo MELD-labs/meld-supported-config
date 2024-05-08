@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "DOGGY",
+  "tokenName": "The Doge Pound",
+  "tokenAddress": "0xf4ee95274741437636e748ddac70818b4ed7d043",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "The Doge Pound",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-DOGGY-0xf4ee95274741437636e748ddac70818b4ed7d043",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

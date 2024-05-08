@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "HEARTS",
+  "tokenName": "The Heart Project",
+  "tokenAddress": "0xce50f3ca1f1dbd6fa042666bc0e369565dda457d",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "The Heart Project",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-HEARTS-0xce50f3ca1f1dbd6fa042666bc0e369565dda457d",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "DCLCMMNTCNTST",
+  "tokenName": "dcl://community_contest",
+  "tokenAddress": "0x32b7495895264ac9d0b12d32afd435453458b1c6",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "dcl://community_contest",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-DCLCMMNTCNTST-0x32b7495895264ac9d0b12d32afd435453458b1c6",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "DOOPL",
+  "tokenName": "Dooplicator",
+  "tokenAddress": "0x466cfcd0525189b573e794f554b8a751279213ac",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Dooplicator",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-DOOPL-0x466cfcd0525189b573e794f554b8a751279213ac",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

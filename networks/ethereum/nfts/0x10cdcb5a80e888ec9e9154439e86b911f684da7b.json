@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "FVCK_AVATAR//",
+  "tokenName": "FVCK_AVATAR//",
+  "tokenAddress": "0x10cdcb5a80e888ec9e9154439e86b911f684da7b",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "FVCK_AVATAR//",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-FVCK_AVATAR//-0x10cdcb5a80e888ec9e9154439e86b911f684da7b",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

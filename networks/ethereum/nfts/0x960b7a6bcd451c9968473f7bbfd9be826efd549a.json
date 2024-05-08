@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "OCMONK",
+  "tokenName": "OnChainMonkey",
+  "tokenAddress": "0x960b7a6bcd451c9968473f7bbfd9be826efd549a",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "OnChainMonkey",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-OCMONK-0x960b7a6bcd451c9968473f7bbfd9be826efd549a",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

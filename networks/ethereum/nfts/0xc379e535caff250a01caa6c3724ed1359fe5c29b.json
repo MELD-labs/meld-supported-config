@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "FROG",
+  "tokenName": "The Plague",
+  "tokenAddress": "0xc379e535caff250a01caa6c3724ed1359fe5c29b",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "The Plague",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-FROG-0xc379e535caff250a01caa6c3724ed1359fe5c29b",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

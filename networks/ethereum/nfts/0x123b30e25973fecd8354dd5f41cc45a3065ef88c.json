@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "ALIENFRENS",
+  "tokenName": "ALIENFRENS",
+  "tokenAddress": "0x123b30e25973fecd8354dd5f41cc45a3065ef88c",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "ALIENFRENS",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-ALIENFRENS-0x123b30e25973fecd8354dd5f41cc45a3065ef88c",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

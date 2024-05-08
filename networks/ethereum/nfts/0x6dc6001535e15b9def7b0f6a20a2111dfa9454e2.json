@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "HERO",
+  "tokenName": "MetaHero",
+  "tokenAddress": "0x6dc6001535e15b9def7b0f6a20a2111dfa9454e2",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "MetaHero",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-HERO-0x6dc6001535e15b9def7b0f6a20a2111dfa9454e2",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

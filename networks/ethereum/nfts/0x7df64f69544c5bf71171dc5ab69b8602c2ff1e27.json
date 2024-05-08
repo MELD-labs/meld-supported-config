@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "KITARO",
+  "tokenName": "Kitaro World",
+  "tokenAddress": "0x7df64f69544c5bf71171dc5ab69b8602c2ff1e27",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Kitaro World",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-KITARO-0x7df64f69544c5bf71171dc5ab69b8602c2ff1e27",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "HM",
+  "tokenName": "Hashmasks",
+  "tokenAddress": "0xc2c747e0f7004f9e8817db2ca4997657a7746928",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Hashmasks",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-HM-0xc2c747e0f7004f9e8817db2ca4997657a7746928",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

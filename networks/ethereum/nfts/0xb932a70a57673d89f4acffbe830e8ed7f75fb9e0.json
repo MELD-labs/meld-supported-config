@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "SUPR",
+  "tokenName": "SuperRare",
+  "tokenAddress": "0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "SuperRare",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-SUPR-0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

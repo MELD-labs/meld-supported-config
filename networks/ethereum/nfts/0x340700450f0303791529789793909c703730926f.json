@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "BRBS",
+  "tokenName": "CryptoBirbs",
+  "tokenAddress": "0x340700450f0303791529789793909c703730926f",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "CryptoBirbs",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-BRBS-0x340700450f0303791529789793909c703730926f",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

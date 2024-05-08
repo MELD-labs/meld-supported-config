@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "CVPA",
+  "tokenName": "Cryptovoxels Parcel",
+  "tokenAddress": "0x79986af15539de2db9a5086382daeda917a9cf0c",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Cryptovoxels Parcel",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-CVPA-0x79986af15539de2db9a5086382daeda917a9cf0c",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

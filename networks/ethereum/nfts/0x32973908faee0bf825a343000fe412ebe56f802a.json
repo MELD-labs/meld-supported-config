@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "PXLMN",
+  "tokenName": "Pixelmon",
+  "tokenAddress": "0x32973908faee0bf825a343000fe412ebe56f802a",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Pixelmon",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-PXLMN-0x32973908faee0bf825a343000fe412ebe56f802a",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "NTCTZN",
+  "tokenName": "Neo Tokyo Citizen",
+  "tokenAddress": "0xb668beb1fa440f6cf2da0399f8c28cab993bdd65",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Neo Tokyo Citizen",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-NTCTZN-0xb668beb1fa440f6cf2da0399f8c28cab993bdd65",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

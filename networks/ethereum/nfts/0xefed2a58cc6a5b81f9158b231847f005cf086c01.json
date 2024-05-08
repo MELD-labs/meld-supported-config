@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "HEDZ",
+  "tokenName": "Hedz",
+  "tokenAddress": "0xefed2a58cc6a5b81f9158b231847f005cf086c01",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Hedz",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-HEDZ-0xefed2a58cc6a5b81f9158b231847f005cf086c01",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

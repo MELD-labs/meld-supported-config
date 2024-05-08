@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "CAKE",
+  "tokenName": "Pastry",
+  "tokenAddress": "0xb835b909566adf69bb36124161973e681b8f3192",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Pastry",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "kanazawa-CAKE-0xb835b909566adf69bb36124161973e681b8f3192",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 222000222,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

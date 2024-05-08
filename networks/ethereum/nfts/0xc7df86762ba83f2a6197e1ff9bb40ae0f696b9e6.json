@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "TD",
+  "tokenName": "The Doggies",
+  "tokenAddress": "0xc7df86762ba83f2a6197e1ff9bb40ae0f696b9e6",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "The Doggies",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-TD-0xc7df86762ba83f2a6197e1ff9bb40ae0f696b9e6",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

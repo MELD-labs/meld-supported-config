@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "KILLABEARS",
+  "tokenName": "KILLABEARS",
+  "tokenAddress": "0xc99c679c50033bbc5321eb88752e89a93e9e83c5",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "KILLABEARS",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-KILLABEARS-0xc99c679c50033bbc5321eb88752e89a93e9e83c5",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

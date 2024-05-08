@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "KONGZ",
+  "tokenName": "CyberKongz",
+  "tokenAddress": "0x57a204aa1042f6e66dd7730813f4024114d74f37",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "CyberKongz",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-KONGZ-0x57a204aa1042f6e66dd7730813f4024114d74f37",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

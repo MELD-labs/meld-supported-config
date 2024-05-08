@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MOCA",
+  "tokenName": "Mocaverse",
+  "tokenAddress": "0x59325733eb952a92e069c87f0a6168b29e80627f",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Mocaverse",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-MOCA-0x59325733eb952a92e069c87f0a6168b29e80627f",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

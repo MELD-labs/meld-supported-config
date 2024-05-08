@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "SOUND",
+  "tokenName": "wwwsound",
+  "tokenAddress": "0x4e4dacc4d24d075a853580184e15b3f3fc9f334d",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "wwwsound",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-SOUND-0x4e4dacc4d24d075a853580184e15b3f3fc9f334d",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

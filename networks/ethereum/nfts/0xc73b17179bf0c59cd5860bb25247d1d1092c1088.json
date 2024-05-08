@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "QQL-MP",
+  "tokenName": "QQL Mint Pass",
+  "tokenAddress": "0xc73b17179bf0c59cd5860bb25247d1d1092c1088",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "QQL Mint Pass",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "ethereum-QQL-MP-0xc73b17179bf0c59cd5860bb25247d1d1092c1088",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 1,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}
