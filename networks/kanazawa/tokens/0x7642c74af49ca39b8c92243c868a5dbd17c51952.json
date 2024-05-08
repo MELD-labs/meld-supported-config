@@ -1,0 +1,16 @@
+{
+    "CMCslug": "cardano",
+    "decimals": 6,
+    "mldId": "kanazawa-tADA-0x7642c74af49ca39b8c92243c868a5dbd17c51952",
+    "orgName": "Meld Bridge",
+    "orgUrl": "https://meld.com",
+    "tokenAddress": "0x7642c74aF49ca39B8C92243C868A5dbd17c51952",
+    "tokenColorTheme": 10,
+    "tokenIcon": "/static/tokens/ADA.svg",
+    "tokenName": "Cardano",
+    "tokenTicker": "tADA",
+    "tokenType": "ERC20",
+    "tags": [
+        "bridged"
+    ]
+}
