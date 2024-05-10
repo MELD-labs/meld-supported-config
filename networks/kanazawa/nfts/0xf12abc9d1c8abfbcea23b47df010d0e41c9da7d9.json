@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "BNKR",
+  "tokenName": "MELD Banker",
+  "tokenAddress": "0xF12AbC9d1c8aBFbcea23b47DF010d0E41c9da7D9",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "MELD Banker",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "MELD",
+  "authorAddress": "0xdede0A940B388B236F65722734a56e03B79e1C16",
+  "maxSupply": 0,
+  "mldId": "kanazawa-BNKR-0xf12abc9d1c8abfbcea23b47df010d0e41c9da7d9",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 222000222,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}
