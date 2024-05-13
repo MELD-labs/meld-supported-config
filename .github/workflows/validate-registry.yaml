@@ -13,7 +13,6 @@ jobs:
       max-parallel: 3
       matrix:
         environment:
-          - dev
           - stage
           - prod
     env:
