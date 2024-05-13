@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MELD-STAKING-NFT",
+  "tokenName": "MeldStakingNFT",
+  "tokenAddress": "0xe4543c12a2a44f25b01153f93a6cc9776427f6cc",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "MeldStakingNFT",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "kanazawa-MELD-STAKING-NFT-0xe4543c12a2a44f25b01153f93a6cc9776427f6cc",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 222000222,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}
