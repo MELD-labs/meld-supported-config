@@ -1,0 +1,22 @@
+{
+  "tokenTicker": "MOOLTY",
+  "tokenName": "Moolty",
+  "tokenAddress": "0xebae47426516224ef53c0cde45a1ee21e99c086a",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC1155",
+  "collectionName": "Moolty",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "MELD",
+  "authorAddress": "0x76f948e5f13b9a84a81e5681df8682bbf524805e",
+  "maxSupply": 0,
+  "mldId": "meld-MOOLTY-0xebae47426516224ef53c0cde45a1ee21e99c086a",
+  "metaURL": "",
+  "assetURL": "",
+  "chainId": 333000333,
+  "royalties": 0,
+  "nftType": "",
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}
