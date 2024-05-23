@@ -1,6 +1,5 @@
 {
   "tokenTicker": "Potatoz",
-  "tokenName": "Potatoz",
   "tokenAddress": "0x39ee2c7b3cb80254225884ca001f57118c8f21b6",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-Potatoz-0x39ee2c7b3cb80254225884ca001f57118c8f21b6",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

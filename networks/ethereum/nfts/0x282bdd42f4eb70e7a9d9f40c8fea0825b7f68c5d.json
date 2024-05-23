@@ -1,6 +1,5 @@
 {
   "tokenTicker": "WPV1",
-  "tokenName": "V1 Cryptopunks (Wrapped)",
   "tokenAddress": "0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-WPV1-0x282bdd42f4eb70e7a9d9f40c8fea0825b7f68c5d",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

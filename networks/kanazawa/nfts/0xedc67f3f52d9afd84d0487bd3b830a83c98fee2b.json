@@ -1,6 +1,5 @@
 {
   "tokenTicker": "TORUS",
-  "tokenName": "Torus",
   "tokenAddress": "0xedc67f3f52d9afd84d0487bd3b830a83c98fee2b",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "kanazawa-TORUS-0xedc67f3f52d9afd84d0487bd3b830a83c98fee2b",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 222000222,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

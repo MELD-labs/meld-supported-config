@@ -1,6 +1,5 @@
 {
   "tokenTicker": "RAMEN",
-  "tokenName": "Noodles",
   "tokenAddress": "0x97e701518f4a823f79812b32d6bb1bdc75054ca0",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "kanazawa-RAMEN-0x97e701518f4a823f79812b32d6bb1bdc75054ca0",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 222000222,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "SMOL",
-  "tokenName": "SMOWL",
   "tokenAddress": "0x03b8d129a8f6dc62a797b59aa5eebb11ad63dada",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-SMOL-0x03b8d129a8f6dc62a797b59aa5eebb11ad63dada",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "8LIENS",
-  "tokenName": "8liens",
   "tokenAddress": "0x740c178e10662bbb050bde257bfa318defe3cabc",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-8LIENS-0x740c178e10662bbb050bde257bfa318defe3cabc",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "RAYC",
-  "tokenName": "RareApepeYachtClub",
   "tokenAddress": "0x31d45de84fde2fb36575085e05754a4932dd5170",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-RAYC-0x31d45de84fde2fb36575085e05754a4932dd5170",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

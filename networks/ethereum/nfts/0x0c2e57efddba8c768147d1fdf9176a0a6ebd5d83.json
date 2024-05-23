@@ -1,6 +1,5 @@
 {
   "tokenTicker": "KAIJU",
-  "tokenName": "KaijuKingz",
   "tokenAddress": "0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-KAIJU-0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

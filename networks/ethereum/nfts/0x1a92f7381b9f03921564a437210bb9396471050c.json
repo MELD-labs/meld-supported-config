@@ -1,6 +1,5 @@
 {
   "tokenTicker": "COOL",
-  "tokenName": "Cool Cats",
   "tokenAddress": "0x1a92f7381b9f03921564a437210bb9396471050c",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-COOL-0x1a92f7381b9f03921564a437210bb9396471050c",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

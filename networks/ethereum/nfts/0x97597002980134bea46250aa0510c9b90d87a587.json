@@ -1,6 +1,5 @@
 {
   "tokenTicker": "RUN",
-  "tokenName": "Chain Runners",
   "tokenAddress": "0x97597002980134bea46250aa0510c9b90d87a587",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-RUN-0x97597002980134bea46250aa0510c9b90d87a587",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

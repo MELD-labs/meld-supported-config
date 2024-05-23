@@ -1,6 +1,5 @@
 {
   "tokenTicker": "NKMGS",
-  "tokenName": "Nakamigos",
   "tokenAddress": "0xd774557b647330c91bf44cfeab205095f7e6c367",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-NKMGS-0xd774557b647330c91bf44cfeab205095f7e6c367",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

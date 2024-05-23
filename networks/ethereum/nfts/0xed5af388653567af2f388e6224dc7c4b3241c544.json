@@ -1,6 +1,5 @@
 {
   "tokenTicker": "AZUKI",
-  "tokenName": "Azuki",
   "tokenAddress": "0xed5af388653567af2f388e6224dc7c4b3241c544",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-AZUKI-0xed5af388653567af2f388e6224dc7c4b3241c544",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

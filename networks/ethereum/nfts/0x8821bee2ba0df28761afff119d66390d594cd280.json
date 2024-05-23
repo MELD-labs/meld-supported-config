@@ -1,6 +1,5 @@
 {
   "tokenTicker": "DEGODS",
-  "tokenName": "DeGods",
   "tokenAddress": "0x8821bee2ba0df28761afff119d66390d594cd280",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-DEGODS-0x8821bee2ba0df28761afff119d66390d594cd280",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

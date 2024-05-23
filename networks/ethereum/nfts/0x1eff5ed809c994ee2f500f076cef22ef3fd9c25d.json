@@ -1,6 +1,5 @@
 {
   "tokenTicker": "PEGZ",
-  "tokenName": "PEGZ",
   "tokenAddress": "0x1eff5ed809c994ee2f500f076cef22ef3fd9c25d",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-PEGZ-0x1eff5ed809c994ee2f500f076cef22ef3fd9c25d",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "MREG",
-  "tokenName": "MELD Registry",
   "tokenAddress": "0xf7764592c6e0075570ce2d3de3a6eb225c5a1871",
   "tokenColorTheme": 1,
   "tokenType": "ERC1155",
@@ -11,11 +10,8 @@
   "authorAddress": "0x76f948e5f13b9a84a81e5681df8682bbf524805e",
   "maxSupply": 0,
   "mldId": "meld-MREG-0xf7764592c6e0075570ce2d3de3a6eb225c5a1871",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 333000333,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

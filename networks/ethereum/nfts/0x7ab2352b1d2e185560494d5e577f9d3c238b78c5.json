@@ -1,6 +1,5 @@
 {
   "tokenTicker": "ABS",
-  "tokenName": "Adam Bomb Squad",
   "tokenAddress": "0x7ab2352b1d2e185560494d5e577f9d3c238b78c5",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-ABS-0x7ab2352b1d2e185560494d5e577f9d3c238b78c5",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

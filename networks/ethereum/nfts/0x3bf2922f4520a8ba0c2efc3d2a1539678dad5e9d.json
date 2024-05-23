@@ -1,6 +1,5 @@
 {
   "tokenTicker": "0N1",
-  "tokenName": "0N1 Force",
   "tokenAddress": "0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-0N1-0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

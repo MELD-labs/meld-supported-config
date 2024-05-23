@@ -1,6 +1,5 @@
 {
   "tokenTicker": "YKPS",
-  "tokenName": "Kanpai Pandas",
   "tokenAddress": "0xacf63e56fd08970b43401492a02f6f38b6635c91",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-YKPS-0xacf63e56fd08970b43401492a02f6f38b6635c91",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "KIWAMI",
-  "tokenName": "Kiwami",
   "tokenAddress": "0x701a038af4bd0fc9b69a829ddcb2f61185a49568",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-KIWAMI-0x701a038af4bd0fc9b69a829ddcb2f61185a49568",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

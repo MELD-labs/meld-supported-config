@@ -1,6 +1,5 @@
 {
   "tokenTicker": "BBB",
-  "tokenName": "BigId",
   "tokenAddress": "0xfbe7b10ab0c9c35907f42dc1cceefeb9bfccc467",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "kanazawa-BBB-0xfbe7b10ab0c9c35907f42dc1cceefeb9bfccc467",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 222000222,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

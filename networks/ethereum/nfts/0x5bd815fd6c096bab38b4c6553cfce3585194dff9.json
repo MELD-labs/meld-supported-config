@@ -1,6 +1,5 @@
 {
   "tokenTicker": "TAOS",
-  "tokenName": "The Art of Seasons",
   "tokenAddress": "0x5bd815fd6c096bab38b4c6553cfce3585194dff9",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-TAOS-0x5bd815fd6c096bab38b4c6553cfce3585194dff9",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

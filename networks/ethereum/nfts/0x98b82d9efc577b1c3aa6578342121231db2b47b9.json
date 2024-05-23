@@ -1,6 +1,5 @@
 {
   "tokenTicker": "SSK",
-  "tokenName": "Shinsekai",
   "tokenAddress": "0x98b82d9efc577b1c3aa6578342121231db2b47b9",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-SSK-0x98b82d9efc577b1c3aa6578342121231db2b47b9",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

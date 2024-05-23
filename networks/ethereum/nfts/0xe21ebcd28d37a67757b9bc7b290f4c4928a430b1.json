@@ -1,6 +1,5 @@
 {
   "tokenTicker": "SAUD",
-  "tokenName": "The Saudis",
   "tokenAddress": "0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-SAUD-0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

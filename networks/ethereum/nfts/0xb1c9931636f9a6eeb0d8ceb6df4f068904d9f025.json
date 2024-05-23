@@ -1,6 +1,5 @@
 {
   "tokenTicker": "3GMBOT",
-  "tokenName": "ThreeGMBot",
   "tokenAddress": "0xb1c9931636f9a6eeb0d8ceb6df4f068904d9f025",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-3GMBOT-0xb1c9931636f9a6eeb0d8ceb6df4f068904d9f025",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "VFT",
-  "tokenName": "VeeFriends",
   "tokenAddress": "0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-VFT-0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

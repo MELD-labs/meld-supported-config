@@ -1,6 +1,5 @@
 {
   "tokenTicker": "BLOCKS",
-  "tokenName": "Art Blocks",
   "tokenAddress": "0x059edd72cd353df5106d2b9cc5ab83a52287ac3a",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-BLOCKS-0x059edd72cd353df5106d2b9cc5ab83a52287ac3a",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

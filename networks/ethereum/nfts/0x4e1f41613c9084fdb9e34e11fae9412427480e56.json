@@ -1,6 +1,5 @@
 {
   "tokenTicker": "TERRAFORMS",
-  "tokenName": "Terraforms",
   "tokenAddress": "0x4e1f41613c9084fdb9e34e11fae9412427480e56",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-TERRAFORMS-0x4e1f41613c9084fdb9e34e11fae9412427480e56",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

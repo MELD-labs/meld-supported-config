@@ -1,6 +1,5 @@
 {
   "tokenTicker": "FARMER",
-  "tokenName": "Farmer",
   "tokenAddress": "0xbda2481db91fc0f942ed3f53de378ba45ba9d17e",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-FARMER-0xbda2481db91fc0f942ed3f53de378ba45ba9d17e",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

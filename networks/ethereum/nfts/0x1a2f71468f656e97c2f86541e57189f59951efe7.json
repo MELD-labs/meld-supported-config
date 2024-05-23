@@ -1,6 +1,5 @@
 {
   "tokenTicker": "CRYPTOMORIES",
-  "tokenName": "CryptoMories",
   "tokenAddress": "0x1a2f71468f656e97c2f86541e57189f59951efe7",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-CRYPTOMORIES-0x1a2f71468f656e97c2f86541e57189f59951efe7",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "WPOUCH",
-  "tokenName": "Wool Pouch",
   "tokenAddress": "0xb76fbbb30e31f2c3bdaa2466cfb1cfe39b220d06",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-WPOUCH-0xb76fbbb30e31f2c3bdaa2466cfb1cfe39b220d06",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

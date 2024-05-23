@@ -1,6 +1,5 @@
 {
   "tokenTicker": "AXIE",
-  "tokenName": "Axie",
   "tokenAddress": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-AXIE-0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

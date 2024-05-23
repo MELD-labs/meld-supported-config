@@ -1,6 +1,5 @@
 {
   "tokenTicker": "GOBBLER",
-  "tokenName": "Art Gobblers",
   "tokenAddress": "0x60bb1e2aa1c9acafb4d34f71585d7e959f387769",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-GOBBLER-0x60bb1e2aa1c9acafb4d34f71585d7e959f387769",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

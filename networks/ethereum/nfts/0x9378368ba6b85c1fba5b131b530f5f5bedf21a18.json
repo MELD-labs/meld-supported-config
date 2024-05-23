@@ -1,6 +1,5 @@
 {
   "tokenTicker": "VF2",
-  "tokenName": "VeeFriends Series 2",
   "tokenAddress": "0x9378368ba6b85c1fba5b131b530f5f5bedf21a18",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-VF2-0x9378368ba6b85c1fba5b131b530f5f5bedf21a18",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

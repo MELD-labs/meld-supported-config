@@ -1,6 +1,5 @@
 {
   "tokenTicker": "GHOST",
-  "tokenName": "projectPXN",
   "tokenAddress": "0x160c404b2b49cbc3240055ceaee026df1e8497a0",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-GHOST-0x160c404b2b49cbc3240055ceaee026df1e8497a0",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

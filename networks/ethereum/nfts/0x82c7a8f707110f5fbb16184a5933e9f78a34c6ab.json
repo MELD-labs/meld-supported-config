@@ -1,6 +1,5 @@
 {
   "tokenTicker": "Emblem.pro",
-  "tokenName": "Emblem Vault V4",
   "tokenAddress": "0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-Emblem.pro-0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

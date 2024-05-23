@@ -1,6 +1,5 @@
 {
   "tokenTicker": "BEEPLE",
-  "tokenName": "Beeple Special Edition",
   "tokenAddress": "0x12f28e2106ce8fd8464885b80ea865e98b465149",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-BEEPLE-0x12f28e2106ce8fd8464885b80ea865e98b465149",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

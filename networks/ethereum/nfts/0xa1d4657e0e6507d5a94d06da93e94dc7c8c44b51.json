@@ -1,6 +1,5 @@
 {
   "tokenTicker": "WEBBLAND",
-  "tokenName": "WebbLand",
   "tokenAddress": "0xa1d4657e0e6507d5a94d06da93e94dc7c8c44b51",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-WEBBLAND-0xa1d4657e0e6507d5a94d06da93e94dc7c8c44b51",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

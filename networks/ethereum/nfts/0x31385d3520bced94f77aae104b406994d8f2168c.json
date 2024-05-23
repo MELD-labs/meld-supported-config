@@ -1,6 +1,5 @@
 {
   "tokenTicker": "BGANPUNKV2",
-  "tokenName": "BASTARD GAN PUNKS V2",
   "tokenAddress": "0x31385d3520bced94f77aae104b406994d8f2168c",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-BGANPUNKV2-0x31385d3520bced94f77aae104b406994d8f2168c",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

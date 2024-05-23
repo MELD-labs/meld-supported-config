@@ -1,6 +1,5 @@
 {
   "tokenTicker": "TGRBOB",
-  "tokenName": "Tigerbob",
   "tokenAddress": "0xd497a414bb00803e846b53d07fcb742831b24906",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-TGRBOB-0xd497a414bb00803e846b53d07fcb742831b24906",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

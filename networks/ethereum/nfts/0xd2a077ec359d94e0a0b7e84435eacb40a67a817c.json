@@ -1,6 +1,5 @@
 {
   "tokenTicker": "ADMIT",
-  "tokenName": "Admit One",
   "tokenAddress": "0xd2a077ec359d94e0a0b7e84435eacb40a67a817c",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-ADMIT-0xd2a077ec359d94e0a0b7e84435eacb40a67a817c",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

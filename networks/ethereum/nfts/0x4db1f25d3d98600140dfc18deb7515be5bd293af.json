@@ -1,6 +1,5 @@
 {
   "tokenTicker": "HAPE",
-  "tokenName": "HAPE PRIME",
   "tokenAddress": "0x4db1f25d3d98600140dfc18deb7515be5bd293af",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-HAPE-0x4db1f25d3d98600140dfc18deb7515be5bd293af",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

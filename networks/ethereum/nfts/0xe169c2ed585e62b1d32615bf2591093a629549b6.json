@@ -1,6 +1,5 @@
 {
   "tokenTicker": "NP",
-  "tokenName": "NounPunks",
   "tokenAddress": "0xe169c2ed585e62b1d32615bf2591093a629549b6",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-NP-0xe169c2ed585e62b1d32615bf2591093a629549b6",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

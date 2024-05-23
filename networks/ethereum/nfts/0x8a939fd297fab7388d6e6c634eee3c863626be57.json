@@ -1,6 +1,5 @@
 {
   "tokenTicker": "TRAITORSOPENEDITIONBYXCOPY",
-  "tokenName": "TRAITORS open edition by XCOPY",
   "tokenAddress": "0x8a939fd297fab7388d6e6c634eee3c863626be57",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-TRAITORSOPENEDITIONBYXCOPY-0x8a939fd297fab7388d6e6c634eee3c863626be57",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

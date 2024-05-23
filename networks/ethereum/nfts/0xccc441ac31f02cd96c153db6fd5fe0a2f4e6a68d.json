@@ -1,6 +1,5 @@
 {
   "tokenTicker": "FLUF",
-  "tokenName": "FLUF",
   "tokenAddress": "0xccc441ac31f02cd96c153db6fd5fe0a2f4e6a68d",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-FLUF-0xccc441ac31f02cd96c153db6fd5fe0a2f4e6a68d",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

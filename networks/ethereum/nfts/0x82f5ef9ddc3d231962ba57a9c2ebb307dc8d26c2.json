@@ -1,6 +1,5 @@
 {
   "tokenTicker": "DIPPIES",
-  "tokenName": "Dippies",
   "tokenAddress": "0x82f5ef9ddc3d231962ba57a9c2ebb307dc8d26c2",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-DIPPIES-0x82f5ef9ddc3d231962ba57a9c2ebb307dc8d26c2",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

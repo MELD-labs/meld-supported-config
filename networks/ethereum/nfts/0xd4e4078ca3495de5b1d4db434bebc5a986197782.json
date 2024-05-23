@@ -1,6 +1,5 @@
 {
   "tokenTicker": "☵",
-  "tokenName": "Autoglyphs",
   "tokenAddress": "0xd4e4078ca3495de5b1d4db434bebc5a986197782",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-☵-0xd4e4078ca3495de5b1d4db434bebc5a986197782",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

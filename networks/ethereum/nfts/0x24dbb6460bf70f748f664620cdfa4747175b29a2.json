@@ -1,6 +1,5 @@
 {
   "tokenTicker": "SIP",
-  "tokenName": "sippys",
   "tokenAddress": "0x24dbb6460bf70f748f664620cdfa4747175b29a2",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-SIP-0x24dbb6460bf70f748f664620cdfa4747175b29a2",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

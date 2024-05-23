@@ -1,6 +1,5 @@
 {
   "tokenTicker": "✺RUGNFT",
-  "tokenName": "RugGenesis NFT",
   "tokenAddress": "0x8ff1523091c9517bc328223d50b52ef450200339",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-✺RUGNFT-0x8ff1523091c9517bc328223d50b52ef450200339",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

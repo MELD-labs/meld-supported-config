@@ -1,6 +1,5 @@
 {
   "tokenTicker": "0XMON",
-  "tokenName": "0xmons.xyz",
   "tokenAddress": "0x0427743df720801825a5c82e0582b1e915e0f750",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-0XMON-0x0427743df720801825a5c82e0582b1e915e0f750",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

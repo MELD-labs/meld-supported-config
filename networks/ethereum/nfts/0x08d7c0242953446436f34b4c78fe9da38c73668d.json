@@ -1,6 +1,5 @@
 {
   "tokenTicker": "PROOF",
-  "tokenName": "PROOF Collective",
   "tokenAddress": "0x08d7c0242953446436f34b4c78fe9da38c73668d",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-PROOF-0x08d7c0242953446436f34b4c78fe9da38c73668d",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

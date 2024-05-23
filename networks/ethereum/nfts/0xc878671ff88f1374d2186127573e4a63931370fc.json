@@ -1,6 +1,5 @@
 {
   "tokenTicker": "LOSMUERTOS",
-  "tokenName": "Los Muertos",
   "tokenAddress": "0xc878671ff88f1374d2186127573e4a63931370fc",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-LOSMUERTOS-0xc878671ff88f1374d2186127573e4a63931370fc",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

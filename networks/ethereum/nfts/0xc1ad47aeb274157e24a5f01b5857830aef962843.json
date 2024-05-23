@@ -1,6 +1,5 @@
 {
   "tokenTicker": "AKUMU",
-  "tokenName": "Akumu Dragonz",
   "tokenAddress": "0xc1ad47aeb274157e24a5f01b5857830aef962843",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-AKUMU-0xc1ad47aeb274157e24a5f01b5857830aef962843",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

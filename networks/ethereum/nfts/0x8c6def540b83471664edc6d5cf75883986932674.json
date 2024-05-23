@@ -1,6 +1,5 @@
 {
   "tokenTicker": "GOBLIN",
-  "tokenName": "goblintown",
   "tokenAddress": "0x8c6def540b83471664edc6d5cf75883986932674",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-GOBLIN-0x8c6def540b83471664edc6d5cf75883986932674",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

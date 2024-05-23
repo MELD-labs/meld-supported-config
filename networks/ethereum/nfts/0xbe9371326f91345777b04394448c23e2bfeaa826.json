@@ -1,6 +1,5 @@
 {
   "tokenTicker": "OSP",
-  "tokenName": "Gemesis",
   "tokenAddress": "0xbe9371326f91345777b04394448c23e2bfeaa826",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-OSP-0xbe9371326f91345777b04394448c23e2bfeaa826",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

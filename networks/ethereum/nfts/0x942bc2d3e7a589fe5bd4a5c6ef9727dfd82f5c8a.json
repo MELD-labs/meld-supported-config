@@ -1,6 +1,5 @@
 {
   "tokenTicker": "EXPLORE",
-  "tokenName": "Art Blocks Explorations",
   "tokenAddress": "0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-EXPLORE-0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

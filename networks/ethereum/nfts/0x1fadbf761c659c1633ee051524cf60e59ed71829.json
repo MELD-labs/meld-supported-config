@@ -1,6 +1,5 @@
 {
   "tokenTicker": "PSD",
-  "tokenName": "PSD by LORS",
   "tokenAddress": "0x1fadbf761c659c1633ee051524cf60e59ed71829",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-PSD-0x1fadbf761c659c1633ee051524cf60e59ed71829",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "WNDR",
-  "tokenName": "WonderPals",
   "tokenAddress": "0x3acce66cd37518a6d77d9ea3039e00b3a2955460",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-WNDR-0x3acce66cd37518a6d77d9ea3039e00b3a2955460",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

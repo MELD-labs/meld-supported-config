@@ -1,6 +1,5 @@
 {
   "tokenTicker": "AKCB",
-  "tokenName": "a KID called BEAST",
   "tokenAddress": "0x77372a4cc66063575b05b44481f059be356964a4",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-AKCB-0x77372a4cc66063575b05b44481f059be356964a4",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

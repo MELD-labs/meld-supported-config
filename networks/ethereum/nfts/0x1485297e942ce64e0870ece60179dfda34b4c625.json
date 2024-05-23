@@ -1,6 +1,5 @@
 {
   "tokenTicker": "MOONR",
-  "tokenName": "Moonrunners",
   "tokenAddress": "0x1485297e942ce64e0870ece60179dfda34b4c625",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-MOONR-0x1485297e942ce64e0870ece60179dfda34b4c625",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

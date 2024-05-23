@@ -1,6 +1,5 @@
 {
   "tokenTicker": "WOW",
-  "tokenName": "World Of Women",
   "tokenAddress": "0xe785e82358879f061bc3dcac6f0444462d4b5330",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-WOW-0xe785e82358879f061bc3dcac6f0444462d4b5330",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

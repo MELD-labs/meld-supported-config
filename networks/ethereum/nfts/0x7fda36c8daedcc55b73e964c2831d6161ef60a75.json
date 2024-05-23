@@ -1,6 +1,5 @@
 {
   "tokenTicker": "YAY",
-  "tokenName": "Yaypegs",
   "tokenAddress": "0x7fda36c8daedcc55b73e964c2831d6161ef60a75",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-YAY-0x7fda36c8daedcc55b73e964c2831d6161ef60a75",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

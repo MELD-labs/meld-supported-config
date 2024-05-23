@@ -1,6 +1,5 @@
 {
   "tokenTicker": "MICE",
-  "tokenName": "Anonymice",
   "tokenAddress": "0xbad6186e92002e312078b5a1dafd5ddf63d3f731",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-MICE-0xbad6186e92002e312078b5a1dafd5ddf63d3f731",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

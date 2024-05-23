@@ -1,6 +1,5 @@
 {
   "tokenTicker": "STAR",
-  "tokenName": "Starcatchers",
   "tokenAddress": "0x69b9c98e8d715c25b330d0d4eb07e68cbb7f6cfc",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-STAR-0x69b9c98e8d715c25b330d0d4eb07e68cbb7f6cfc",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

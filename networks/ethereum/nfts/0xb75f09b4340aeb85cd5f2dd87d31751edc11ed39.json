@@ -1,6 +1,5 @@
 {
   "tokenTicker": "GBOX",
-  "tokenName": "Genesis Box",
   "tokenAddress": "0xb75f09b4340aeb85cd5f2dd87d31751edc11ed39",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-GBOX-0xb75f09b4340aeb85cd5f2dd87d31751edc11ed39",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "dino",
-  "tokenName": "tiny dinos",
   "tokenAddress": "0xd9b78a2f1dafc8bb9c60961790d2beefebee56f4",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-dino-0xd9b78a2f1dafc8bb9c60961790d2beefebee56f4",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

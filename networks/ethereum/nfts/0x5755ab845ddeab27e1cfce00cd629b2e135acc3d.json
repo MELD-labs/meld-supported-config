@@ -1,6 +1,5 @@
 {
   "tokenTicker": "LARVA",
-  "tokenName": "Larva Lads",
   "tokenAddress": "0x5755ab845ddeab27e1cfce00cd629b2e135acc3d",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-LARVA-0x5755ab845ddeab27e1cfce00cd629b2e135acc3d",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "LAND",
-  "tokenName": "Decentraland LAND",
   "tokenAddress": "0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-LAND-0xf87e31492faf9a91b02ee0deaad50d51d56d5d4d",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

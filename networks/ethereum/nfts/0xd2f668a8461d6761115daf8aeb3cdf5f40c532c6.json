@@ -1,6 +1,5 @@
 {
   "tokenTicker": "KARAFURU",
-  "tokenName": "Karafuru",
   "tokenAddress": "0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-KARAFURU-0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "GDOG",
-  "tokenName": "Gutter Dogs",
   "tokenAddress": "0x6e9da81ce622fb65abf6a8d8040e460ff2543add",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-GDOG-0x6e9da81ce622fb65abf6a8d8040e460ff2543add",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

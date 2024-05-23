@@ -1,6 +1,5 @@
 {
   "tokenTicker": "LOSERCLUB",
-  "tokenName": "Loser Club",
   "tokenAddress": "0x709d30f1f60f03d85a0ef33142ef3259392dc9e1",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-LOSERCLUB-0x709d30f1f60f03d85a0ef33142ef3259392dc9e1",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

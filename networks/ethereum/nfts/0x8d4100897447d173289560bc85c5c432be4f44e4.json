@@ -1,6 +1,5 @@
 {
   "tokenTicker": "GRAY",
-  "tokenName": "Gray Boys",
   "tokenAddress": "0x8d4100897447d173289560bc85c5c432be4f44e4",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-GRAY-0x8d4100897447d173289560bc85c5c432be4f44e4",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "CDB",
-  "tokenName": "CryptoDickbutts S3",
   "tokenAddress": "0x42069abfe407c60cf4ae4112bedead391dba1cdb",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-CDB-0x42069abfe407c60cf4ae4112bedead391dba1cdb",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "nfts",
-  "tokenName": "nfts (nostalgia for the s0ul) by Satoshi's Mom",
   "tokenAddress": "0xa1eb58b9afd578f2c59d78a1c46b1a2751c3cecd",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-nfts-0xa1eb58b9afd578f2c59d78a1c46b1a2751c3cecd",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

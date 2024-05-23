@@ -1,6 +1,5 @@
 {
   "tokenTicker": "PHB",
-  "tokenName": "Phanta Bear",
   "tokenAddress": "0x67d9417c9c3c250f61a83c7e8658dac487b56b09",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-PHB-0x67d9417c9c3c250f61a83c7e8658dac487b56b09",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

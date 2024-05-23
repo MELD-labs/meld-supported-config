@@ -1,6 +1,5 @@
 {
   "tokenTicker": "CROAKZ",
-  "tokenName": "CROAKZ",
   "tokenAddress": "0x7cae7b9b9a235d1d94102598e1f23310a0618914",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-CROAKZ-0x7cae7b9b9a235d1d94102598e1f23310a0618914",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

@@ -1,6 +1,5 @@
 {
   "tokenTicker": "Ͼ",
-  "tokenName": "CRYPTOPUNKS",
   "tokenAddress": "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-Ͼ-0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

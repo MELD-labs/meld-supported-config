@@ -1,6 +1,5 @@
 {
   "tokenTicker": "LL",
-  "tokenName": "loomlocknft",
   "tokenAddress": "0x1d20a51f088492a0f1c57f047a9e30c9ab5c07ea",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-LL-0x1d20a51f088492a0f1c57f047a9e30c9ab5c07ea",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

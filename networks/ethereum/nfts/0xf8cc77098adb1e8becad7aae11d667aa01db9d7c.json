@@ -1,6 +1,5 @@
 {
   "tokenTicker": "GMPEPE",
-  "tokenName": "GeoMetric Pepes",
   "tokenAddress": "0xf8cc77098adb1e8becad7aae11d667aa01db9d7c",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-GMPEPE-0xf8cc77098adb1e8becad7aae11d667aa01db9d7c",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

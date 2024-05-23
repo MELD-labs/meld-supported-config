@@ -1,6 +1,5 @@
 {
   "tokenTicker": "CAT",
-  "tokenName": "Animal",
   "tokenAddress": "0x56637f880451a5338fdfd105cb52d626190ec223",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "kanazawa-CAT-0x56637f880451a5338fdfd105cb52d626190ec223",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 222000222,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

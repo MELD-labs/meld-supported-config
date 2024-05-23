@@ -1,6 +1,5 @@
 {
   "tokenTicker": "WITCH",
-  "tokenName": "Crypto Coven",
   "tokenAddress": "0x5180db8f5c931aae63c74266b211f580155ecac8",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-WITCH-0x5180db8f5c931aae63c74266b211f580155ecac8",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

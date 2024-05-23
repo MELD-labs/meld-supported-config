@@ -1,6 +1,5 @@
 {
   "tokenTicker": "CELMATES",
-  "tokenName": "Cel Mates",
   "tokenAddress": "0x23f0dcecfe50f70d0c87578fd6a14f59900ab5e1",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-CELMATES-0x23f0dcecfe50f70d0c87578fd6a14f59900ab5e1",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

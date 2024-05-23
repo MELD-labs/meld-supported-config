@@ -1,6 +1,5 @@
 {
   "tokenTicker": "CHIMP",
-  "tokenName": "Chimpers",
   "tokenAddress": "0x80336ad7a747236ef41f47ed2c7641828a480baa",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-CHIMP-0x80336ad7a747236ef41f47ed2c7641828a480baa",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

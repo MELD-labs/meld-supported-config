@@ -1,6 +1,5 @@
 {
   "tokenTicker": "M.F",
-  "tokenName": "Murakami.Flowers",
   "tokenAddress": "0x7d8820fa92eb1584636f4f5b8515b5476b75171a",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-M.F-0x7d8820fa92eb1584636f4f5b8515b5476b75171a",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

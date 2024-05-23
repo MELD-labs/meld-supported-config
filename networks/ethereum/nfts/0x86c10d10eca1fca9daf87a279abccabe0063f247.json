@@ -1,6 +1,5 @@
 {
   "tokenTicker": "PETS",
-  "tokenName": "Cool Pets",
   "tokenAddress": "0x86c10d10eca1fca9daf87a279abccabe0063f247",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-PETS-0x86c10d10eca1fca9daf87a279abccabe0063f247",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

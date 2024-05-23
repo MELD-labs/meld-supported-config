@@ -1,6 +1,5 @@
 {
   "tokenTicker": "CHECKS",
-  "tokenName": "Checks",
   "tokenAddress": "0x036721e5a769cc48b3189efbb9cce4471e8a48b1",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-CHECKS-0x036721e5a769cc48b3189efbb9cce4471e8a48b1",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

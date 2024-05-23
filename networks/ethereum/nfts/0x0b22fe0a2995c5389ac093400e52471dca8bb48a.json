@@ -1,6 +1,5 @@
 {
   "tokenTicker": "LEMON",
-  "tokenName": "Little Lemon Friends",
   "tokenAddress": "0x0b22fe0a2995c5389ac093400e52471dca8bb48a",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-LEMON-0x0b22fe0a2995c5389ac093400e52471dca8bb48a",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

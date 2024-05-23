@@ -1,6 +1,5 @@
 {
   "tokenTicker": "TOONZ",
-  "tokenName": "DEGEN TOONZ",
   "tokenAddress": "0x19b86299c21505cdf59ce63740b240a9c822b5e4",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-TOONZ-0x19b86299c21505cdf59ce63740b240a9c822b5e4",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

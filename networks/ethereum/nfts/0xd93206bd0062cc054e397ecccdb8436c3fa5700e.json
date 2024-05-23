@@ -1,6 +1,5 @@
 {
   "tokenTicker": "10GON",
-  "tokenName": "Decagon",
   "tokenAddress": "0xd93206bd0062cc054e397ecccdb8436c3fa5700e",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-10GON-0xd93206bd0062cc054e397ecccdb8436c3fa5700e",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""

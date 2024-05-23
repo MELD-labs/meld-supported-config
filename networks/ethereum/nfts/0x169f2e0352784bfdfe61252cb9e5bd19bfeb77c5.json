@@ -1,6 +1,5 @@
 {
   "tokenTicker": "BRAIN",
-  "tokenName": "wwwbrain",
   "tokenAddress": "0x169f2e0352784bfdfe61252cb9e5bd19bfeb77c5",
   "tokenColorTheme": 1,
   "tokenType": "ERC721",
@@ -11,11 +10,8 @@
   "authorAddress": "",
   "maxSupply": 0,
   "mldId": "ethereum-BRAIN-0x169f2e0352784bfdfe61252cb9e5bd19bfeb77c5",
-  "metaURL": "",
-  "assetURL": "",
   "chainId": 1,
   "royalties": 0,
-  "nftType": "",
   "tags": [],
   "orgName": "",
   "orgUrl": ""
