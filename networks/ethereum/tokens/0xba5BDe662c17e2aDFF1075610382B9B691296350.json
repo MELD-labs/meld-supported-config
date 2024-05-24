@@ -1,14 +1,14 @@
 {
-    "CMCslug": "superrare",
-    "decimals": 18,
-    "mldId": "ethereum-RARE-0xba5bde662c17e2adff1075610382b9b691296350",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xba5bde662c17e2adff1075610382b9b691296350",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/RARE.svg",
-    "tokenName": "SuperRare",
-    "tokenTicker": "RARE",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "superrare",
+  "decimals": 18,
+  "mldId": "ethereum-RARE-0xba5bde662c17e2adff1075610382b9b691296350",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xba5bde662c17e2adff1075610382b9b691296350",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/RARE.svg",
+  "tokenName": "SuperRare",
+  "tokenTicker": "RARE",
+  "tokenType": "ERC20",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "uniswap",
-    "decimals": 18,
-    "mldId": "ethereum-UNI-0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-    "tokenColorTheme": 18,
-    "tokenIcon": "/static/tokens/UNI.svg",
-    "tokenName": "Uniswap",
-    "tokenTicker": "UNI",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "uniswap",
+  "decimals": 18,
+  "mldId": "ethereum-UNI-0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+  "tokenColorTheme": 18,
+  "tokenIcon": "/static/tokens/UNI.svg",
+  "tokenName": "Uniswap",
+  "tokenTicker": "UNI",
+  "tokenType": "ERC20",
+  "tags": []
 }

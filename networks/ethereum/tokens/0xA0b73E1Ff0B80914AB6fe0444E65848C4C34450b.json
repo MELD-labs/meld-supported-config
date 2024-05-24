@@ -1,14 +1,14 @@
 {
-    "CMCslug": "cronos",
-    "decimals": 8,
-    "mldId": "ethereum-CRO-0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
-    "tokenColorTheme": 11,
-    "tokenIcon": "/static/tokens/CRO.svg",
-    "tokenName": "CRO",
-    "tokenTicker": "CRO",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "cronos",
+  "decimals": 8,
+  "mldId": "ethereum-CRO-0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+  "tokenColorTheme": 11,
+  "tokenIcon": "/static/tokens/CRO.svg",
+  "tokenName": "CRO",
+  "tokenTicker": "CRO",
+  "tokenType": "ERC20",
+  "tags": []
 }

@@ -32,13 +32,7 @@ Our backend & frontend services then consume that config.
     
 //This is the MELD internal address for a token. It is produced based on this model {network}-{tokenTicker}-{tokenAddress}.
   "mldId": "MELD-JOE-0x777777fdd5026127f247aa92ba6dbd0ec882b095",
-    
-//This flags the asset as the 'main' asset in a group of assets that could include bridges, wrapped and tokens on other chains.
-  "isPartent": false,
-    
-//This flags that the token is a version of the 'main' asset. 
-  "isChildOf": "0x777777fdd5026127f247aa92ba6dbd0ec882b095",
-    
+ 
 //This is the circluar image uplaoded to with the PR
   "tokenIcon": "usdc.svg",
     
@@ -52,19 +46,10 @@ Our backend & frontend services then consume that config.
   "decimals": 18,
     
 //This is the lowercase name used in Coin Market Cap API.
-  "CMCslug": "usdc",     
-    
-//This flags that the asset is a stable coin. This is used to show the graph in a different way. 
-  "isStableCoin": false,
-    
-//If the token is the native gas token used to pay for transactions on a L1 or L2 then this will be flagged as true.
-  "isNative": false,
-    
-//This flags the that the asset has been wrapped at some point. 
-  "isWrapped": false,
-    
-//This flags that the asset is in the origial or 'main' asset. 
-  "isBridged": true
+  "CMCslug": "usdc",    
+
+// Can contain: bridged, stablecoin, wrapped.
+  "tags": []
 
   //This is the IRL organization name.
   "orgName": "Nakamigos",
@@ -87,10 +72,7 @@ For example:
 	"tokenType": "ERC20",
 	"decimals": 18,
 	"CMCslug": "meld",
-	"isStableCoin": false,
-	"isNative": false,
-	"isWrapped": null,
-	"isBridged": null,
+	"tags": [],
 	"orgName": "MELD",
 	"orgUrl": "https://www.meld.com"
 }
@@ -108,20 +90,14 @@ For example:
 //Not all NFTs have this. You might need to look into the smart contract for it. 
   "tokenTicker": "NKMGS",
 
-//This is the main display name of the NFT
-  "tokenName": "Nakamigos #8990",
-
 //This is the token address for the specific NFT
   "tokenAddress": "0xd774557b647330C91Bf44cfEAB205095f7E6c367",
-
-//This is either the unique ID in a collection if it's a ERC-721 or it's the ERC-1155 under a specific author.
-  "tokenID": 8990,
 
 //This is the color used in in the MELDapp We have different colors that can be selected which come close to a brand color.
   "tokenColorTheme": 2,
 
-//This is the token type: ERC20, ERC721A, ERC721C, ERC1155
-  "tokenType": "ERC721A",
+//This is the token type: ERC20, ERC721, ERC1155
+  "tokenType": "ERC721",
 
 //This is a name for a group of NFTs to be described under. Similar to the author but without a unique wallet address.
   "collectionName": "Nakamigos",
@@ -141,12 +117,6 @@ For example:
 
 //mldId is setup based on the following: {tokenTicker}-{tokenAddress}-{tokenID}
   "mldId": "NKMGS-0x777777fdd5026127f247aa92ba6dbd0ec882b095-8990",
-    
-//The URL where the metadata can be found.
-  "metaURL": "ipfs://QmaN1jRPtmzeqhp6s3mR1SRK4q1xWPvFvwqW1jyN6trir9/8990",
-    
-//The URL for the actual asset: jpg, png, mp4, aiff etc.
-  "assetURL": "ipfs://QmYhWbMgfAjkFGf9U7ueut9csL3PpJ7fosY2VKJQmG9VH2",
 
 //This is the blockchain in which this token was orgininally minted.
   "chainId": 1,
@@ -154,20 +124,8 @@ For example:
 //This is the royalties the authoer gets per transaction. The number is from 0 to 50.
   "royalties": 5,
 
-//nftType is showing what kind category of NFT it is: art, game, pfp, photo, genart, pass or music consumable.
-  "nftType": "art",
-    
-//This flags the asset as a 1 of 1 art.
-  "is1of1": false,
-    
-//This flags the asset to be used as a Persona Profile Picture (PFP).
-  "isPfp": false,
-
-//This flags the assets as a singple assets mintable many times.
-  "isCollection": false,
-
-//This flags the asset has having been bridged from somewhere else.
-  "isBridged": true,
+// Can contain: 1Of1, pfp, collection, bridged.
+  "tags": [],
 
 //This is the IRL organization name.
   "orgName": "Nakamigos",
@@ -182,11 +140,9 @@ For example:
 ```javascript
 {
   "tokenTicker": "CDB",
-  "tokenName": "CryptoDickbutt #690",
   "tokenAddress": "0x42069ABFE407C60cf4ae4112bEDEaD391dBa1cdB",
-  "tokenID": 8990,
   "tokenColorTheme": 3,
-  "tokenType": "ERC721A",
+  "tokenType": "ERC721",
   "collectionName": "CryptoDickbutts S3",
   "groupedUnder": "0x777777fdd5026127f247aa92ba6dbd0ec882b095",
   "collectionIcon": "nakamigos.png",
@@ -194,15 +150,9 @@ For example:
   "authorAddress": "0xFCD457B27EE149E74A080B2a4e482D9A5dBaf3d9",
   "maxSupply": 20000,
   "mldId": "NKMGS-0x777777fdd5026127f247aa92ba6dbd0ec882b095-8990",
-  "metaURL": "ipfs://bafybeih6w5u6lrtgjny462e4kposywwzksvg4rsdp6c55g5shpe3hs2x3q/1/690.json",
-  "assetURL": "ipfs://QmXUWxunVioYiTwfqisx6f8V5zPX1aAJtmn4KwQgnEkjrj",
   "chainId": 1,
   "royalties": 5,
-  "nftType": "PFP",
-  "is1of1": false,
-  "isPfp": true,
-  "isCollection": false,
-  "isBridged": false,
+  "tags": [],
   "orgName": "CryptoDickbutts",
   "orgUrl": "https://cryptodickbutts.com/",
 }

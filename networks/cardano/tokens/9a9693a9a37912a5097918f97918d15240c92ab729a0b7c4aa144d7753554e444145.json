@@ -1,14 +1,14 @@
 {
-    "CMCslug": "sundaeswap",
-    "decimals": 6,
-    "mldId": "cardano-SUNDAE-9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
-    "tokenColorTheme": 17,
-    "tokenIcon": "/static/tokens/SUNDAE.svg",
-    "tokenName": "SundaeSwap",
-    "tokenTicker": "SUNDAE",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "sundaeswap",
+  "decimals": 6,
+  "mldId": "cardano-SUNDAE-9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
+  "tokenColorTheme": 17,
+  "tokenIcon": "/static/tokens/SUNDAE.svg",
+  "tokenName": "SundaeSwap",
+  "tokenTicker": "SUNDAE",
+  "tokenType": "CNT",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "cardano",
-    "decimals": 6,
-    "mldId": "preprod-tADA-lovelace",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "lovelace",
-    "tokenColorTheme": 10,
-    "tokenIcon": "/static/tokens/ADA.svg",
-    "tokenName": "tADA",
-    "tokenTicker": "tADA",
-    "tokenType": "native-cardano",
-    "tags": []
+  "CMCslug": "cardano",
+  "decimals": 6,
+  "mldId": "preprod-tADA-lovelace",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "lovelace",
+  "tokenColorTheme": 10,
+  "tokenIcon": "/static/tokens/ADA.svg",
+  "tokenName": "tADA",
+  "tokenTicker": "tADA",
+  "tokenType": "native-cardano",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "charli3",
-    "decimals": 6,
-    "mldId": "cardano-C3-8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
-    "tokenColorTheme": 8,
-    "tokenIcon": "/static/tokens/C3.svg",
-    "tokenName": "Charli3",
-    "tokenTicker": "C3",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "charli3",
+  "decimals": 6,
+  "mldId": "cardano-C3-8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
+  "tokenColorTheme": 8,
+  "tokenIcon": "/static/tokens/C3.svg",
+  "tokenName": "Charli3",
+  "tokenTicker": "C3",
+  "tokenType": "CNT",
+  "tags": []
 }

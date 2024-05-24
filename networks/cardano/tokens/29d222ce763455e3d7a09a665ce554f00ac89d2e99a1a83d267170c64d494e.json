@@ -1,14 +1,14 @@
 {
-    "CMCslug": "minswap",
-    "decimals": 6,
-    "mldId": "cardano-MIN-29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
-    "tokenColorTheme": 5,
-    "tokenIcon": "/static/tokens/MIN.svg",
-    "tokenName": "Minswap",
-    "tokenTicker": "MIN",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "minswap",
+  "decimals": 6,
+  "mldId": "cardano-MIN-29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+  "tokenColorTheme": 5,
+  "tokenIcon": "/static/tokens/MIN.svg",
+  "tokenName": "Minswap",
+  "tokenTicker": "MIN",
+  "tokenType": "CNT",
+  "tags": []
 }

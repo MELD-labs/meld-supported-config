@@ -1,14 +1,14 @@
 {
-    "CMCslug": "meld",
-    "decimals": 18,
-    "mldId": "meld-gMELD-native",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "native",
-    "tokenColorTheme": 1,
-    "tokenIcon": "/static/tokens/MELD.svg",
-    "tokenName": "gMeld",
-    "tokenTicker": "gMELD",
-    "tokenType": "native-evm",
-    "tags": []
+  "CMCslug": "meld",
+  "decimals": 18,
+  "mldId": "meld-gMELD-native",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "native",
+  "tokenColorTheme": 1,
+  "tokenIcon": "/static/tokens/MELD.svg",
+  "tokenName": "gMeld",
+  "tokenTicker": "gMELD",
+  "tokenType": "native-evm",
+  "tags": []
 }

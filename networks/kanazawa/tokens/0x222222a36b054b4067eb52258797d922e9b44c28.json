@@ -1,14 +1,14 @@
 {
-    "CMCslug": "ethereum",
-    "decimals": 18,
-    "mldId": "kanazawa-twETH-0x222222a36b054b4067eb52258797d922e9b44c28",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x222222a36b054b4067eb52258797d922e9b44c28",
-    "tokenColorTheme": 19,
-    "tokenIcon": "/static/tokens/wETH.svg",
-    "tokenName": "Wrapped Ether",
-    "tokenTicker": "twETH",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "ethereum",
+  "decimals": 18,
+  "mldId": "kanazawa-twETH-0x222222a36b054b4067eb52258797d922e9b44c28",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x222222a36b054b4067eb52258797d922e9b44c28",
+  "tokenColorTheme": 19,
+  "tokenIcon": "/static/tokens/wETH.svg",
+  "tokenName": "Wrapped Ether",
+  "tokenTicker": "twETH",
+  "tokenType": "ERC20",
+  "tags": []
 }

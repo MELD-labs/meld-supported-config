@@ -1,14 +1,14 @@
 {
-    "CMCslug": "clay-nation",
-    "decimals": 4,
-    "mldId": "cardano-CLAY-38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/CLAY.svg",
-    "tokenName": "Clay Nation",
-    "tokenTicker": "CLAY",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "clay-nation",
+  "decimals": 4,
+  "mldId": "cardano-CLAY-38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/CLAY.svg",
+  "tokenName": "Clay Nation",
+  "tokenTicker": "CLAY",
+  "tokenType": "CNT",
+  "tags": []
 }

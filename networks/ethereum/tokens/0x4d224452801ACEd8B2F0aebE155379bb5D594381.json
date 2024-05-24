@@ -1,14 +1,14 @@
 {
-    "CMCslug": "apecoin-ape",
-    "decimals": 18,
-    "mldId": "ethereum-APE-0x4d224452801aced8b2f0aebe155379bb5d594381",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x4d224452801aced8b2f0aebe155379bb5d594381",
-    "tokenColorTheme": 22,
-    "tokenIcon": "/static/tokens/APE.svg",
-    "tokenName": "ApeCoin",
-    "tokenTicker": "APE",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "apecoin-ape",
+  "decimals": 18,
+  "mldId": "ethereum-APE-0x4d224452801aced8b2f0aebe155379bb5d594381",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+  "tokenColorTheme": 22,
+  "tokenIcon": "/static/tokens/APE.svg",
+  "tokenName": "ApeCoin",
+  "tokenTicker": "APE",
+  "tokenType": "ERC20",
+  "tags": []
 }

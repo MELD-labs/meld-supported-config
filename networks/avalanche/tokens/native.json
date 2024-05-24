@@ -1,14 +1,14 @@
 {
-    "CMCslug": "avalanche",
-    "decimals": 18,
-    "mldId": "avalanche-AVAX-native",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "native",
-    "tokenColorTheme": 1,
-    "tokenIcon": "/static/tokens/AVAX.svg",
-    "tokenName": "Avalanche",
-    "tokenTicker": "AVAX",
-    "tokenType": "native-evm",
-    "tags": []
+  "CMCslug": "avalanche",
+  "decimals": 18,
+  "mldId": "avalanche-AVAX-native",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "native",
+  "tokenColorTheme": 1,
+  "tokenIcon": "/static/tokens/AVAX.svg",
+  "tokenName": "Avalanche",
+  "tokenTicker": "AVAX",
+  "tokenType": "native-evm",
+  "tags": []
 }

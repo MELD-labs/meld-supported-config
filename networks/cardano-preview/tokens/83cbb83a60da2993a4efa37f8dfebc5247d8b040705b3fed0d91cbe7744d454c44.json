@@ -1,14 +1,14 @@
 {
-    "tokenTicker": "tMELD",
-    "tokenName": "tMELD",
-    "tokenAddress": "83cbb83a60da2993a4efa37f8dfebc5247d8b040705b3fed0d91cbe7744d454c44",
-    "mldId": "cardano-preview-tMELD-83cbb83a60da2993a4efa37f8dfebc5247d8b040705b3fed0d91cbe7744d454c44",
-    "tokenIcon": "/static/tokens/MELD.svg",
-    "tokenColorTheme": 16,
-    "tokenType": "CNT",
-    "decimals": 6,
-    "CMCslug": "meld",
-    "orgName": null,
-    "orgUrl": null,
-    "tags": []
+  "tokenTicker": "tMELD",
+  "tokenName": "tMELD",
+  "tokenAddress": "83cbb83a60da2993a4efa37f8dfebc5247d8b040705b3fed0d91cbe7744d454c44",
+  "mldId": "cardano-preview-tMELD-83cbb83a60da2993a4efa37f8dfebc5247d8b040705b3fed0d91cbe7744d454c44",
+  "tokenIcon": "/static/tokens/MELD.svg",
+  "tokenColorTheme": 16,
+  "tokenType": "CNT",
+  "decimals": 6,
+  "CMCslug": "meld",
+  "orgName": "",
+  "orgUrl": "",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "yearn-finance",
-    "decimals": 18,
-    "mldId": "ethereum-YFI-0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/YFI.svg",
-    "tokenName": "yearn.finance",
-    "tokenTicker": "YFI",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "yearn-finance",
+  "decimals": 18,
+  "mldId": "ethereum-YFI-0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/YFI.svg",
+  "tokenName": "yearn.finance",
+  "tokenTicker": "YFI",
+  "tokenType": "ERC20",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "nunet",
-    "decimals": 6,
-    "mldId": "cardano-NTX-edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/NTX.svg",
-    "tokenName": "NuNet",
-    "tokenTicker": "NTX",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "nunet",
+  "decimals": 6,
+  "mldId": "cardano-NTX-edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/NTX.svg",
+  "tokenName": "NuNet",
+  "tokenTicker": "NTX",
+  "tokenType": "CNT",
+  "tags": []
 }

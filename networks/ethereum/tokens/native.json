@@ -1,14 +1,14 @@
 {
-    "CMCslug": "ethereum",
-    "decimals": 18,
-    "mldId": "ethereum-ETH-native",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "native",
-    "tokenColorTheme": 19,
-    "tokenIcon": "/static/tokens/ETH.svg",
-    "tokenName": "Ether",
-    "tokenTicker": "ETH",
-    "tokenType": "native-evm",
-    "tags": []
+  "CMCslug": "ethereum",
+  "decimals": 18,
+  "mldId": "ethereum-ETH-native",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "native",
+  "tokenColorTheme": 19,
+  "tokenIcon": "/static/tokens/ETH.svg",
+  "tokenName": "Ether",
+  "tokenTicker": "ETH",
+  "tokenType": "native-evm",
+  "tags": []
 }

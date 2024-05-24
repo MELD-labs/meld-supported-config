@@ -1,14 +1,14 @@
 {
-    "CMCslug": "minswap",
-    "decimals": 6,
-    "mldId": "preprod-tMIN-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e3744d494e",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e3744d494e",
-    "tokenColorTheme": 5,
-    "tokenIcon": "/static/tokens/MIN.svg",
-    "tokenName": "tMIN",
-    "tokenTicker": "tMIN",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "minswap",
+  "decimals": 6,
+  "mldId": "preprod-tMIN-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e3744d494e",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e3744d494e",
+  "tokenColorTheme": 5,
+  "tokenIcon": "/static/tokens/MIN.svg",
+  "tokenName": "tMIN",
+  "tokenTicker": "tMIN",
+  "tokenType": "CNT",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "badger-dao",
-    "decimals": 18,
-    "mldId": "ethereum-BADGER-0x3472a5a71965499acd81997a54bba8d852c6e53d",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/BADGER.svg",
-    "tokenName": "Badger",
-    "tokenTicker": "BADGER",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "badger-dao",
+  "decimals": 18,
+  "mldId": "ethereum-BADGER-0x3472a5a71965499acd81997a54bba8d852c6e53d",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/BADGER.svg",
+  "tokenName": "Badger",
+  "tokenTicker": "BADGER",
+  "tokenType": "ERC20",
+  "tags": []
 }

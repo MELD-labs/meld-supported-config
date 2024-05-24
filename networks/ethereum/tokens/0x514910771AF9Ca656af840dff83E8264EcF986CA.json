@@ -1,14 +1,14 @@
 {
-    "CMCslug": "chainlink",
-    "decimals": 18,
-    "mldId": "ethereum-LINK-0x514910771af9ca656af840dff83e8264ecf986ca",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/LINK.svg",
-    "tokenName": "ChainLink Token",
-    "tokenTicker": "LINK",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "chainlink",
+  "decimals": 18,
+  "mldId": "ethereum-LINK-0x514910771af9ca656af840dff83e8264ecf986ca",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/LINK.svg",
+  "tokenName": "ChainLink Token",
+  "tokenTicker": "LINK",
+  "tokenType": "ERC20",
+  "tags": []
 }

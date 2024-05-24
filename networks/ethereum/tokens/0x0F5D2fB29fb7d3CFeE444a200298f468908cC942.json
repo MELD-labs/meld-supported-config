@@ -1,14 +1,14 @@
 {
-    "CMCslug": "decentraland",
-    "decimals": 18,
-    "mldId": "ethereum-MANA-0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/MANA.svg",
-    "tokenName": "Decentraland MANA",
-    "tokenTicker": "MANA",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "decentraland",
+  "decimals": 18,
+  "mldId": "ethereum-MANA-0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/MANA.svg",
+  "tokenName": "Decentraland MANA",
+  "tokenTicker": "MANA",
+  "tokenType": "ERC20",
+  "tags": []
 }

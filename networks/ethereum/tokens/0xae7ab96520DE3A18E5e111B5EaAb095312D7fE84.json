@@ -1,14 +1,14 @@
 {
-    "CMCslug": "steth",
-    "decimals": 18,
-    "mldId": "ethereum-stETH-0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-    "tokenColorTheme": 19,
-    "tokenIcon": "/static/tokens/stETH.svg",
-    "tokenName": "Liquid staked Ether 2.0",
-    "tokenTicker": "stETH",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "steth",
+  "decimals": 18,
+  "mldId": "ethereum-stETH-0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+  "tokenColorTheme": 19,
+  "tokenIcon": "/static/tokens/stETH.svg",
+  "tokenName": "Liquid staked Ether 2.0",
+  "tokenTicker": "stETH",
+  "tokenType": "ERC20",
+  "tags": []
 }

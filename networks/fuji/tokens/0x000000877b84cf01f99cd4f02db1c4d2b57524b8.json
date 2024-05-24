@@ -1,16 +1,16 @@
 {
-    "CMCslug": "usd-coin",
-    "decimals": 6,
-    "mldId": "fuji-tUSDC-0x000000877b84cf01f99cd4f02db1c4d2b57524b8",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x000000877b84cf01f99cd4f02db1c4d2b57524b8",
-    "tokenColorTheme": 2,
-    "tokenIcon": "/static/tokens/USDC.svg",
-    "tokenName": "USD Coin",
-    "tokenTicker": "tUSDC",
-    "tokenType": "ERC20",
-    "tags": [
-        "stablecoin"
-    ]
+  "CMCslug": "usd-coin",
+  "decimals": 6,
+  "mldId": "fuji-tUSDC-0x000000877b84cf01f99cd4f02db1c4d2b57524b8",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x000000877b84cf01f99cd4f02db1c4d2b57524b8",
+  "tokenColorTheme": 2,
+  "tokenIcon": "/static/tokens/USDC.svg",
+  "tokenName": "USD Coin",
+  "tokenTicker": "tUSDC",
+  "tokenType": "ERC20",
+  "tags": [
+    "stablecoin"
+  ]
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "illuvium",
-    "decimals": 18,
-    "mldId": "ethereum-ILV-0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/ILV.svg",
-    "tokenName": "Illuvium",
-    "tokenTicker": "ILV",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "illuvium",
+  "decimals": 18,
+  "mldId": "ethereum-ILV-0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/ILV.svg",
+  "tokenName": "Illuvium",
+  "tokenTicker": "ILV",
+  "tokenType": "ERC20",
+  "tags": []
 }

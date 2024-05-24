@@ -1,14 +1,14 @@
 {
-    "CMCslug": "band-protocol",
-    "decimals": 18,
-    "mldId": "ethereum-BAND-0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/BAND.svg",
-    "tokenName": "BandToken",
-    "tokenTicker": "BAND",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "band-protocol",
+  "decimals": 18,
+  "mldId": "ethereum-BAND-0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/BAND.svg",
+  "tokenName": "BandToken",
+  "tokenTicker": "BAND",
+  "tokenType": "ERC20",
+  "tags": []
 }

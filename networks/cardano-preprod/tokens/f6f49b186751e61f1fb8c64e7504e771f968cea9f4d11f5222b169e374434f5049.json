@@ -1,14 +1,14 @@
 {
-    "CMCslug": "cornucopias",
-    "decimals": 6,
-    "mldId": "preprod-tCOPI-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374434f5049",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374434f5049",
-    "tokenColorTheme": 3,
-    "tokenIcon": "/static/tokens/COPI.svg",
-    "tokenName": "tCOPI",
-    "tokenTicker": "tCOPI",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "cornucopias",
+  "decimals": 6,
+  "mldId": "preprod-tCOPI-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374434f5049",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e374434f5049",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/COPI.svg",
+  "tokenName": "tCOPI",
+  "tokenTicker": "tCOPI",
+  "tokenType": "CNT",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "gmx",
-    "decimals": 18,
-    "mldId": "kanazawa-tGMX-0x888888e101a2ab5bd860c37caaede275d15c8f83",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x888888e101a2ab5bd860c37caaede275d15c8f83",
-    "tokenColorTheme": 14,
-    "tokenIcon": "/static/tokens/GMX.svg",
-    "tokenName": "GMX",
-    "tokenTicker": "tGMX",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "gmx",
+  "decimals": 18,
+  "mldId": "kanazawa-tGMX-0x888888e101a2ab5bd860c37caaede275d15c8f83",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x888888e101a2ab5bd860c37caaede275d15c8f83",
+  "tokenColorTheme": 14,
+  "tokenIcon": "/static/tokens/GMX.svg",
+  "tokenName": "GMX",
+  "tokenTicker": "tGMX",
+  "tokenType": "ERC20",
+  "tags": []
 }

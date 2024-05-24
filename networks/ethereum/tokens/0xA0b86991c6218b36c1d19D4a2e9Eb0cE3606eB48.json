@@ -1,16 +1,16 @@
 {
-    "CMCslug": "usd-coin",
-    "decimals": 6,
-    "mldId": "ethereum-USDC-0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-    "tokenColorTheme": 2,
-    "tokenIcon": "/static/tokens/USDC.svg",
-    "tokenName": "USD Coin",
-    "tokenTicker": "USDC",
-    "tokenType": "ERC20",
-    "tags": [
-        "stablecoin"
-    ]
+  "CMCslug": "usd-coin",
+  "decimals": 6,
+  "mldId": "ethereum-USDC-0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+  "tokenColorTheme": 2,
+  "tokenIcon": "/static/tokens/USDC.svg",
+  "tokenName": "USD Coin",
+  "tokenTicker": "USDC",
+  "tokenType": "ERC20",
+  "tags": [
+    "stablecoin"
+  ]
 }

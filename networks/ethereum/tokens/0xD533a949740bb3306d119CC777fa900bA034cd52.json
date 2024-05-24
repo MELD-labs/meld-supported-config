@@ -1,14 +1,14 @@
 {
-    "CMCslug": "curve-dao-token",
-    "decimals": 18,
-    "mldId": "ethereum-CRV-0xd533a949740bb3306d119cc777fa900ba034cd52",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/CRV.svg",
-    "tokenName": "Curve DAO Token",
-    "tokenTicker": "CRV",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "curve-dao-token",
+  "decimals": 18,
+  "mldId": "ethereum-CRV-0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/CRV.svg",
+  "tokenName": "Curve DAO Token",
+  "tokenTicker": "CRV",
+  "tokenType": "ERC20",
+  "tags": []
 }

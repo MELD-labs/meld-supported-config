@@ -1,14 +1,14 @@
 {
-    "CMCslug": "sushiswap",
-    "decimals": 18,
-    "mldId": "ethereum-SUSHI-0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/SUSHI.svg",
-    "tokenName": "SushiToken",
-    "tokenTicker": "SUSHI",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "sushiswap",
+  "decimals": 18,
+  "mldId": "ethereum-SUSHI-0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/SUSHI.svg",
+  "tokenName": "SushiToken",
+  "tokenTicker": "SUSHI",
+  "tokenType": "ERC20",
+  "tags": []
 }

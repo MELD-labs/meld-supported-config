@@ -1,16 +1,16 @@
 {
-    "CMCslug": "avalanche",
-    "decimals": 18,
-    "mldId": "kanazawa-AVAX-0x96c650046ebe8fc99b19bed26f6b8bb88fdfd648",
-    "orgName": "Meld Bridge",
-    "orgUrl": "https://meld.com",
-    "tokenAddress": "0x96c650046EbE8fc99B19Bed26f6B8Bb88fDFd648",
-    "tokenColorTheme": 2,
-    "tokenIcon": "/static/tokens/AVAX.svg",
-    "tokenName": "Avalanche",
-    "tokenTicker": "AVAX",
-    "tokenType": "ERC20",
-    "tags": [
-        "bridged"
-    ]
+  "CMCslug": "avalanche",
+  "decimals": 18,
+  "mldId": "kanazawa-AVAX-0x96c650046ebe8fc99b19bed26f6b8bb88fdfd648",
+  "orgName": "Meld Bridge",
+  "orgUrl": "https://meld.com",
+  "tokenAddress": "0x96c650046EbE8fc99B19Bed26f6B8Bb88fDFd648",
+  "tokenColorTheme": 2,
+  "tokenIcon": "/static/tokens/AVAX.svg",
+  "tokenName": "Avalanche",
+  "tokenTicker": "AVAX",
+  "tokenType": "ERC20",
+  "tags": [
+    "bridged"
+  ]
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "ethereum",
-    "decimals": 18,
-    "mldId": "ethereum-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-    "tokenColorTheme": 19,
-    "tokenIcon": "/static/tokens/wETH.svg",
-    "tokenName": "Wrapped Ether",
-    "tokenTicker": "WETH",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "ethereum",
+  "decimals": 18,
+  "mldId": "ethereum-WETH-0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "tokenColorTheme": 19,
+  "tokenIcon": "/static/tokens/wETH.svg",
+  "tokenName": "Wrapped Ether",
+  "tokenTicker": "WETH",
+  "tokenType": "ERC20",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "bitcoin",
-    "decimals": 8,
-    "mldId": "kanazawa-twBTC-0x333333cf89d3fbbddf44423c7e9251463b866bcb",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x333333cf89d3fbbddf44423c7e9251463b866bcb",
-    "tokenColorTheme": 9,
-    "tokenIcon": "/static/tokens/WBTC.svg",
-    "tokenName": "Wrapped BTC",
-    "tokenTicker": "twBTC",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "bitcoin",
+  "decimals": 8,
+  "mldId": "kanazawa-twBTC-0x333333cf89d3fbbddf44423c7e9251463b866bcb",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x333333cf89d3fbbddf44423c7e9251463b866bcb",
+  "tokenColorTheme": 9,
+  "tokenIcon": "/static/tokens/WBTC.svg",
+  "tokenName": "Wrapped BTC",
+  "tokenTicker": "twBTC",
+  "tokenType": "ERC20",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "bitcoin",
-    "decimals": 8,
-    "mldId": "ethereum-renBTC-0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
-    "tokenColorTheme": 3,
-    "tokenIcon": "/static/tokens/renBTC.svg",
-    "tokenName": "renBTC",
-    "tokenTicker": "renBTC",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "bitcoin",
+  "decimals": 8,
+  "mldId": "ethereum-renBTC-0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/renBTC.svg",
+  "tokenName": "renBTC",
+  "tokenTicker": "renBTC",
+  "tokenType": "ERC20",
+  "tags": []
 }

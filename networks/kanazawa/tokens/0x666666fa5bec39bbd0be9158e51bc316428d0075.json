@@ -1,14 +1,14 @@
 {
-    "CMCslug": "avalanche",
-    "decimals": 18,
-    "mldId": "kanazawa-twAVAX-0x666666fa5bec39bbd0be9158e51bc316428d0075",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x666666fa5bec39bbd0be9158e51bc316428d0075",
-    "tokenColorTheme": 1,
-    "tokenIcon": "/static/tokens/AVAX.svg",
-    "tokenName": "Wrapped Avalanche",
-    "tokenTicker": "twAVAX",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "avalanche",
+  "decimals": 18,
+  "mldId": "kanazawa-twAVAX-0x666666fa5bec39bbd0be9158e51bc316428d0075",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x666666fa5bec39bbd0be9158e51bc316428d0075",
+  "tokenColorTheme": 1,
+  "tokenIcon": "/static/tokens/AVAX.svg",
+  "tokenName": "Wrapped Avalanche",
+  "tokenTicker": "twAVAX",
+  "tokenType": "ERC20",
+  "tags": []
 }

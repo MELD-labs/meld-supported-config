@@ -1,14 +1,14 @@
 {
-    "CMCslug": "benqi",
-    "decimals": 18,
-    "mldId": "avalanche-QI-0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/QI.svg",
-    "tokenName": "BENQI",
-    "tokenTicker": "QI",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "benqi",
+  "decimals": 18,
+  "mldId": "avalanche-QI-0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/QI.svg",
+  "tokenName": "BENQI",
+  "tokenTicker": "QI",
+  "tokenType": "ERC20",
+  "tags": []
 }

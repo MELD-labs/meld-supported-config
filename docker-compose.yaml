@@ -6,6 +6,7 @@ services:
     environment:
       TRACKING_API_URL: ${TRACKING_API_URL}
       CONFIG_DIR: /networks
+      MELD_NETWORK: ${MELD_NETWORK}
     configs:
       - source: config-dir
         target: /networks

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "meld",
-    "decimals": 6,
-    "mldId": "cardano-MELD-6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
-    "tokenColorTheme": 1,
-    "tokenIcon": "/static/tokens/OLD_MELD.svg",
-    "tokenName": "MELD [old]",
-    "tokenTicker": "MELD",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "meld",
+  "decimals": 6,
+  "mldId": "cardano-MELD-6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
+  "tokenColorTheme": 1,
+  "tokenIcon": "/static/tokens/OLD_MELD.svg",
+  "tokenName": "MELD [old]",
+  "tokenTicker": "MELD",
+  "tokenType": "CNT",
+  "tags": []
 }

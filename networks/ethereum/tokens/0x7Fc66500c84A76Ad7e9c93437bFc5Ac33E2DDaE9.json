@@ -1,14 +1,14 @@
 {
-    "CMCslug": "aave",
-    "decimals": 18,
-    "mldId": "ethereum-AAVE-0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/AAVE.svg",
-    "tokenName": "Aave Token",
-    "tokenTicker": "AAVE",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "aave",
+  "decimals": 18,
+  "mldId": "ethereum-AAVE-0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/AAVE.svg",
+  "tokenName": "Aave Token",
+  "tokenTicker": "AAVE",
+  "tokenType": "ERC20",
+  "tags": []
 }

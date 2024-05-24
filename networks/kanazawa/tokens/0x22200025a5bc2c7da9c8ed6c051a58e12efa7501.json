@@ -1,14 +1,14 @@
 {
-    "CMCslug": "meld",
-    "decimals": 18,
-    "mldId": "kanazawa-MELD-0x22200025a5bc2c7da9c8ed6c051a58e12efa7501",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x22200025a5bc2c7da9c8ed6c051a58e12efa7501",
-    "tokenColorTheme": 1,
-    "tokenIcon": "/static/tokens/MELD.svg",
-    "tokenName": "Meld",
-    "tokenTicker": "MELD",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "meld",
+  "decimals": 18,
+  "mldId": "kanazawa-MELD-0x22200025a5bc2c7da9c8ed6c051a58e12efa7501",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x22200025a5bc2c7da9c8ed6c051a58e12efa7501",
+  "tokenColorTheme": 1,
+  "tokenIcon": "/static/tokens/MELD.svg",
+  "tokenName": "Meld",
+  "tokenTicker": "MELD",
+  "tokenType": "ERC20",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "bitcoin",
-    "decimals": 8,
-    "mldId": "ethereum-WBTC-0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-    "tokenColorTheme": 3,
-    "tokenIcon": "/static/tokens/WBTC.svg",
-    "tokenName": "Wrapped BTC",
-    "tokenTicker": "WBTC",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "bitcoin",
+  "decimals": 8,
+  "mldId": "ethereum-WBTC-0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/WBTC.svg",
+  "tokenName": "Wrapped BTC",
+  "tokenTicker": "WBTC",
+  "tokenType": "ERC20",
+  "tags": []
 }

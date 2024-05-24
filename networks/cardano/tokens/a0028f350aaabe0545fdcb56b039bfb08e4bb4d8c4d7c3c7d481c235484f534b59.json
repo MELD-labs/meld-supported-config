@@ -1,14 +1,14 @@
 {
-    "CMCslug": "hosky-token",
-    "decimals": 0,
-    "mldId": "cardano-HOSKY-a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
-    "tokenColorTheme": 19,
-    "tokenIcon": "/static/tokens/Hosky.svg",
-    "tokenName": "Hosky",
-    "tokenTicker": "HOSKY",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "hosky-token",
+  "decimals": 0,
+  "mldId": "cardano-HOSKY-a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+  "tokenColorTheme": 19,
+  "tokenIcon": "/static/tokens/Hosky.svg",
+  "tokenName": "Hosky",
+  "tokenTicker": "HOSKY",
+  "tokenType": "CNT",
+  "tags": []
 }

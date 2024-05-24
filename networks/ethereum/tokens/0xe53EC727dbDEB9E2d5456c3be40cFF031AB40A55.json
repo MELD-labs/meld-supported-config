@@ -1,14 +1,14 @@
 {
-    "CMCslug": "superfarm",
-    "decimals": 18,
-    "mldId": "ethereum-SUPER-0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/SUPER.svg",
-    "tokenName": "SuperFarm",
-    "tokenTicker": "SUPER",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "superfarm",
+  "decimals": 18,
+  "mldId": "ethereum-SUPER-0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/SUPER.svg",
+  "tokenName": "SuperFarm",
+  "tokenTicker": "SUPER",
+  "tokenType": "ERC20",
+  "tags": []
 }

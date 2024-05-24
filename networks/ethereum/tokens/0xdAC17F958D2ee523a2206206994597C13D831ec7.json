@@ -1,16 +1,16 @@
 {
-    "CMCslug": "tether",
-    "decimals": 6,
-    "mldId": "ethereum-USDT-0xdac17f958d2ee523a2206206994597c13d831ec7",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-    "tokenColorTheme": 4,
-    "tokenIcon": "/static/tokens/USDT.svg",
-    "tokenName": "Tether USD",
-    "tokenTicker": "USDT",
-    "tokenType": "ERC20",
-    "tags": [
-        "stablecoin"
-    ]
+  "CMCslug": "tether",
+  "decimals": 6,
+  "mldId": "ethereum-USDT-0xdac17f958d2ee523a2206206994597c13d831ec7",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+  "tokenColorTheme": 4,
+  "tokenIcon": "/static/tokens/USDT.svg",
+  "tokenName": "Tether USD",
+  "tokenTicker": "USDT",
+  "tokenType": "ERC20",
+  "tags": [
+    "stablecoin"
+  ]
 }

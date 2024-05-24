@@ -1,16 +1,16 @@
 {
-    "CMCslug": "binance-usd",
-    "decimals": 18,
-    "mldId": "avalanche-BUSD-0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
-    "tokenColorTheme": 23,
-    "tokenIcon": "/static/tokens/BUSD.svg",
-    "tokenName": "BUSD Token",
-    "tokenTicker": "BUSD",
-    "tokenType": "ERC20",
-    "tags": [
-        "stablecoin"
-    ]
+  "CMCslug": "binance-usd",
+  "decimals": 18,
+  "mldId": "avalanche-BUSD-0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+  "tokenColorTheme": 23,
+  "tokenIcon": "/static/tokens/BUSD.svg",
+  "tokenName": "BUSD Token",
+  "tokenTicker": "BUSD",
+  "tokenType": "ERC20",
+  "tags": [
+    "stablecoin"
+  ]
 }

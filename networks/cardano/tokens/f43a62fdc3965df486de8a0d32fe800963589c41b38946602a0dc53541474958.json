@@ -1,14 +1,14 @@
 {
-    "CMCslug": "singularitynet",
-    "decimals": 8,
-    "mldId": "cardano-AGIX-f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/AGIX.svg",
-    "tokenName": "SingularityNET",
-    "tokenTicker": "AGIX",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "singularitynet",
+  "decimals": 8,
+  "mldId": "cardano-AGIX-f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/AGIX.svg",
+  "tokenName": "SingularityNET",
+  "tokenTicker": "AGIX",
+  "tokenType": "CNT",
+  "tags": []
 }

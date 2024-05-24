@@ -1,14 +1,14 @@
 {
-    "CMCslug": "gmx",
-    "decimals": 18,
-    "mldId": "avalanche-GMX-0x62edc0692bd897d2295872a9ffcac5425011c661",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x62edc0692bd897d2295872a9ffcac5425011c661",
-    "tokenColorTheme": 14,
-    "tokenIcon": "/static/tokens/GMX.svg",
-    "tokenName": "GMX",
-    "tokenTicker": "GMX",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "gmx",
+  "decimals": 18,
+  "mldId": "avalanche-GMX-0x62edc0692bd897d2295872a9ffcac5425011c661",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+  "tokenColorTheme": 14,
+  "tokenIcon": "/static/tokens/GMX.svg",
+  "tokenName": "GMX",
+  "tokenTicker": "GMX",
+  "tokenType": "ERC20",
+  "tags": []
 }

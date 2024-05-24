@@ -1,14 +1,14 @@
 {
-    "CMCslug": "cardano",
-    "decimals": 6,
-    "mldId": "kanazawa-tADA-0x9999998e5d8a3433b3ec639b4559c61d72b2a43b",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x9999998e5d8a3433b3ec639b4559c61d72b2a43b",
-    "tokenColorTheme": 10,
-    "tokenIcon": "/static/tokens/ADA.svg",
-    "tokenName": "Cardano",
-    "tokenTicker": "tADA",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "cardano",
+  "decimals": 6,
+  "mldId": "kanazawa-tADA-0x9999998e5d8a3433b3ec639b4559c61d72b2a43b",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x9999998e5d8a3433b3ec639b4559c61d72b2a43b",
+  "tokenColorTheme": 10,
+  "tokenIcon": "/static/tokens/ADA.svg",
+  "tokenName": "Cardano",
+  "tokenTicker": "tADA",
+  "tokenType": "ERC20",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "enjin-coin",
-    "decimals": 18,
-    "mldId": "ethereum-ENJ-0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/ENJ.svg",
-    "tokenName": "Enjin Coin",
-    "tokenTicker": "ENJ",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "enjin-coin",
+  "decimals": 18,
+  "mldId": "ethereum-ENJ-0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/ENJ.svg",
+  "tokenName": "Enjin Coin",
+  "tokenTicker": "ENJ",
+  "tokenType": "ERC20",
+  "tags": []
 }

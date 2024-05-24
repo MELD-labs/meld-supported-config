@@ -17,9 +17,16 @@ jobs:
           - prod
     env:
       TRACKING_API_URL: ${{ vars.TRACKING_API_URL }}
+      MELD_NETWORK: ${{ vars.MELD_NETWORK }}
+      TAG: ${{ matrix.environment }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Verify config data
         run: ./validate.sh
+      
+      - name: Clean up docker-compose
+        if: always()
+        run: ./cleanup.sh
+      

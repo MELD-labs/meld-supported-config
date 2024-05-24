@@ -1,14 +1,14 @@
 {
-    "CMCslug": "shiba-inu",
-    "decimals": 18,
-    "mldId": "ethereum-SHIB-0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
-    "tokenColorTheme": 20,
-    "tokenIcon": "/static/tokens/SHIB.svg",
-    "tokenName": "SHIBA INU",
-    "tokenTicker": "SHIB",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "shiba-inu",
+  "decimals": 18,
+  "mldId": "ethereum-SHIB-0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+  "tokenColorTheme": 20,
+  "tokenIcon": "/static/tokens/SHIB.svg",
+  "tokenName": "SHIBA INU",
+  "tokenTicker": "SHIB",
+  "tokenType": "ERC20",
+  "tags": []
 }

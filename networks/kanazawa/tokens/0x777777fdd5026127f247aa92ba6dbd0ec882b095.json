@@ -1,14 +1,14 @@
 {
-    "CMCslug": "joe",
-    "decimals": 18,
-    "mldId": "kanazawa-tJOE-0x777777fdd5026127f247aa92ba6dbd0ec882b095",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x777777fdd5026127f247aa92ba6dbd0ec882b095",
-    "tokenColorTheme": 7,
-    "tokenIcon": "/static/tokens/JOE.svg",
-    "tokenName": "JOE",
-    "tokenTicker": "tJOE",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "joe",
+  "decimals": 18,
+  "mldId": "kanazawa-tJOE-0x777777fdd5026127f247aa92ba6dbd0ec882b095",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x777777fdd5026127f247aa92ba6dbd0ec882b095",
+  "tokenColorTheme": 7,
+  "tokenIcon": "/static/tokens/JOE.svg",
+  "tokenName": "JOE",
+  "tokenTicker": "tJOE",
+  "tokenType": "ERC20",
+  "tags": []
 }

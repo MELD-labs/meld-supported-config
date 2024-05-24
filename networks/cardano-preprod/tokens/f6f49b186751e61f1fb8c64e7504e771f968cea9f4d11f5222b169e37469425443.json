@@ -1,14 +1,14 @@
 {
-    "CMCslug": "bitcoin",
-    "decimals": 6,
-    "mldId": "preprod-tiBTC-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e37469425443",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e37469425443",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/iBTC.svg",
-    "tokenName": "tiBTC",
-    "tokenTicker": "tiBTC",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "bitcoin",
+  "decimals": 6,
+  "mldId": "preprod-tiBTC-f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e37469425443",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "f6f49b186751e61f1fb8c64e7504e771f968cea9f4d11f5222b169e37469425443",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/iBTC.svg",
+  "tokenName": "tiBTC",
+  "tokenTicker": "tiBTC",
+  "tokenType": "CNT",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "alchemy-pay",
-    "decimals": 8,
-    "mldId": "ethereum-ACH-0xed04915c23f00a313a544955524eb7dbd823143d",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xed04915c23f00a313a544955524eb7dbd823143d",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/ACH.svg",
-    "tokenName": "Alchemy",
-    "tokenTicker": "ACH",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "alchemy-pay",
+  "decimals": 8,
+  "mldId": "ethereum-ACH-0xed04915c23f00a313a544955524eb7dbd823143d",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xed04915c23f00a313a544955524eb7dbd823143d",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/ACH.svg",
+  "tokenName": "Alchemy",
+  "tokenTicker": "ACH",
+  "tokenType": "ERC20",
+  "tags": []
 }

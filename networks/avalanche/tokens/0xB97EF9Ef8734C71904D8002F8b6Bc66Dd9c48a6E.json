@@ -1,16 +1,16 @@
 {
-    "CMCslug": "usd-coin",
-    "decimals": 6,
-    "mldId": "avalanche-USDC-0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
-    "tokenColorTheme": 2,
-    "tokenIcon": "/static/tokens/USDC.svg",
-    "tokenName": "USD Coin",
-    "tokenTicker": "USDC",
-    "tokenType": "ERC20",
-    "tags": [
-        "stablecoin"
-    ]
+  "CMCslug": "usd-coin",
+  "decimals": 6,
+  "mldId": "avalanche-USDC-0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+  "tokenColorTheme": 2,
+  "tokenIcon": "/static/tokens/USDC.svg",
+  "tokenName": "USD Coin",
+  "tokenTicker": "USDC",
+  "tokenType": "ERC20",
+  "tags": [
+    "stablecoin"
+  ]
 }

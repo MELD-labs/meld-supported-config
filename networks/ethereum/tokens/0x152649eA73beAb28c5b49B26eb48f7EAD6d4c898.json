@@ -1,14 +1,14 @@
 {
-    "CMCslug": "pancakeswap",
-    "decimals": 18,
-    "mldId": "ethereum-Cake-0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
-    "tokenColorTheme": 16,
-    "tokenIcon": "/static/tokens/CAKE.svg",
-    "tokenName": "PancakeSwap Token",
-    "tokenTicker": "Cake",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "pancakeswap",
+  "decimals": 18,
+  "mldId": "ethereum-Cake-0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/CAKE.svg",
+  "tokenName": "PancakeSwap Token",
+  "tokenTicker": "Cake",
+  "tokenType": "ERC20",
+  "tags": []
 }

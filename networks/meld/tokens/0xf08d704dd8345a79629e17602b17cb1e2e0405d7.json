@@ -1,14 +1,14 @@
 {
-    "CMCslug": "cornucopias",
-    "decimals": 18,
-    "mldId": "meld-COPI-0xf08d704dd8345a79629e17602b17cb1e2e0405d7",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0xf08d704dd8345a79629e17602b17cb1e2e0405d7",
-    "tokenColorTheme": 3,
-    "tokenIcon": "/static/tokens/COPI.svg",
-    "tokenName": "Cornucopias",
-    "tokenTicker": "COPI",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "cornucopias",
+  "decimals": 18,
+  "mldId": "meld-COPI-0xf08d704dd8345a79629e17602b17cb1e2e0405d7",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xf08d704dd8345a79629e17602b17cb1e2e0405d7",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/COPI.svg",
+  "tokenName": "Cornucopias",
+  "tokenTicker": "COPI",
+  "tokenType": "ERC20",
+  "tags": []
 }

@@ -1,14 +1,14 @@
 {
-    "CMCslug": "meld",
-    "decimals": 6,
-    "mldId": "preprod-tMELD-88dc7cd1c28d3a0c7ef4df99036c7c9688d309d91a1bb6fe4b08fee9744d454c44",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "88dc7cd1c28d3a0c7ef4df99036c7c9688d309d91a1bb6fe4b08fee9744d454c44",
-    "tokenColorTheme": 1,
-    "tokenIcon": "/static/tokens/MELD.svg",
-    "tokenName": "tMELD",
-    "tokenTicker": "tMELD",
-    "tokenType": "CNT",
-    "tags": []
+  "CMCslug": "meld",
+  "decimals": 6,
+  "mldId": "preprod-tMELD-88dc7cd1c28d3a0c7ef4df99036c7c9688d309d91a1bb6fe4b08fee9744d454c44",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "88dc7cd1c28d3a0c7ef4df99036c7c9688d309d91a1bb6fe4b08fee9744d454c44",
+  "tokenColorTheme": 1,
+  "tokenIcon": "/static/tokens/MELD.svg",
+  "tokenName": "tMELD",
+  "tokenTicker": "tMELD",
+  "tokenType": "CNT",
+  "tags": []
 }

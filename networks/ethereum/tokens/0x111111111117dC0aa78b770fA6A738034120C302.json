@@ -1,14 +1,14 @@
 {
-    "CMCslug": "1inch",
-    "decimals": 18,
-    "mldId": "ethereum-1INCH-0x111111111117dc0aa78b770fa6a738034120c302",
-    "orgName": null,
-    "orgUrl": null,
-    "tokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302",
-    "tokenColorTheme": 6,
-    "tokenIcon": "/static/tokens/1INCH.svg",
-    "tokenName": "1INCH Token",
-    "tokenTicker": "1INCH",
-    "tokenType": "ERC20",
-    "tags": []
+  "CMCslug": "1inch",
+  "decimals": 18,
+  "mldId": "ethereum-1INCH-0x111111111117dc0aa78b770fa6a738034120c302",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302",
+  "tokenColorTheme": 6,
+  "tokenIcon": "/static/tokens/1INCH.svg",
+  "tokenName": "1INCH Token",
+  "tokenTicker": "1INCH",
+  "tokenType": "ERC20",
+  "tags": []
 }
