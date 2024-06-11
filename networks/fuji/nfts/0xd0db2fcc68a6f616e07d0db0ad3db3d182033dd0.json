@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "TE721",
+  "tokenAddress": "0xd0db2fcc68a6f616e07d0db0ad3db3d182033dd0",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "TestERC721",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "MELD",
+  "authorAddress": "0xE8ad259824551818532A90501611E9fC4908d000",
+  "maxSupply": 0,
+  "mldId": "fuji-TE721-0xd0db2fcc68a6f616e07d0db0ad3db3d182033dd0",
+  "chainId": 43113,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

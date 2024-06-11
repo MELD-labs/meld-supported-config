@@ -1,0 +1,20 @@
+{
+  "tokenTicker": "TE721",
+  "tokenAddress": "0xe5b61d55f6142b2b66edd185b03626674955f796",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "TestERC721",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "MELD",
+  "authorAddress": "0xE8ad259824551818532A90501611E9fC4908d000",
+  "maxSupply": 0,
+  "mldId": "kanazawa-TE721-0xe5b61d55f6142b2b66edd185b03626674955f796",
+  "chainId": 222000222,
+  "royalties": 0,
+  "tags": [
+    "bridged"
+  ],
+  "orgName": "",
+  "orgUrl": ""
+}

@@ -1,0 +1,16 @@
+{
+  "CMCslug": "cornucopias",
+  "decimals": 6,
+  "mldId": "kanazawa-COPI-0xf33403fe621f39b3b18939b1a9c7def8dc35917e",
+  "orgName": "Meld Bridge",
+  "orgUrl": "https://meld.com",
+  "tokenAddress": "0xf33403fe621f39b3b18939b1a9c7def8dc35917e",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/COPI.svg",
+  "tokenName": "Cornucopia",
+  "tokenTicker": "COPI",
+  "tokenType": "ERC20",
+  "tags": [
+    "bridged"
+  ]
+}
