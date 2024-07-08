@@ -9,6 +9,6 @@
   "tokenIcon": "/static/tokens/ETH.svg",
   "tokenName": "Ether",
   "tokenTicker": "ETH",
-  "tokenType": "native-evm",
+  "tokenType": "ERC20",
   "tags": []
 }
