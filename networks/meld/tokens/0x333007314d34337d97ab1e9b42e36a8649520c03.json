@@ -1,0 +1,14 @@
+{
+  "CMCslug": "avalanche",
+  "decimals": 18,
+  "mldId": "meld-AVAX-0x333007314d34337d97ab1e9b42e36a8649520c03",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x333007314d34337d97ab1e9b42e36a8649520c03",
+  "tokenColorTheme": 1,
+  "tokenIcon": "/static/tokens/AVAX.svg",
+  "tokenName": "Avalanche",
+  "tokenTicker": "AVAX",
+  "tokenType": "ERC20",
+  "tags": []
+}

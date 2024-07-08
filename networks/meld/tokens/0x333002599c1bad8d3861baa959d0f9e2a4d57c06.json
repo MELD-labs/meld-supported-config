@@ -1,0 +1,16 @@
+{
+  "CMCslug": "tether",
+  "decimals": 6,
+  "mldId": "meld-USDT-0x333002599c1bad8d3861baa959d0f9e2a4d57c06",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x333002599c1bad8d3861baa959d0f9e2a4d57c06",
+  "tokenColorTheme": 4,
+  "tokenIcon": "/static/tokens/USDT.svg",
+  "tokenName": "Tether USD",
+  "tokenTicker": "USDT",
+  "tokenType": "ERC20",
+  "tags": [
+    "stablecoin"
+  ]
+}

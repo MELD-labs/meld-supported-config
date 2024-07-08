@@ -1,0 +1,14 @@
+{
+  "CMCslug": "cardano",
+  "decimals": 6,
+  "mldId": "meld-ADA-0x333000991af20009D049bAB8218De04d70811c04",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x333000991af20009D049bAB8218De04d70811c04",
+  "tokenColorTheme": 10,
+  "tokenIcon": "/static/tokens/ADA.svg",
+  "tokenName": "Cardano",
+  "tokenTicker": "ADA",
+  "tokenType": "ERC20",
+  "tags": []
+}

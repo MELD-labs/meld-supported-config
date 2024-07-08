@@ -1,0 +1,14 @@
+{
+  "CMCslug": "bitcoin",
+  "decimals": 8,
+  "mldId": "meld-WBTC-0x333008cfcbfbefffbb546abf237adc4061331c01",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x333008cfcbfbefffbb546abf237adc4061331c01",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/WBTC.svg",
+  "tokenName": "Wrapped BTC",
+  "tokenTicker": "WBTC",
+  "tokenType": "ERC20",
+  "tags": []
+}
