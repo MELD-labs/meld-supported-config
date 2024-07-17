@@ -1,0 +1,16 @@
+{
+  "CMCslug": "usd-coin",
+  "decimals": 18,
+  "mldId": "fuji-MERC20-0x10cd8881d6fE00edca8FBf311638b912f0F0cf1d",
+  "orgName": "Meld Bridge",
+  "orgUrl": "https://meld.com",
+  "tokenAddress": "0x10cd8881d6fE00edca8FBf311638b912f0F0cf1d",
+  "tokenColorTheme": 2,
+  "tokenIcon": "/static/tokens/USDC.svg",
+  "tokenName": "MockERC20",
+  "tokenTicker": "MERC20",
+  "tokenType": "ERC20",
+  "tags": [
+    "stablecoin"
+  ]
+}

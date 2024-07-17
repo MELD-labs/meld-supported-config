@@ -1,0 +1,17 @@
+{
+  "CMCslug": "usd-coin",
+  "decimals": 18,
+  "mldId": "kanazawa-MERC20-0xabE8154D0f20B481b9D849B3FDf0E3E311d634b7",
+  "orgName": "Meld Bridge",
+  "orgUrl": "https://meld.com",
+  "tokenAddress": "0xabE8154D0f20B481b9D849B3FDf0E3E311d634b7",
+  "tokenColorTheme": 2,
+  "tokenIcon": "/static/tokens/USDC.svg",
+  "tokenName": "MockERC20",
+  "tokenTicker": "MERC20",
+  "tokenType": "ERC20",
+  "tags": [
+    "bridged",
+    "stablecoin"
+  ]
+}
