@@ -5,7 +5,7 @@
   "orgName": "Meld Bridge",
   "orgUrl": "https://meld.com",
   "tokenAddress": "0x96c650046EbE8fc99B19Bed26f6B8Bb88fDFd648",
-  "tokenColorTheme": 2,
+  "tokenColorTheme": 8,
   "tokenIcon": "/static/tokens/AVAX.svg",
   "tokenName": "Avalanche",
   "tokenTicker": "AVAX",
