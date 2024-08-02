@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "BNKR",
+  "tokenAddress": "0x333000dca02578efe421be77ff0acc0f947290f0",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "MELD Banker",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "meld-BNKR-0x333000dca02578efe421be77ff0acc0f947290f0",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}
