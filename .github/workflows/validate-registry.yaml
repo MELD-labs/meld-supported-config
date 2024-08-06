@@ -1,14 +1,14 @@
 name: Validate Registry
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened, ready_for_review]
 
 jobs:
   validate-registry:
     name: Validate for ${{ matrix.environment }} environment
     environment: ${{ matrix.environment }}
-    runs-on: meld-ubuntu-lts
+    runs-on: ubuntu-latest
     strategy:
       max-parallel: 3
       matrix:
@@ -25,8 +25,7 @@ jobs:
 
       - name: Verify config data
         run: ./validate.sh
-      
+
       - name: Clean up docker-compose
         if: always()
         run: ./cleanup.sh
-      
