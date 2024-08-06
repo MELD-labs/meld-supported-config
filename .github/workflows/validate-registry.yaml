@@ -23,6 +23,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Checkout PR new configs
+        uses: actions/checkout@v4
+        with:
+          ref: "${{ github.event.pull_request.merge_commit_sha }}"
+          path: tmp
+          sparse-checkout: |
+            networks
+
+      - name: Replace old config with new
+        run: rm -rf networks && mv ./tmp/networks ./networks && ls -la
+
       - name: Verify config data
         run: ./validate.sh
 
