@@ -8,7 +8,7 @@
   "tokenColorTheme": 2,
   "tokenIcon": "/static/tokens/USDC.svg",
   "tokenName": "TestERC20",
-  "tokenTicker": "TE20",
+  "tokenTicker": "TestERC20",
   "tokenType": "ERC20",
   "tags": [
     "bridged",

@@ -8,7 +8,7 @@
   "tokenColorTheme": 10,
   "tokenIcon": "/static/tokens/ADA.svg",
   "tokenName": "Cardano",
-  "tokenTicker": "tADA",
+  "tokenTicker": "ADA",
   "tokenType": "ERC20",
   "tags": [
     "bridged"

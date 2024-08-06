@@ -7,7 +7,7 @@
   "tokenAddress": "lovelace",
   "tokenColorTheme": 10,
   "tokenIcon": "/static/tokens/ADA.svg",
-  "tokenName": "tADA",
+  "tokenName": "Cardano",
   "tokenTicker": "tADA",
   "tokenType": "native-cardano",
   "tags": []
