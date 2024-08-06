@@ -33,8 +33,8 @@ Our backend & frontend services then consume that config.
 //This is the MELD internal id for a token. It is produced based on this model {network}-{tokenTicker}-{tokenAddress}.
   "mldId": "MELD-JOE-0x777777fdd5026127f247aa92ba6dbd0ec882b095",
  
-//This is the circular image uploaded to with the PR
-  "tokenIcon": "usdc.svg",
+//This is the icon used for representing the token. The icon image needs to be included in the pull request if it hasn't been added previously.
+  "tokenIcon": "/static/tokens/usdc.svg",
     
 //This is the color used in in the MELDapp We have different colors that can be selected which come close to a brand color.
   "tokenColorTheme": 2,
@@ -105,8 +105,8 @@ For example:
 //This is a person or orgs wallet that many NFT collections or 1of1 or other works can be grouped under.
   "groupedUnder": "0x777777fdd5026127f247aa92ba6dbd0ec882b095",
 
-//This is the icon used for representing the whole collection.
-  "collectionIcon": "nakamigos.png",
+//This is the icon used for representing the whole collection. The icon image needs to be included in the pull request if it hasn't been added previously.
+  "collectionIcon": "/static/tokens/nakamigos.png",
 
 //This is the actual wallet that minted the NFTs
   "authorsName": "Nakamigos-Deployer",
@@ -145,7 +145,7 @@ For example:
   "tokenType": "ERC721",
   "collectionName": "CryptoDickbutts S3",
   "groupedUnder": "0x777777fdd5026127f247aa92ba6dbd0ec882b095",
-  "collectionIcon": "nakamigos.png",
+  "collectionIcon": "/static/tokens/nakamigos.png",
   "authorsName": "Nakamigos-Deployer",
   "authorAddress": "0xFCD457B27EE149E74A080B2a4e482D9A5dBaf3d9",
   "maxSupply": 20000,
@@ -178,16 +178,16 @@ For example:
 //This is the IRL organization name. It can be blank.
   "orgName": "",
 
-//This is the organization or project URL.  It can be blank.
+//This is the organization or project URL. It can be blank.
   "orgUrl": "",
 
 // This combines the policyId and encoded asset name in the format {policyId}{encodedAssetName}, ensuring that the dot is removed.
   "tokenAddress": "a2944573e99d2ed3055b808eaa264f0bf119e01fc6b18863067c63e44d454c44",
 
-//This is the color used in in the MELDapp We have different colors that can be selected which come close to a brand color.
+//This is the color used in in the MELDapp. We have different colors that can be selected which come close to a brand color.
   "tokenColorTheme": 1,
 
-//This is the icon used for representing the token.
+//This is the icon used for representing the token. The icon image needs to be included in the pull request if it hasn't been added previously.
   "tokenIcon": "/static/tokens/MELD.svg",
 
 //This is common full name of the asset. It follows Cardano's token name rules.
@@ -252,6 +252,13 @@ The full list of colour themes is
 | 21  | #290290 | <img src ='https://placehold.co/50x10/290290/290290' /> |
 | 22  | #2986F0 | <img src ='https://placehold.co/50x10/2986F0/2986F0' /> |
 
+
+### Token icon
+Tokens have a `tokenIcon` property representing the token, and NFTs have a `collectionIcon` property representing the NFT collection. 
+
+When submitting a pull request to add new tokens, ensure you include the token icons if they haven't been added previously.  
+
+The icon should be a `.svg` file with a size of 24x24 px and must be placed inside the `static/tokens` folder.
 
 
 ### Contributing
