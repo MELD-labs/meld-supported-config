@@ -1,0 +1,19 @@
+{
+    "CMCslug": "iagon",
+    "decimals": 6,
+    "mldId": "cardano-IAG-5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114",
+    "orgName": "IAGON",
+    "orgUrl": "https://www.iagon.com",
+    "tokenAddress": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114",
+    "tokenColorTheme": 22,
+    "tokenIcon": "/static/tokens/IAGON.svg",
+    "tokenName": "Iagon",
+    "tokenTicker": "IAG",
+    "tokenType": "CNT",
+    "tags": [
+        "DeFi",
+        "Storage",
+        "Cardano",
+        "Cloud Computing"
+    ]
+}

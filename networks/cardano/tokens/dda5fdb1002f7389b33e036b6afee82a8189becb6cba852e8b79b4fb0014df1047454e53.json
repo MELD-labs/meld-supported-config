@@ -1,0 +1,19 @@
+{
+    "CMCslug": "genius-yield",
+    "decimals": 6,
+    "mldId": "cardano-GENS-dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb0014df1047454e53",
+    "orgName": "Genius Yield",
+    "orgUrl": "https://www.geniusyield.co",
+    "tokenAddress": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb0014df1047454e53",
+    "tokenColorTheme": 4,
+    "tokenIcon": "/static/tokens/GENS.svg",
+    "tokenName": "Genius Yield",
+    "tokenTicker": "GENS",
+    "tokenType": "CNT",
+    "tags": [
+        "DeFi",
+        "Yield Optimization",
+        "Cardano",
+        "Governance"
+    ]
+}
