@@ -1,10 +1,10 @@
 {
     "CMCslug": "iagon",
     "decimals": 6,
-    "mldId": "cardano-IAG-5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114",
+    "mldId": "cardano-IAG-5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114494147",
     "orgName": "IAGON",
     "orgUrl": "https://www.iagon.com",
-    "tokenAddress": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114",
+    "tokenAddress": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114494147",
     "tokenColorTheme": 22,
     "tokenIcon": "/static/tokens/IAGON.svg",
     "tokenName": "Iagon",
