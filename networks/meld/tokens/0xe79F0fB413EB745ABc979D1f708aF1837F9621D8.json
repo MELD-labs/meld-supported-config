@@ -1,0 +1,16 @@
+{
+  "CMCslug": "",
+  "decimals": 18,
+  "mldId": "meld-az1.MELD-USDT-0xe79F0fB413EB745ABc979D1f708aF1837F9621D8",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xe79F0fB413EB745ABc979D1f708aF1837F9621D8",
+  "tokenColorTheme": 21,
+  "tokenIcon": "/static/tokens/MELD-USDT.svg",
+  "tokenName": "MELD-Tether USD",
+  "tokenTicker": "az1.MELD-USDT",
+  "tokenType": "ERC20",
+  "tags": [
+    "azomi"
+  ]
+}

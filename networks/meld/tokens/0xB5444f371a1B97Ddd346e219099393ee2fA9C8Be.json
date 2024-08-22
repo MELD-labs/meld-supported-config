@@ -1,0 +1,16 @@
+{
+  "CMCslug": "",
+  "decimals": 18,
+  "mldId": "meld-az1.MELD-BTC-0xB5444f371a1B97Ddd346e219099393ee2fA9C8Be",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xB5444f371a1B97Ddd346e219099393ee2fA9C8Be",
+  "tokenColorTheme": 21,
+  "tokenIcon": "/static/tokens/MELD-BTC.svg",
+  "tokenName": "MELD-Bitcoin",
+  "tokenTicker": "az1.MELD-BTC",
+  "tokenType": "ERC20",
+  "tags": [
+    "azomi"
+  ]
+}
