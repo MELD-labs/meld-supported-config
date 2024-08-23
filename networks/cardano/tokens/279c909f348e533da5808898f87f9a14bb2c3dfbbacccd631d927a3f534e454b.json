@@ -1,0 +1,14 @@
+{
+    "CMCslug": "snek",
+    "decimals": 6,
+    "mldId": "cardano-SNEK-279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
+    "orgName": "Snek",
+    "orgUrl": "https://www.snek.com",
+    "tokenAddress": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
+    "tokenColorTheme": 14,
+    "tokenIcon": "/static/tokens/SNEK.svg",
+    "tokenName": "Snek",
+    "tokenTicker": "SNEK",
+    "tokenType": "CNT",
+    "tags": []
+}

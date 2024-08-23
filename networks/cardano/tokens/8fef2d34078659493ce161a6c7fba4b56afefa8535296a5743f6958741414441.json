@@ -1,0 +1,14 @@
+{
+    "CMCslug": "aada-finance",
+    "decimals": 6,
+    "mldId": "cardano-LENFI-8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
+    "orgName": "Lenfi",
+    "orgUrl": "https://lenfi.io/",
+    "tokenAddress": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
+    "tokenColorTheme": 15,
+    "tokenIcon": "/static/tokens/LENFI.svg",
+    "tokenName": "Lenfi DAO token",
+    "tokenTicker": "LENFI",
+    "tokenType": "CNT",
+    "tags": []
+}
