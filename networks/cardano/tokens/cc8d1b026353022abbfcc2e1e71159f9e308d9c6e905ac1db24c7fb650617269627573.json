@@ -1,0 +1,14 @@
+{
+    "CMCslug": "paribus",
+    "decimals": 6,
+    "mldId": "cardano-PBX-cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
+    "orgName": "Paribus",
+    "orgUrl": "https://paribus.io/",
+    "tokenAddress": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
+    "tokenColorTheme": 5,
+    "tokenIcon": "/static/tokens/PBX.svg",
+    "tokenName": "Paribus",
+    "tokenTicker": "PBX",
+    "tokenType": "CNT",
+    "tags": []
+}
