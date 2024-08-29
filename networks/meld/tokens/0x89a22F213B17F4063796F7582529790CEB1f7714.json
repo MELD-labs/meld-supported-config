@@ -10,7 +10,5 @@
   "tokenName": "RawDog",
   "tokenTicker": "RawDog",
   "tokenType": "ERC20",
-  "tags": [
-    "memecoin"
-  ]
+  "tags": []
 }
