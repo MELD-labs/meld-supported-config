@@ -7,7 +7,7 @@
   "tokenAddress": "0x333008cfcbfbefffbb546abf237adc4061331c01",
   "tokenColorTheme": 3,
   "tokenIcon": "/static/tokens/WBTC.svg",
-  "tokenName": "Wrapped BTC",
+  "tokenName": "Bitcoin",
   "tokenTicker": "WBTC",
   "tokenType": "ERC20",
   "tags": []
