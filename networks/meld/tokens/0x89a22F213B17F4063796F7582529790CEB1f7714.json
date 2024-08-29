@@ -1,0 +1,16 @@
+{
+  "CMCslug": "",
+  "decimals": 18,
+  "mldId": "meld-RawDog-0x89a22F213B17F4063796F7582529790CEB1f7714",
+  "orgName": "RawDog",
+  "orgUrl": "https://rawdogpumps.com",
+  "tokenAddress": "0x89a22F213B17F4063796F7582529790CEB1f7714",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/rawdog.svg",
+  "tokenName": "RawDog",
+  "tokenTicker": "RawDog",
+  "tokenType": "ERC20",
+  "tags": [
+    "memecoin"
+  ]
+}
