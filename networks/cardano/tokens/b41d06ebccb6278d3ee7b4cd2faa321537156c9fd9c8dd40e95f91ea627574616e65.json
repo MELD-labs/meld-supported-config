@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-BTN-b41d06ebccb6278d3ee7b4cd2faa321537156c9fd9c8dd40e95f91ea627574616e65",
+    "orgName": "Butane",
+    "orgUrl": "https://butane.dev",
+    "tokenAddress": "b41d06ebccb6278d3ee7b4cd2faa321537156c9fd9c8dd40e95f91ea627574616e65",
+    "tokenColorTheme": 22,
+    "tokenIcon": "/static/tokens/BTN.svg",
+    "tokenName": "Butane",
+    "tokenTicker": "BTN",
+    "tokenType": "CNT",
+    "tags": []
+}
