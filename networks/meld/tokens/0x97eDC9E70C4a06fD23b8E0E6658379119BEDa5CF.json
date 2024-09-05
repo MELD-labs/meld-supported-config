@@ -1,0 +1,14 @@
+{
+  "CMCslug": "",
+  "decimals": 18,
+  "mldId": "meld-HIVE-0x97eDC9E70C4a06fD23b8E0E6658379119BEDa5CF",
+  "orgName": "HIVE",
+  "orgUrl": "https://www.meldhive.com",
+  "tokenAddress": "0x97eDC9E70C4a06fD23b8E0E6658379119BEDa5CF",
+  "tokenColorTheme": 9,
+  "tokenIcon": "/static/tokens/HIVE.svg",
+  "tokenName": "MELD HIVE",
+  "tokenTicker": "HIVE",
+  "tokenType": "ERC20",
+  "tags": []
+}
