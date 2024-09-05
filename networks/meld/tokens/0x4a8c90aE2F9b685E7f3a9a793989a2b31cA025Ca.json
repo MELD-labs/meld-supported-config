@@ -1,0 +1,14 @@
+{
+  "CMCslug": "",
+  "decimals": 18,
+  "mldId": "meld-MEPE-0x4a8c90aE2F9b685E7f3a9a793989a2b31cA025Ca",
+  "orgName": "MEPE",
+  "orgUrl": "https://mepe.wtf/",
+  "tokenAddress": "0x4a8c90aE2F9b685E7f3a9a793989a2b31cA025Ca",
+  "tokenColorTheme": 1,
+  "tokenIcon": "/static/tokens/mepe.svg",
+  "tokenName": "MEPE",
+  "tokenTicker": "MEPE",
+  "tokenType": "ERC20",
+  "tags": []
+}
