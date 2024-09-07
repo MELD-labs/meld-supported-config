@@ -8,7 +8,7 @@
   "tokenColorTheme": 4,
   "tokenIcon": "/static/tokens/USDT.svg",
   "tokenName": "TetherToken",
-  "tokenTicker": "USDt",
+  "tokenTicker": "USDT",
   "tokenType": "ERC20",
   "tags": [
     "stablecoin"

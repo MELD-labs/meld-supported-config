@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-SPXT-f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d535058",
+    "orgName": "SmartPlaces",
+    "orgUrl": "https://smart-places.io",
+    "tokenAddress": "f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d535058",
+    "tokenColorTheme": 15,
+    "tokenIcon": "/static/tokens/SPXT.svg",
+    "tokenName": "SmartPlaces X",
+    "tokenTicker": "SPXT",
+    "tokenType": "CNT",
+    "tags": []
+}

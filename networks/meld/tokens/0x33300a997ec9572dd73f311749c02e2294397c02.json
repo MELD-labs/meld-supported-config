@@ -7,7 +7,7 @@
   "tokenAddress": "0x33300a997ec9572dd73f311749c02e2294397c02",
   "tokenColorTheme": 19,
   "tokenIcon": "/static/tokens/ETH.svg",
-  "tokenName": "Ether",
+  "tokenName": "Ethereum",
   "tokenTicker": "ETH",
   "tokenType": "ERC20",
   "tags": []

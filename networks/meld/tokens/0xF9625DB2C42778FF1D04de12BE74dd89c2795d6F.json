@@ -1,0 +1,16 @@
+{
+  "CMCslug": "",
+  "decimals": 18,
+  "mldId": "meld-az1.MELD-ETH-0xF9625DB2C42778FF1D04de12BE74dd89c2795d6F",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xF9625DB2C42778FF1D04de12BE74dd89c2795d6F",
+  "tokenColorTheme": 21,
+  "tokenIcon": "/static/tokens/MELD-ETH.svg",
+  "tokenName": "MELD-Ethereum",
+  "tokenTicker": "az1.MELD-ETH",
+  "tokenType": "ERC20",
+  "tags": [
+    "azomi"
+  ]
+}

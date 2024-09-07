@@ -7,7 +7,7 @@
   "tokenAddress": "0x016b9d5b551ce6734c710c52cf21ff40a4adff58",
   "tokenColorTheme": 19,
   "tokenIcon": "/static/tokens/wETH.svg",
-  "tokenName": "Wrapped Ether",
+  "tokenName": "Wrapped Ethereum",
   "tokenTicker": "WETH",
   "tokenType": "ERC20",
   "tags": []

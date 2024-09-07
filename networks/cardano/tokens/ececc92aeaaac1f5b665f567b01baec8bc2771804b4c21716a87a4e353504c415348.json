@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-SPLASH-ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e353504c415348",
+    "orgName": "Splash",
+    "orgUrl": "https://splash.trade",
+    "tokenAddress": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e353504c415348",
+    "tokenColorTheme": 2,
+    "tokenIcon": "/static/tokens/SPLASH.svg",
+    "tokenName": "SPLASH",
+    "tokenTicker": "SPLASH",
+    "tokenType": "CNT",
+    "tags": []
+}

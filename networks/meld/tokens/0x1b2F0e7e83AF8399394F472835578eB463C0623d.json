@@ -1,0 +1,14 @@
+{
+  "CMCslug": "",
+  "decimals": 18,
+  "mldId": "meld-UMSU-0x1b2F0e7e83AF8399394F472835578eB463C0623d",
+  "orgName": "Ultra Mega Super Uber",
+  "orgUrl": "https://www.umsu.io",
+  "tokenAddress": "0x1b2F0e7e83AF8399394F472835578eB463C0623d",
+  "tokenColorTheme": 13,
+  "tokenIcon": "/static/tokens/UMSU.svg",
+  "tokenName": "Ultra Mega Super Uber",
+  "tokenTicker": "UMSU",
+  "tokenType": "ERC20",
+  "tags": []
+}

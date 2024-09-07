@@ -1,0 +1,14 @@
+{
+    "CMCslug": "fren-ada-peepos",
+    "decimals": 0,
+    "mldId": "cardano-FREN-fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
+    "orgName": "ADA Peepos",
+    "orgUrl": "https://www.adapeepos.com",
+    "tokenAddress": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
+    "tokenColorTheme": 3,
+    "tokenIcon": "/static/tokens/FREN.svg",
+    "tokenName": "FREN",
+    "tokenTicker": "FREN",
+    "tokenType": "CNT",
+    "tags": []
+}

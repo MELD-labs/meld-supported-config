@@ -1,0 +1,14 @@
+{
+  "CMCslug": "bitcoin",
+  "decimals": 8,
+  "mldId": "avalanche-WBTC.e-0x50b7545627a5162F82A992c33b87aDc75187B218",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/WBTC.svg",
+  "tokenName": "Wrapped BTC",
+  "tokenTicker": "WBTC.e",
+  "tokenType": "ERC20",
+  "tags": []
+}

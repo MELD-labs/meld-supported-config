@@ -1,0 +1,14 @@
+{
+    "CMCslug": "ray-network",
+    "decimals": 6,
+    "mldId": "cardano-XRAY-86abe45be4d8fb2e8f28e8047d17d0ba5592f2a6c8c452fc88c2c14358524159",
+    "orgName": "Ray Network",
+    "orgUrl": "https://raynetwork.io/",
+    "tokenAddress": "86abe45be4d8fb2e8f28e8047d17d0ba5592f2a6c8c452fc88c2c14358524159",
+    "tokenColorTheme": 10,
+    "tokenIcon": "/static/tokens/XRAY.svg",
+    "tokenName": "XRAY",
+    "tokenTicker": "XRAY",
+    "tokenType": "CNT",
+    "tags": []
+}
