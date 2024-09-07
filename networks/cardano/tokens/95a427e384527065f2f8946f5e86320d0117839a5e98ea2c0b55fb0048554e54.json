@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-HUNT-95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
+    "orgName": "DexHunter",
+    "orgUrl": "https://www.dexhunter.io/",
+    "tokenAddress": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
+    "tokenColorTheme": 5,
+    "tokenIcon": "/static/tokens/HUNT.svg",
+    "tokenName": "HUNT",
+    "tokenTicker": "HUNT",
+    "tokenType": "CNT",
+    "tags": []
+}

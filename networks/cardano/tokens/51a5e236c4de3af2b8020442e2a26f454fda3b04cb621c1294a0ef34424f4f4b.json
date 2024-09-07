@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-STUFF-51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b",
+    "orgName": "Stuff.io",
+    "orgUrl": "https://stuff.io",
+    "tokenAddress": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b",
+    "tokenColorTheme": 2,
+    "tokenIcon": "/static/tokens/STUFF.svg",
+    "tokenName": "BOOK",
+    "tokenTicker": "STUFF",
+    "tokenType": "CNT",
+    "tags": []
+}

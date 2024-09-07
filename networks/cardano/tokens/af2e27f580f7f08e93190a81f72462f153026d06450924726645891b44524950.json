@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-DRIP-af2e27f580f7f08e93190a81f72462f153026d06450924726645891b44524950",
+    "orgName": "DripDropz",
+    "orgUrl": "https://dripdropz.io",
+    "tokenAddress": "af2e27f580f7f08e93190a81f72462f153026d06450924726645891b44524950",
+    "tokenColorTheme": 2,
+    "tokenIcon": "/static/tokens/DRIP.svg",
+    "tokenName": "DRIP",
+    "tokenTicker": "DRIP",
+    "tokenType": "CNT",
+    "tags": []
+}
