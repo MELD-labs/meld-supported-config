@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "zkNODE",
+  "tokenAddress": "0x4299E474D698a664f18746aEDe2bCdA34BEA9146",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC1155",
+  "collectionName": "MELD zkNodes",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "MELD",
+  "authorAddress": "0xdede0A940B388B236F65722734a56e03B79e1C16",
+  "maxSupply": 0,
+  "mldId": "meld-zkNODE-0x4299E474D698a664f18746aEDe2bCdA34BEA9146",
+  "chainId": 222000222,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}
