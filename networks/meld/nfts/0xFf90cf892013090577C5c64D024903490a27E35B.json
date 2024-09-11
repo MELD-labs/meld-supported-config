@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "KHIVE",
+  "tokenAddress": "0xFf90cf892013090577C5c64D024903490a27E35B",
+  "tokenColorTheme": 9,
+  "tokenType": "ERC721",
+  "collectionName": "KEN × HIVE",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "meld-KHIVE-0xFf90cf892013090577C5c64D024903490a27E35B",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}
