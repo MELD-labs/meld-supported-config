@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-CERRA-4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d4345525241",
+    "orgName": "Cerra",
+    "orgUrl": "https://cerra.io",
+    "tokenAddress": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d4345525241",
+    "tokenColorTheme": 13,
+    "tokenIcon": "/static/tokens/CERRA.svg",
+    "tokenName": "CERRA",
+    "tokenTicker": "CERRA",
+    "tokenType": "CNT",
+    "tags": []
+}

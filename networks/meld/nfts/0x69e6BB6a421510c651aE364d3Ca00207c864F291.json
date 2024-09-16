@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "COLORCOLOR",
+  "tokenAddress": "0x69e6BB6a421510c651aE364d3Ca00207c864F291",
+  "tokenColorTheme": 9,
+  "tokenType": "ERC721",
+  "collectionName": "COLOR COLOR by Pepe",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 0,
+  "mldId": "meld-COLORCOLOR-0x69e6BB6a421510c651aE364d3Ca00207c864F291",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

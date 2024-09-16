@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-STRIKE-f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
+    "orgName": "Strike Finance",
+    "orgUrl": "https://www.strikefinance.org/",
+    "tokenAddress": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
+    "tokenColorTheme": 4,
+    "tokenIcon": "/static/tokens/STRIKE.svg",
+    "tokenName": "STRIKE",
+    "tokenTicker": "STRIKE",
+    "tokenType": "CNT",
+    "tags": []
+}
