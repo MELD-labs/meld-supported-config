@@ -1,0 +1,14 @@
+{
+    "CMCslug": "liqwid-finance",
+    "decimals": 6,
+    "mldId": "cardano-LQ-da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+    "orgName": "Liqwid Finance",
+    "orgUrl": "https://liqwid.finance",
+    "tokenAddress": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+    "tokenColorTheme": 2,
+    "tokenIcon": "/static/tokens/LQ.svg",
+    "tokenName": "LQ",
+    "tokenTicker": "LQ",
+    "tokenType": "CNT",
+    "tags": []
+}

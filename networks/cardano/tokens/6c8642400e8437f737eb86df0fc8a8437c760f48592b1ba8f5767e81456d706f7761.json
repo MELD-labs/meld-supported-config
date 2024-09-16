@@ -1,0 +1,14 @@
+{
+    "CMCslug": "empowa",
+    "decimals": 6,
+    "mldId": "cardano-EMP-6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
+    "orgName": "Empowa",
+    "orgUrl": "https://empowa.io",
+    "tokenAddress": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
+    "tokenColorTheme": 8,
+    "tokenIcon": "/static/tokens/EMP.svg",
+    "tokenName": "Empowa",
+    "tokenTicker": "EMP",
+    "tokenType": "CNT",
+    "tags": []
+}
