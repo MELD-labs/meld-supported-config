@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-SKY-60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d534b59",
+    "orgName": "Sky Protocol",
+    "orgUrl": "https://www.skyprotocol.org/",
+    "tokenAddress": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d534b59",
+    "tokenColorTheme": 14,
+    "tokenIcon": "/static/tokens/SKY.svg",
+    "tokenName": "SKY",
+    "tokenTicker": "SKY",
+    "tokenType": "CNT",
+    "tags": []
+}
