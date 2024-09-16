@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-CBLP-ee0633e757fdd1423220f43688c74678abde1cead7ce265ba8a24fcd43424c50",
+    "orgName": "Yamfore",
+    "orgUrl": "https://www.yamfore.com/",
+    "tokenAddress": "ee0633e757fdd1423220f43688c74678abde1cead7ce265ba8a24fcd43424c50",
+    "tokenColorTheme": 6,
+    "tokenIcon": "/static/tokens/CBLP.svg",
+    "tokenName": "CBLP",
+    "tokenTicker": "CBLP",
+    "tokenType": "CNT",
+    "tags": []
+}
