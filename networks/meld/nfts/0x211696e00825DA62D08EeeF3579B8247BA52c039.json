@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "CLUB",
+  "tokenAddress": "0x211696e00825DA62D08EeeF3579B8247BA52c039",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "mepe club member",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "mepe",
+  "authorAddress": "0xF0AE045Be1D872E025B16dC697437bc80Bf39F00",
+  "maxSupply": 113,
+  "mldId": "meld-CLUB-0x211696e00825DA62D08EeeF3579B8247BA52c039",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "mepe",
+  "orgUrl": "https://mepe.wtf"
+}
