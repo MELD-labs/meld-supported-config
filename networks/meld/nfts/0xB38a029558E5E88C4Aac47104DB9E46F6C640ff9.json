@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "MOLDER",
+  "tokenAddress": "0xB38a029558E5E88C4Aac47104DB9E46F6C640ff9",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "MOLDER",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 2000,
+  "mldId": "meld-MOLDER-0xB38a029558E5E88C4Aac47104DB9E46F6C640ff9",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}
