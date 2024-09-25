@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-MyUSD-92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c4d79555344",
+    "orgName": "Mynth.ai",
+    "orgUrl": "https://mynth.ai/",
+    "tokenAddress": "92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c4d79555344",
+    "tokenColorTheme": 13,
+    "tokenIcon": "/static/tokens/MyUSD.svg",
+    "tokenName": "MyUSD",
+    "tokenTicker": "MyUSD",
+    "tokenType": "CNT",
+    "tags": []
+}

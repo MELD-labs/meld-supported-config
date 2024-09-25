@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-SATURN-ecbe846aa1a535579d67f9480fa6173b64d7e239df0460eba36e3ad00014df1053617475726e",
+    "orgName": "Saturn Swap",
+    "orgUrl": "https://saturnswap.io/",
+    "tokenAddress": "ecbe846aa1a535579d67f9480fa6173b64d7e239df0460eba36e3ad00014df1053617475726e",
+    "tokenColorTheme": 2,
+    "tokenIcon": "/static/tokens/SATURN.svg",
+    "tokenName": "SATURN",
+    "tokenTicker": "SATURN",
+    "tokenType": "CNT",
+    "tags": []
+}
