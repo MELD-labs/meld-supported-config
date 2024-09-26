@@ -1,0 +1,14 @@
+{
+  "CMCslug": "bitlocus",
+  "decimals": 6,
+  "mldId": "ethereum-BTL-0x93e32efafd24973d45f363a76d73ccb9edf59986",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x93e32efafd24973d45f363a76d73ccb9edf59986",
+  "tokenColorTheme": 4,
+  "tokenIcon": "/static/tokens/BTL.svg",
+  "tokenName": "Bitlocus Token",
+  "tokenTicker": "BTL",
+  "tokenType": "ERC20",
+  "tags": []
+}
