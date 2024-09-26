@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-USDM-c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
+    "orgName": "Moneta Digital",
+    "orgUrl": "https://moneta.global/",
+    "tokenAddress": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
+    "tokenColorTheme": 2,
+    "tokenIcon": "/static/tokens/USDM.svg",
+    "tokenName": "USDM",
+    "tokenTicker": "USDM",
+    "tokenType": "CNT",
+    "tags": []
+}

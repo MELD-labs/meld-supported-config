@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 18,
+    "mldId": "meld-EDNAMODE-0x660296b5fb3fd49319e7d7655e4ad0cea33ffbc7",
+    "orgName": "Ednamode",
+    "orgUrl": "https://ednamodememe.com/",
+    "tokenAddress": "0x660296b5fb3fd49319e7d7655e4ad0cea33ffbc7",
+    "tokenColorTheme": 3,
+    "tokenIcon": "/static/tokens/EDNAMODE.svg",
+    "tokenName": "EDNAMODE MEME",
+    "tokenTicker": "EDNAMODE",
+    "tokenType": "ERC20",
+    "tags": []
+  }

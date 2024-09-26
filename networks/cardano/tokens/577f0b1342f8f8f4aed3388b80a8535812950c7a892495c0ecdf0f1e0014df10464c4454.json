@@ -1,0 +1,14 @@
+{
+    "CMCslug": "fluidtokens",
+    "decimals": 6,
+    "mldId": "cardano-FLDT-577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e0014df10464c4454",
+    "orgName": "Fluid Tokens",
+    "orgUrl": "https://fluidtokens.com",
+    "tokenAddress": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e0014df10464c4454",
+    "tokenColorTheme": 4,
+    "tokenIcon": "/static/tokens/FLDT.svg",
+    "tokenName": "FLDT",
+    "tokenTicker": "FLDT",
+    "tokenType": "CNT",
+    "tags": []
+}
