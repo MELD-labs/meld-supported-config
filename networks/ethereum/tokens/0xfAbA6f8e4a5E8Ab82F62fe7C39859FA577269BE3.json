@@ -1,0 +1,14 @@
+{
+  "CMCslug": "ondo-finance",
+  "decimals": 18,
+  "mldId": "ethereum-ONDO-0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+  "orgName": "Ondo Finance",
+  "orgUrl": "https://ondo.finance",
+  "tokenAddress": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/ONDO.svg",
+  "tokenName": "Ondo Finance",
+  "tokenTicker": "ONDO",
+  "tokenType": "ERC20",
+  "tags": []
+}
