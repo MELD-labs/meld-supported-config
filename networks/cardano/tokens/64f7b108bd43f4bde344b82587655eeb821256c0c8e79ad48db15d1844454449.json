@@ -1,0 +1,14 @@
+{
+    "CMCslug": "dedium",
+    "decimals": 6,
+    "mldId": "cardano-DEDI-64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d1844454449",
+    "orgName": "Dedium",
+    "orgUrl": "https://dedium.io/",
+    "tokenAddress": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d1844454449",
+    "tokenColorTheme": 4,
+    "tokenIcon": "/static/tokens/DEDI.svg",
+    "tokenName": "DEDI",
+    "tokenTicker": "DEDI",
+    "tokenType": "CNT",
+    "tags": []
+}
