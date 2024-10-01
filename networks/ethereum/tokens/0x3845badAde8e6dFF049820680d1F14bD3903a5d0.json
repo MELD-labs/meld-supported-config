@@ -1,0 +1,14 @@
+{
+  "CMCslug": "the-sandbox",
+  "decimals": 18,
+  "mldId": "ethereum-SAND-0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+  "orgName": "The Sandbox",
+  "orgUrl": "https://www.sandbox.game",
+  "tokenAddress": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+  "tokenColorTheme": 22,
+  "tokenIcon": "/static/tokens/SAND.svg",
+  "tokenName": "SAND",
+  "tokenTicker": "SAND",
+  "tokenType": "ERC20",
+  "tags": []
+}
