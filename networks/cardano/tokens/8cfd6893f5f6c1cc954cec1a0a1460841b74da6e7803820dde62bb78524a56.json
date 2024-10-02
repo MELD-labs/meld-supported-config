@@ -1,0 +1,14 @@
+{
+    "CMCslug": "rejuve-ai",
+    "decimals": 6,
+    "mldId": "cardano-RJV-8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78524a56",
+    "orgName": "Rejuve.AI",
+    "orgUrl": "https://rejuve.ai",
+    "tokenAddress": "8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78524a56",
+    "tokenColorTheme": 4,
+    "tokenIcon": "/static/tokens/RJV.svg",
+    "tokenName": "RJV",
+    "tokenTicker": "RJV",
+    "tokenType": "CNT",
+    "tags": []
+}
