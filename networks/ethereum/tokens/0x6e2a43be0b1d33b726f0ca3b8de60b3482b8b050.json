@@ -1,0 +1,14 @@
+{
+  "CMCslug": "arkham",
+  "decimals": 18,
+  "mldId": "ethereum-ARKM-0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050",
+  "orgName": "Arkham Intelligence",
+  "orgUrl": "https://arkhamintelligence.com",
+  "tokenAddress": "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/ARKM.svg",
+  "tokenName": "Arkham",
+  "tokenTicker": "ARKM",
+  "tokenType": "ERC20",
+  "tags": []
+}
