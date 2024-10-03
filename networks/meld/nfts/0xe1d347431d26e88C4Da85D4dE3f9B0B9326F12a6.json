@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "mepe",
+  "tokenAddress": "0xe1d347431d26e88C4Da85D4dE3f9B0B9326F12a6",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "mepe theme",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "mepe",
+  "authorAddress": "",
+  "maxSupply": "",
+  "mldId": "meld-mepe-0xe1d347431d26e88C4Da85D4dE3f9B0B9326F12a6",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "mepe",
+  "orgUrl": "https://mepe.wtf"
+}

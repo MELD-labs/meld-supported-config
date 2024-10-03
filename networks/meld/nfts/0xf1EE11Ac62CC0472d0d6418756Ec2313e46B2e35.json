@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "BMEPE",
+  "tokenAddress": "0xf1EE11Ac62CC0472d0d6418756Ec2313e46B2e35",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "Building Mepe",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "Ken",
+  "authorAddress": "",
+  "maxSupply": 10,
+  "mldId": "meld-BMEPE-0xf1EE11Ac62CC0472d0d6418756Ec2313e46B2e35",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "mepe",
+  "orgUrl": "https://mepe.wtf"
+}
