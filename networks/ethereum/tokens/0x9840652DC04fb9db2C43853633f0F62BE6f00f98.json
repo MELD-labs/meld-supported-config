@@ -1,0 +1,14 @@
+{
+  "CMCslug": "chaingpt",
+  "decimals": 18,
+  "mldId": "ethereum-CGPT-0x9840652DC04fb9db2C43853633f0F62BE6f00f98",
+  "orgName": "ChainGPT",
+  "orgUrl": "https://chaingpt.org",
+  "tokenAddress": "0x9840652DC04fb9db2C43853633f0F62BE6f00f98",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/CGPT.svg",
+  "tokenName": "ChainGPT",
+  "tokenTicker": "CGPT",
+  "tokenType": "ERC20",
+  "tags": []
+}
