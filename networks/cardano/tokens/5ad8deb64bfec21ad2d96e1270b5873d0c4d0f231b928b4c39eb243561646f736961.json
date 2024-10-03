@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-ADO-5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb243561646f736961",
+    "orgName": "Adosia",
+    "orgUrl": "https://adosia.com/",
+    "tokenAddress": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb243561646f736961",
+    "tokenColorTheme": 11,
+    "tokenIcon": "/static/tokens/ADO.svg",
+    "tokenName": "Adosia",
+    "tokenTicker": "ADO",
+    "tokenType": "CNT",
+    "tags": []
+}

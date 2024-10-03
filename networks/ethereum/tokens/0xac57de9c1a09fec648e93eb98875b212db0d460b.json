@@ -1,0 +1,14 @@
+{
+  "CMCslug": "baby-doge-coin",
+  "decimals": 9,
+  "mldId": "ethereum-BabyDoge-0xac57de9c1a09fec648e93eb98875b212db0d460b",
+  "orgName": "Baby Doge Coin",
+  "orgUrl": "https://www.babydoge.com/",
+  "tokenAddress": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/BabyDoge.svg",
+  "tokenName": "Baby Doge Coin",
+  "tokenTicker": "BabyDoge",
+  "tokenType": "ERC20",
+  "tags": []
+}

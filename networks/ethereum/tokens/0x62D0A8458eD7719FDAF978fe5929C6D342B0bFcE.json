@@ -1,0 +1,14 @@
+{
+  "CMCslug": "onbeam",
+  "decimals": 18,
+  "mldId": "ethereum-BEAM-0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+  "orgName": "Beam",
+  "orgUrl": "https://www.onbeam.com",
+  "tokenAddress": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+  "tokenColorTheme": 3,
+  "tokenIcon": "/static/tokens/BEAM.svg",
+  "tokenName": "Beam",
+  "tokenTicker": "BEAM",
+  "tokenType": "ERC20",
+  "tags": []
+}

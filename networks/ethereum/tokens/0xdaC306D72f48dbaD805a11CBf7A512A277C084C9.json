@@ -1,0 +1,14 @@
+{
+  "CMCslug": "stablr-euro",
+  "decimals": 6,
+  "mldId": "ethereum-EURR-0xdaC306D72f48dbaD805a11CBf7A512A277C084C9",
+  "orgName": "StablR",
+  "orgUrl": "https://www.stablr.com",
+  "tokenAddress": "0xdaC306D72f48dbaD805a11CBf7A512A277C084C9",
+  "tokenColorTheme": 15,
+  "tokenIcon": "/static/tokens/EURR.svg",
+  "tokenName": "StablR Euro",
+  "tokenTicker": "EURR",
+  "tokenType": "ERC20",
+  "tags": []
+}
