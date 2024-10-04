@@ -8,7 +8,7 @@
   "collectionIcon": "/static/undefined.jpg",
   "authorsName": "mepe",
   "authorAddress": "",
-  "maxSupply": "",
+  "maxSupply": "10",
   "mldId": "meld-mepe-0xe1d347431d26e88C4Da85D4dE3f9B0B9326F12a6",
   "chainId": 333000333,
   "royalties": 0,
