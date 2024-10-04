@@ -1,0 +1,14 @@
+{
+  "CMCslug": "renzo-restaked-eth",
+  "decimals": 18,
+  "mldId": "ethereum-ezETH-0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+  "orgName": "",
+  "orgUrl": "https://renzoprotocol.com/",
+  "tokenAddress": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+  "tokenColorTheme": 13,
+  "tokenIcon": "/static/tokens/renzoeth.svg",
+  "tokenName": "Renzo Restaked ETH",
+  "tokenTicker": "ezETH",
+  "tokenType": "ERC20",
+  "tags": []
+}
