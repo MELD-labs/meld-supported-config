@@ -1,0 +1,14 @@
+{
+  "CMCslug": "cult-dao",
+  "decimals": 18,
+  "mldId": "ethereum-CULT-0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+  "orgName": "Cult DAO",
+  "orgUrl": "https://cultdao.io",
+  "tokenAddress": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+  "tokenColorTheme": 11,
+  "tokenIcon": "/static/tokens/CULT.svg",
+  "tokenName": "Cult DAO",
+  "tokenTicker": "CULT",
+  "tokenType": "ERC20",
+  "tags": []
+}
