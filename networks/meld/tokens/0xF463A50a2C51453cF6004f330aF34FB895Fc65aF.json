@@ -1,0 +1,16 @@
+{
+    "CMCslug": "MLENS",
+    "decimals": 18,
+    "mldId": "meld-MLENS-0xF463A50a2C51453cF6004f330aF34FB895Fc65aF",
+    "orgName": "MELDLENS",
+    "orgUrl": "https://meldlens.com/",
+    "tokenAddress": "0xF463A50a2C51453cF6004f330aF34FB895Fc65aF",
+    "tokenColorTheme": 1,
+    "tokenIcon": "/static/tokens/MLENS.svg",
+    "tokenName": "MELD LENS",
+    "tokenTicker": "MLENS",
+    "tokenType": "ERC20",
+    "tags": [
+    "MELDLENS"
+    ]
+}
