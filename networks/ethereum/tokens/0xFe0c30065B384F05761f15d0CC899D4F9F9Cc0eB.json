@@ -1,0 +1,14 @@
+{
+  "CMCslug": "ether-fi-ethfi",
+  "decimals": 18,
+  "mldId": "ethereum-ETHFI-0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
+  "orgName": "",
+  "orgUrl": "https://ether.fi/",
+  "tokenAddress": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
+  "tokenColorTheme": 12,
+  "tokenIcon": "/static/tokens/ethfi.svg",
+  "tokenName": "ether.fi",
+  "tokenTicker": "ETHFI",
+  "tokenType": "ERC20",
+  "tags": []
+}

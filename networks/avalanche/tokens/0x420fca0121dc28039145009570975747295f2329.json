@@ -1,0 +1,14 @@
+{
+  "CMCslug": "coq-inu",
+  "decimals": 18,
+  "mldId": "avalanche-COQ-0x420fca0121dc28039145009570975747295f2329",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x420fca0121dc28039145009570975747295f2329",
+  "tokenColorTheme": 7,
+  "tokenIcon": "/static/tokens/coqinu.svg",
+  "tokenName": "Coq Inu",
+  "tokenTicker": "COQ",
+  "tokenType": "ERC20",
+  "tags": []
+}
