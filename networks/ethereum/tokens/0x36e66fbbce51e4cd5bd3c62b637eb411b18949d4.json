@@ -1,0 +1,14 @@
+{
+  "CMCslug": "omni-network",
+  "decimals": 18,
+  "mldId": "ethereum-OMNI-0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4",
+  "orgName": "",
+  "orgUrl": "https://omni.network/",
+  "tokenAddress": "0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4",
+  "tokenColorTheme": 22,
+  "tokenIcon": "/static/tokens/OMNI.svg",
+  "tokenName": "Omni Network",
+  "tokenTicker": "OMNI",
+  "tokenType": "ERC20",
+  "tags": []
+}
