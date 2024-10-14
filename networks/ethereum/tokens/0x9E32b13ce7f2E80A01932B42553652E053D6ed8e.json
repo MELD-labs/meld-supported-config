@@ -1,0 +1,14 @@
+{
+  "CMCslug": "metisdao",
+  "decimals": 18,
+  "mldId": "ethereum-METIS-0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+  "orgName": "",
+  "orgUrl": "https://www.metis.io/",
+  "tokenAddress": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+  "tokenColorTheme": 22,
+  "tokenIcon": "/static/tokens/METIS.svg",
+  "tokenName": "Metis",
+  "tokenTicker": "METIS",
+  "tokenType": "ERC20",
+  "tags": []
+}
