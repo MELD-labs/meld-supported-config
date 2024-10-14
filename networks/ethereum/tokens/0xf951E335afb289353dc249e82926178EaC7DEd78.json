@@ -1,0 +1,14 @@
+{
+  "CMCslug": "swell-sweth",
+  "decimals": 18,
+  "mldId": "ethereum-swETH-0xf951E335afb289353dc249e82926178EaC7DEd78",
+  "orgName": "",
+  "orgUrl": "https://swellnetwork.io/",
+  "tokenAddress": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+  "tokenColorTheme": 5,
+  "tokenIcon": "/static/tokens/SWETH.svg",
+  "tokenName": "SWETH",
+  "tokenTicker": "swETH",
+  "tokenType": "ERC20",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "GRASS",
+  "tokenAddress": "0x65bBbD80831D38c181886a4E17a78a897a328BE4",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "touching grass",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "mepe",
+  "authorAddress": "",
+  "maxSupply": 16,
+  "mldId": "meld-GRASS-0x65bBbD80831D38c181886a4E17a78a897a328BE4",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "mepe",
+  "orgUrl": "https://mepe.wtf"
+}

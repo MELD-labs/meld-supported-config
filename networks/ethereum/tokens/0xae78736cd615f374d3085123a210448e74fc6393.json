@@ -1,0 +1,14 @@
+{
+  "CMCslug": "rocket-pool-eth",
+  "decimals": 18,
+  "mldId": "ethereum-RETH-0xae78736cd615f374d3085123a210448e74fc6393",
+  "orgName": "",
+  "orgUrl": "https://rocketpool.net/",
+  "tokenAddress": "0xae78736cd615f374d3085123a210448e74fc6393",
+  "tokenColorTheme": 9,
+  "tokenIcon": "/static/tokens/rocket-pool-eth.svg",
+  "tokenName": "Rocket Pool ETH",
+  "tokenTicker": "RETH",
+  "tokenType": "ERC20",
+  "tags": []
+}
