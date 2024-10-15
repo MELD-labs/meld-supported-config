@@ -1,0 +1,14 @@
+{
+  "CMCslug": "quant",
+  "decimals": 18,
+  "mldId": "ethereum-QNT-0x4a220e6096b25eadb88358cb44068a3248254675",
+  "orgName": "",
+  "orgUrl": "https://quant.network/",
+  "tokenAddress": "0x4a220e6096b25eadb88358cb44068a3248254675",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/qnt.svg",
+  "tokenName": "Quant",
+  "tokenTicker": "QNT",
+  "tokenType": "ERC20",
+  "tags": []
+}

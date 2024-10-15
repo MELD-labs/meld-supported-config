@@ -1,0 +1,14 @@
+{
+  "CMCslug": "ethereum-name-service",
+  "decimals": 18,
+  "mldId": "ethereum-ENS-0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+  "orgName": "",
+  "orgUrl": "https://ens.domains/",
+  "tokenAddress": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+  "tokenColorTheme": 2,
+  "tokenIcon": "/static/tokens/ens.svg",
+  "tokenName": "Ethereum Name Service",
+  "tokenTicker": "ENS",
+  "tokenType": "ERC20",
+  "tags": []
+}
