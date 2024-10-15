@@ -1,0 +1,14 @@
+{
+  "CMCslug": "mog-coin",
+  "decimals": 18,
+  "mldId": "ethereum-MOG-0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
+  "orgName": "",
+  "orgUrl": "https://www.mogcoin.xyz/",
+  "tokenAddress": "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
+  "tokenColorTheme": 21,
+  "tokenIcon": "/static/tokens/MOG.png",
+  "tokenName": "Mog Coin",
+  "tokenTicker": "MOG",
+  "tokenType": "ERC20",
+  "tags": []
+}

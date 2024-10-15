@@ -1,0 +1,14 @@
+{
+  "CMCslug": "first-neiro-on-ethereum",
+  "decimals": 18,
+  "mldId": "ethereum-NEIRO-0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+  "orgName": "",
+  "orgUrl": "https://www.neiroeth.io/",
+  "tokenAddress": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+  "tokenColorTheme": 9,
+  "tokenIcon": "/static/tokens/NEIRO.png",
+  "tokenName": "First Neiro On Ethereum",
+  "tokenTicker": "NEIRO",
+  "tokenType": "ERC20",
+  "tags": []
+}
