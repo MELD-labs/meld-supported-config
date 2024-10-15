@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "MELDFLAMENCO",
+  "tokenAddress": "0xABCe3D6F96FcF910D63d70f5DbB3e3DD3e4A6F48",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "MELD Flamenco",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "",
+  "authorAddress": "",
+  "maxSupply": 72,
+  "mldId": "meld-MELDFLAMENCO-0xABCe3D6F96FcF910D63d70f5DbB3e3DD3e4A6F48",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "",
+  "orgUrl": ""
+}

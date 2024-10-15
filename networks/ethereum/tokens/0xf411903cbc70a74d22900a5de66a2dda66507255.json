@@ -1,0 +1,14 @@
+{
+  "CMCslug": "verasity",
+  "decimals": 18,
+  "mldId": "ethereum-VRA-0xf411903cbc70a74d22900a5de66a2dda66507255",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xf411903cbc70a74d22900a5de66a2dda66507255",
+  "tokenColorTheme": 18,
+  "tokenIcon": "/static/tokens/verasity.svg",
+  "tokenName": "Verasity",
+  "tokenTicker": "VRA",
+  "tokenType": "ERC20",
+  "tags": []
+}
