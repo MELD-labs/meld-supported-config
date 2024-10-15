@@ -1,0 +1,14 @@
+{
+  "CMCslug": "aethir",
+  "decimals": 18,
+  "mldId": "ethereum-ATH-0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
+  "orgName": "Aethir",
+  "orgUrl": "https://aethir.com/",
+  "tokenAddress": "0xbe0ed4138121ecfc5c0e56b40517da27e6c5226b",
+  "tokenColorTheme": 5,
+  "tokenIcon": "/static/tokens/ATH.png",
+  "tokenName": "ATH",
+  "tokenTicker": "ATH",
+  "tokenType": "ERC20",
+  "tags": []
+}
