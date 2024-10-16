@@ -1,0 +1,14 @@
+{
+  "CMCslug": "coti",
+  "decimals": 18,
+  "mldId": "ethereum-COTI-0xDDB3422497E61e13543BeA06989C0789117555c5",
+  "orgName": "COTI",
+  "orgUrl": "https://coti.io/",
+  "tokenAddress": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+  "tokenColorTheme": 22,
+  "tokenIcon": "/static/tokens/COTI.png",
+  "tokenName": "COTI",
+  "tokenTicker": "COTI",
+  "tokenType": "ERC20",
+  "tags": []
+}
