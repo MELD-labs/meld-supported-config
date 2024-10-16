@@ -7,7 +7,7 @@
   "tokenAddress": "native",
   "tokenColorTheme": 19,
   "tokenIcon": "/static/tokens/ETH.svg",
-  "tokenName": "Ether",
+  "tokenName": "Ethereum",
   "tokenTicker": "ETH",
   "tokenType": "native-evm",
   "tags": []

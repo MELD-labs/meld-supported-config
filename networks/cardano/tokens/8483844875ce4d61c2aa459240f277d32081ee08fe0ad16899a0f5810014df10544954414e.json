@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-TITAN-8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
+    "orgName": "House of Titans",
+    "orgUrl": "https://houseoftitans.io/",
+    "tokenAddress": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
+    "tokenColorTheme": 15,
+    "tokenIcon": "/static/tokens/TITAN.svg",
+    "tokenName": "TITAN",
+    "tokenTicker": "TITAN",
+    "tokenType": "CNT",
+    "tags": []
+}
