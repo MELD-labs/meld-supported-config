@@ -1,0 +1,14 @@
+{
+  "CMCslug": "pepecoin",
+  "decimals": 18,
+  "mldId": "ethereum-PEPECOIN-0xA9E8aCf069C58aEc8825542845Fd754e41a9489A",
+  "orgName": "",
+  "orgUrl": "https://pepecoin.io/",
+  "tokenAddress": "0xA9E8aCf069C58aEc8825542845Fd754e41a9489A",
+  "tokenColorTheme": 13,
+  "tokenIcon": "/static/tokens/PEPECOIN.png",
+  "tokenName": "PepeCoin",
+  "tokenTicker": "PEPECOIN",
+  "tokenType": "ERC20",
+  "tags": []
+}
