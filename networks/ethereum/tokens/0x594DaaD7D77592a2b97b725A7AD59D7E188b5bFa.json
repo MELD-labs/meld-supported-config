@@ -1,0 +1,14 @@
+{
+  "CMCslug": "apu-apustaja",
+  "decimals": 18,
+  "mldId": "ethereum-APU-0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa",
+  "orgName": "",
+  "orgUrl": "https://apu.com/",
+  "tokenAddress": "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa",
+  "tokenColorTheme": 13,
+  "tokenIcon": "/static/tokens/APU.png",
+  "tokenName": "Apu Apustaja",
+  "tokenTicker": "APU",
+  "tokenType": "ERC20",
+  "tags": []
+}
