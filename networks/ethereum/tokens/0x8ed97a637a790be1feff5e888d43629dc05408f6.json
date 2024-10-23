@@ -6,7 +6,7 @@
   "orgUrl": "https://www.npc.com/",
   "tokenAddress": "0x8ed97a637a790be1feff5e888d43629dc05408f6",
   "tokenColorTheme": 22,
-  "tokenIcon": "/static/tokens/TRUMP.svg",
+  "tokenIcon": "/static/tokens/TRUMP.png",
   "tokenName": "Non-Playable Coin",
   "tokenTicker": "NPC",
   "tokenType": "ERC20",
