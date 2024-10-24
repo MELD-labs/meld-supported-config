@@ -1,0 +1,14 @@
+{
+    "CMCslug": "tangent",
+    "decimals": 6,
+    "mldId": "cardano-TANG-e2087044f1a5028aec705eb05609370754d64587adbdc27eeb33005854414e47",
+    "orgName": "Tangent Protocol",
+    "orgUrl": "https://tangent.art/",
+    "tokenAddress": "e2087044f1a5028aec705eb05609370754d64587adbdc27eeb33005854414e47",
+    "tokenColorTheme": 6,
+    "tokenIcon": "/static/tokens/TANG.png",
+    "tokenName": "Tangent",
+    "tokenTicker": "TANG",
+    "tokenType": "CNT",
+    "tags": []
+}
