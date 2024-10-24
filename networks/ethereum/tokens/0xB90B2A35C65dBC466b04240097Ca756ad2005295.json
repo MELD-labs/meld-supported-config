@@ -1,0 +1,14 @@
+{
+  "CMCslug": "bobo-coin",
+  "decimals": 18,
+  "mldId": "ethereum-BOBO-0xB90B2A35C65dBC466b04240097Ca756ad2005295",
+  "orgName": "Bobo The Bear",
+  "orgUrl": "https://www.bobothebear.io/",
+  "tokenAddress": "0xB90B2A35C65dBC466b04240097Ca756ad2005295",
+  "tokenColorTheme": 17,
+  "tokenIcon": "/static/tokens/BOBO.png",
+  "tokenName": "BOBO",
+  "tokenTicker": "BOBO",
+  "tokenType": "ERC20",
+  "tags": []
+}

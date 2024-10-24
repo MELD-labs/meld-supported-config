@@ -1,0 +1,14 @@
+{
+  "CMCslug": "harrypotterobamasonic10inu-eth",
+  "decimals": 8,
+  "mldId": "ethereum-BITCOIN-0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
+  "orgName": "",
+  "orgUrl": "https://hpos10i.com/",
+  "tokenAddress": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
+  "tokenColorTheme": 21,
+  "tokenIcon": "/static/tokens/BITCOIN.png",
+  "tokenName": "HarryPotterObamaSonic10Inu",
+  "tokenTicker": "BITCOIN",
+  "tokenType": "ERC20",
+  "tags": []
+}

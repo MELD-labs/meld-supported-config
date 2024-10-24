@@ -1,0 +1,14 @@
+{
+  "CMCslug": "",
+  "decimals": 6,
+  "mldId": "cardano-MILK-afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb4d494c4b7632",
+  "orgName": "MuesliSwap",
+  "orgUrl": "https://muesliswap.com",
+  "tokenAddress": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb4d494c4b7632",
+  "tokenColorTheme": 12,
+  "tokenIcon": "/static/tokens/MILK.svg",
+  "tokenName": "MILKv2",
+  "tokenTicker": "MILK",
+  "tokenType": "CNT",
+  "tags": []
+}

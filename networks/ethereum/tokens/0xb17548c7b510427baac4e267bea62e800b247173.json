@@ -1,0 +1,14 @@
+{
+  "CMCslug": "swarm-markets",
+  "decimals": 18,
+  "mldId": "ethereum-SMT-0xb17548c7b510427baac4e267bea62e800b247173",
+  "orgName": "",
+  "orgUrl": "https://swarm.com/",
+  "tokenAddress": "0xb17548c7b510427baac4e267bea62e800b247173",
+  "tokenColorTheme": 22,
+  "tokenIcon": "/static/tokens/SWARM.svg",
+  "tokenName": "Swam Markets",
+  "tokenTicker": "SMT",
+  "tokenType": "ERC20",
+  "tags": []
+}

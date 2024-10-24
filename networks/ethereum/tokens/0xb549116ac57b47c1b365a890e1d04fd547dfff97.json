@@ -1,0 +1,14 @@
+{
+  "CMCslug": "mindai",
+  "decimals": 18,
+  "mldId": "ethereum-MDAI-0xb549116ac57b47c1b365a890e1d04fd547dfff97",
+  "orgName": "",
+  "orgUrl": "https://mindaiproject.com/",
+  "tokenAddress": "0xb549116ac57b47c1b365a890e1d04fd547dfff97",
+  "tokenColorTheme": 15,
+  "tokenIcon": "/static/tokens/MDAI.png",
+  "tokenName": "MindAI",
+  "tokenTicker": "MDAI",
+  "tokenType": "ERC20",
+  "tags": []
+}
