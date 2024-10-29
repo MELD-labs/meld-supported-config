@@ -1,0 +1,14 @@
+{
+  "CMCslug": "non-playable-coin",
+  "decimals": 18,
+  "mldId": "ethereum-NPC-0x8ed97a637a790be1feff5e888d43629dc05408f6",
+  "orgName": "Non-Playable Coin",
+  "orgUrl": "https://www.npc.com/",
+  "tokenAddress": "0x8ed97a637a790be1feff5e888d43629dc05408f6",
+  "tokenColorTheme": 22,
+  "tokenIcon": "/static/tokens/NPC.png",
+  "tokenName": "Non-Playable Coin",
+  "tokenTicker": "NPC",
+  "tokenType": "ERC20",
+  "tags": []
+}
