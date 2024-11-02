@@ -1,0 +1,14 @@
+{
+  "CMCslug": "gogopool",
+  "decimals": 18,
+  "mldId": "avalanche-GGP-0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+  "tokenColorTheme": 14,
+  "tokenIcon": "/static/tokens/GGP.png",
+  "tokenName": "GoGoPool",
+  "tokenTicker": "GGP",
+  "tokenType": "ERC20",
+  "tags": []
+}
