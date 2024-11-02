@@ -1,0 +1,14 @@
+{
+  "CMCslug": "stargate-finance",
+  "decimals": 18,
+  "mldId": "ethereum-STG-0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+  "orgName": "Stargate Finance",
+  "orgUrl": "https://stargate.finance",
+  "tokenAddress": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+  "tokenColorTheme": 11,
+  "tokenIcon": "/static/tokens/STG.svg",
+  "tokenName": "Stargate Finance",
+  "tokenTicker": "STG",
+  "tokenType": "ERC20",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 6,
+    "mldId": "cardano-OPTIM-e52964af4fffdb54504859875b1827b60ba679074996156461143dc14f5054494d",
+    "orgName": "Optim Finance",
+    "orgUrl": "https://optim.finance",
+    "tokenAddress": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc14f5054494d",
+    "tokenColorTheme": 2,
+    "tokenIcon": "/static/tokens/OPTIM.svg",
+    "tokenName": "OPTIM",
+    "tokenTicker": "OPTIM",
+    "tokenType": "CNT",
+    "tags": []
+}

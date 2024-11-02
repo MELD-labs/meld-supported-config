@@ -1,0 +1,14 @@
+{
+  "CMCslug": "safe1",
+  "decimals": 18,
+  "mldId": "ethereum-SAFE-0x5afe3855358e112b5647b952709e6165e1c1eeee",
+  "orgName": "",
+  "orgUrl": "https://safe.global/",
+  "tokenAddress": "0x5afe3855358e112b5647b952709e6165e1c1eeee",
+  "tokenColorTheme": 13,
+  "tokenIcon": "/static/tokens/SAFE.svg",
+  "tokenName": "Safe",
+  "tokenTicker": "SAFE",
+  "tokenType": "ERC20",
+  "tags": []
+}

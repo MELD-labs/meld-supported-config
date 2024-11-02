@@ -1,0 +1,18 @@
+{
+  "tokenTicker": "KMEPE",
+  "tokenAddress": "0xc86585fcEa0feA2839510BeD056A6381B116b088",
+  "tokenColorTheme": 1,
+  "tokenType": "ERC721",
+  "collectionName": "KEN × MEPE",
+  "groupedUnder": "",
+  "collectionIcon": "/static/undefined.jpg",
+  "authorsName": "Ken",
+  "authorAddress": "",
+  "maxSupply": 23,
+  "mldId": "meld-KMEPE-0xc86585fcEa0feA2839510BeD056A6381B116b088",
+  "chainId": 333000333,
+  "royalties": 0,
+  "tags": [],
+  "orgName": "mepe",
+  "orgUrl": "https://mepe.wtf"
+}
