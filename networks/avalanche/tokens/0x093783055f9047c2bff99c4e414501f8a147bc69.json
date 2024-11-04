@@ -1,0 +1,14 @@
+{
+  "CMCslug": "dexalot",
+  "decimals": 18,
+  "mldId": "avalanche-ALOT-0x093783055f9047c2bff99c4e414501f8a147bc69",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0x093783055f9047c2bff99c4e414501f8a147bc69",
+  "tokenColorTheme": 18,
+  "tokenIcon": "/static/tokens/ALOT.png",
+  "tokenName": "Dexalot",
+  "tokenTicker": "ALOT",
+  "tokenType": "ERC20",
+  "tags": []
+}

@@ -1,0 +1,14 @@
+{
+  "CMCslug": "frax",
+  "decimals": 18,
+  "mldId": "avalanche-FRAX-0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+  "orgName": "",
+  "orgUrl": "",
+  "tokenAddress": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+  "tokenColorTheme": 16,
+  "tokenIcon": "/static/tokens/FRAX.png",
+  "tokenName": "Frax",
+  "tokenTicker": "FRAX",
+  "tokenType": "ERC20",
+  "tags": []
+}
