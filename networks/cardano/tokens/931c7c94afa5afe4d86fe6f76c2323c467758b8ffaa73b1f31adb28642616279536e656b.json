@@ -1,0 +1,14 @@
+{
+    "CMCslug": "",
+    "decimals": 0,
+    "mldId": "cardano-BABYSNEK-931c7c94afa5afe4d86fe6f76c2323c467758b8ffaa73b1f31adb28642616279536e656b",
+    "orgName": "BabySNEK",
+    "orgUrl": "https://babysnek.io/",
+    "tokenAddress": "931c7c94afa5afe4d86fe6f76c2323c467758b8ffaa73b1f31adb28642616279536e656b",
+    "tokenColorTheme": 12,
+    "tokenIcon": "/static/tokens/BABYSNEK.png",
+    "tokenName": "BabySnek",
+    "tokenTicker": "BABYSNEK",
+    "tokenType": "CNT",
+    "tags": []
+}
